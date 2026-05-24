@@ -49,7 +49,7 @@
   },
   {
     "level_name": "ROBOT STOP",
-    "id": "122689486",
+    "id": 122689486,
     "difficulty": "Extreme Demon",
     "ticks": 3063,
     "tps": 240,
@@ -60,7 +60,7 @@
   },
   {
     "level_name": "Aerios",
-    "id": "111048577",
+    "id": 111048577,
     "difficulty": "Extreme Demon",
     "ticks": 10597,
     "tps": 240,
@@ -71,7 +71,7 @@
   },
   {
     "level_name": "eve",
-    "id": "111900395",
+    "id": 111900395,
     "difficulty": "Extreme Demon",
     "ticks": 3727,
     "tps": 240,
@@ -82,7 +82,7 @@
   },
   {
     "level_name": "The Elephants Foot",
-    "id": "114607234",
+    "id": 114607234,
     "difficulty": "Extreme Demon",
     "ticks": 5942,
     "tps": 240,
@@ -94,7 +94,7 @@
   },
   {
     "level_name": "Uhm Huh",
-    "id": "112426437",
+    "id": 112426437,
     "difficulty": "Extreme Demon",
     "ticks": 9434,
     "tps": 240,
@@ -106,7 +106,7 @@
   },
   {
     "level_name": "Ascend",
-    "id": "112426437",
+    "id": 112426437,
     "difficulty": "Extreme Demon",
     "ticks": 9434,
     "tps": 240,
@@ -117,7 +117,7 @@
   },
   {
     "level_name": "Null",
-    "id": "104031134",
+    "id": 104031134,
     "difficulty": "Extreme Demon",
     "ticks": 7067,
     "tps": 240,
@@ -129,7 +129,7 @@
   },
   {
     "level_name": "r a g e",
-    "id": "112834935",
+    "id": 112834935,
     "difficulty": "Extreme Demon",
     "ticks": 5528,
     "tps": 240,
@@ -140,7 +140,7 @@
   },
   {
     "level_name": "CaveOfTheScarletSky",
-    "id": "113224510",
+    "id": 113224510,
     "difficulty": "Extreme Demon",
     "ticks": 15456,
     "tps": 240,
@@ -152,7 +152,7 @@
   },
   {
     "level_name": "Pandora",
-    "id": "115809824",
+    "id": 115809824,
     "difficulty": "Extreme Demon",
     "ticks": 8406,
     "tps": 240,
@@ -163,7 +163,7 @@
   },
   {
     "level_name": "IWannaPlatformerList",
-    "id": "122391065",
+    "id": 122391065,
     "difficulty": "Extreme Demon",
     "ticks": 119573,
     "tps": 240,
@@ -174,7 +174,7 @@
   },
   {
     "level_name": "Trials of Infinity",
-    "id": "109520668",
+    "id": 109520668,
     "difficulty": "Extreme Demon",
     "ticks": 30476,
     "tps": 240,
@@ -185,7 +185,7 @@
   },
   {
     "level_name": "Its MF Kaiji Sunday",
-    "id": "109540925",
+    "id": 109540925,
     "difficulty": "Extreme Demon",
     "ticks": 2792,
     "tps": 240,
@@ -196,7 +196,7 @@
   },
   {
     "level_name": "FLORESCENCE",
-    "id": "112737943",
+    "id": 112737943,
     "difficulty": "Extreme Demon",
     "ticks": 13552,
     "tps": 240,
@@ -207,7 +207,7 @@
   },
   {
     "level_name": "Ruined",
-    "id": "99303885",
+    "id": 99303885,
     "difficulty": "Extreme Demon",
     "ticks": 3333,
     "tps": 240,
@@ -218,7 +218,7 @@
   },
   {
     "level_name": "Sedulous",
-    "id": "111126817",
+    "id": 111126817,
     "difficulty": "Extreme Demon",
     "ticks": 9120,
     "tps": 240,
@@ -229,7 +229,7 @@
   },
   {
     "level_name": "Diamonds For Dashers",
-    "id": "118798387",
+    "id": 118798387,
     "difficulty": "Extreme Demon",
     "ticks": 15543,
     "tps": 240,
