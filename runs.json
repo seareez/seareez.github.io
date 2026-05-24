@@ -249,7 +249,7 @@
   {
     "level_name": "Permafrost Peaks",
     "level_id": "97711467",
-    "difficulty": "No Victors (ILL)",
+    "difficulty": "Impossible",
     "ticks": 1963,
     "tps": 240,
     "authors": ["xnu"],
@@ -381,7 +381,7 @@
   {
     "level_name": " Ruined",
     "level_id": "97818318",
-    "difficulty": "No Victors (ILL)",
+    "difficulty": "Impossible",
     "ticks": 3333,
     "tps": 240,
     "authors": ["erzor"],
@@ -393,7 +393,7 @@
   {
     "level_name": "Candy Crush buff",
     "level_id": "98150495",
-    "difficulty": "No Victors (ILL)",
+    "difficulty": "Impossible",
     "ticks": 3459,
     "tps": 240,
     "authors": ["nhauqq"],
@@ -405,7 +405,7 @@
   {
     "level_name": "Exception",
     "level_id": "97940176",
-    "difficulty": "Humanly Impossible (PPPLL)",
+    "difficulty": "Impossible",
     "ticks": 3508,
     "tps": 240,
     "authors": ["Hyysh"],
@@ -705,7 +705,7 @@
   {
     "level_name": "Tower of Suffering",
     "level_id": "97940123",
-    "difficulty": "No Victors (ILL)",
+    "difficulty": "Impossible",
     "ticks": 6182,
     "tps": 240,
     "authors": ["VoidThreaderOG"],
@@ -837,7 +837,7 @@
   {
     "level_name": "Retray Platformer",
     "level_id": "97792432",
-    "difficulty": "Humanly Impossible (PPPLL)",
+    "difficulty": "Impossible",
     "ticks": 9073,
     "tps": 240,
     "authors": ["7312"],
@@ -993,7 +993,7 @@
   {
     "level_name": "Silent Hills",
     "level_id": "101235432",
-    "difficulty": "No Victors (ILL)",
+    "difficulty": "Impossible",
     "ticks": 14992,
     "tps": 240,
     "authors": ["walterberg"],
@@ -1113,7 +1113,7 @@
   {
     "level_name": "I WANNA KILL SANTETO",
     "level_id": "100234543",
-    "difficulty": "No Victors (ILL)",
+    "difficulty": "Impossible",
     "ticks": 21904,
     "tps": 240,
     "authors": ["DrakXD109"],
