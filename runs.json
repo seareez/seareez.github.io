@@ -1,22 +1,35 @@
 [
   {
-    "level_name": "Example Level",
-    "level_id": 123456789,
-    "difficulty": "Easy",
-    "ticks": 21600,
+    "level_name": "The Tower",
+    "level_id": 23,
+    "difficulty": "Normal",
+    "ticks": 15567,
     "tps": 240,
-    "authors": ["Me", "You"],
-    "video": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
-    "download": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
-    "format": "XYZ",
-    "date": "05/23/2026"
+    "authors": ["Melting Ice"],
+    "download": "https://drive.google.com/file/d/1jhBM3x_SEbkYs2NW_jfs_ADr2j8si7xq/view?usp=drive_link",
+    "format": "tcm",
+    "date": "07/15/2025"
   },
   {
-    "level_name": "Another Example",
-    "level_id": 85109832782,
+    "level_name": "The Sewers",
+    "level_id": 24,
     "difficulty": "Hard",
-    "ticks": 43202,
-    "authors": ["Just me"],
-    "date": "Jan 2 2025"
+    "ticks": 17347,
+    "tps": 240,
+    "authors": ["Melting Ice"],
+    "download": "https://drive.google.com/file/d/1d6rR9nZ3L80lMHklOJc2SrAqxsPo0ybV/view?usp=drive_link",
+    "format": "tcm",
+    "date": "05/31/2025"
+  },
+  {
+    "level_name": "The Cellar",
+    "level_id": 25,
+    "difficulty": "Harder",
+    "ticks": 18317,
+    "tps": 240,
+    "authors": ["Melting Ice"],
+    "download": "https://drive.google.com/file/d/1uLwJFJBK7PY4mfvnViKaaCUrsdHVLANB/view?usp=drive_link",
+    "format": "tcm",
+    "date": "12/19/2025"
   }
 ]
