@@ -1015,18 +1015,6 @@
     "date": "01/01/2025"
   },
   {
-    "level_name": "The Tower",
-    "level_id": "97818432",
-    "difficulty": "Hard",
-    "ticks": 15568,
-    "tps": 240,
-    "authors": ["RobTop"],
-    "video": "https://www.youtube.com/embed/RmNRYc1rxro",
-    "download": "",
-    "format": "",
-    "date": "01/01/2025"
-  },
-  {
     "level_name": "duAlist",
     "level_id": "97664321",
     "difficulty": "Hard Demon",
@@ -1058,42 +1046,6 @@
     "tps": 240,
     "authors": ["Woxius"],
     "video": false,
-    "download": "",
-    "format": "",
-    "date": "01/01/2025"
-  },
-  {
-    "level_name": "The Tower (100%)",
-    "level_id": "97642543",
-    "difficulty": "Hard",
-    "ticks": 17164,
-    "tps": 240,
-    "authors": ["RobTop"],
-    "video": "https://www.youtube.com/embed/vKeSCcIexhc",
-    "download": "",
-    "format": "",
-    "date": "01/01/2025"
-  },
-  {
-    "level_name": "The Sewers",
-    "level_id": "100234543",
-    "difficulty": "Harder",
-    "ticks": 17347,
-    "tps": 240,
-    "authors": ["RobTop"],
-    "video": false,
-    "download": "",
-    "format": "",
-    "date": "01/01/2025"
-  },
-  {
-    "level_name": "The Cellar",
-    "level_id": "101235432",
-    "difficulty": "Harder",
-    "ticks": 18343,
-    "tps": 240,
-    "authors": ["RobTop"],
-    "video": "https://www.youtube.com/embed/q7KeJFryZjI",
     "download": "",
     "format": "",
     "date": "01/01/2025"
@@ -1147,18 +1099,6 @@
     "date": "01/01/2025"
   },
   {
-    "level_name": "The Cellar (100%)",
-    "level_id": "97792432",
-    "difficulty": "Harder",
-    "ticks": 21128,
-    "tps": 240,
-    "authors": ["RobTop"],
-    "video": "https://www.youtube.com/embed/vKeSCcIexhc?start=179",
-    "download": "",
-    "format": "",
-    "date": "01/01/2025"
-  },
-  {
     "level_name": "Terminal Heaven",
     "level_id": "97940123",
     "difficulty": "Extreme Demon",
@@ -1167,18 +1107,6 @@
     "authors": ["G4lvatron"],
     "video": "https://www.youtube.com/embed/0WBmGtWY0dg",
     "download": false,
-    "format": "",
-    "date": "01/01/2025"
-  },
-  {
-    "level_name": "The Sewers (100%)",
-    "level_id": "97642543",
-    "difficulty": "Harder",
-    "ticks": 21500,
-    "tps": 240,
-    "authors": ["RobTop"],
-    "video": "https://www.youtube.com/embed/vKeSCcIexhc?start=80",
-    "download": "",
     "format": "",
     "date": "01/01/2025"
   },
