@@ -107,6 +107,7 @@
     "ticks": 9434,
     "tps": 240,
     "authors": ["Fuyu"],
+    "video": "https://youtu.be/I-uVlsrXbOw?si=QqTugv2vFK8b21Y1",
     "download": "https://drive.google.com/file/d/1DArSi0j0Ln7-xkxaTSv7Q6nwaZ5Kzw0Z/view?usp=drive_link",
     "format": "tcm",
     "date": "01/01/2026"
@@ -143,8 +144,8 @@
     "authors": ["sear"],
     "video": "https://www.youtube.com/watch?v=9YL3i5B-EH8",
     "download": "https://drive.google.com/file/d/1TMdRmiSLGVf-A8XPmYxUNjH97_WTCaUg/view?usp=sharing",
-    "format": "tcm",
-    "date": "01/01/2026"
+    "format": "gdr",
+    "date": "12/19/2024"
   },
   {
     "level_name": "Pandora",
@@ -241,10 +242,10 @@
     "ticks": 1342,
     "tps": 240,
     "authors": ["Fuyu"],
-    "video": "https://www.youtube.com/embed/JARp0rYwMWw",
-    "download": "",
-    "format": "",
-    "date": "01/01/2025"
+    "video": "https://youtu.be/JARp0rYwMWw?si=54InZNKgEUV4id-3",
+    "download": "https://cdn.discordapp.com/attachments/1222740229329522763/1232031790630310053/BRRRRRRRRRRRR.gdr?ex=6a149184&is=6a134004&hm=510e928ae8825c754ae80620708f3c441a9c0d5c04464c67bdfdd67a1ff8576e&",
+    "format": "gdr",
+    "date": "04/22/2024"
   },
   {
     "level_name": "Permafrost Peaks",
@@ -308,15 +309,15 @@
   },
   {
     "level_name": "Black Spot",
-    "level_id": "97792618",
+    "level_id": "98611700",
     "difficulty": "Extreme Demon",
     "ticks": 2558,
     "tps": 240,
     "authors": ["Aibyou"],
-    "video": "https://www.youtube.com/embed/VQuswwpGMKA",
-    "download": "",
-    "format": "",
-    "date": "01/01/2025"
+    "video": "https://www.youtube.com/watch?v=VQuswwpGMKA",
+    "download": "https://cdn.discordapp.com/attachments/1222740229329522763/1240459326275977306/blackspot.ybot?ex=6a143f06&is=6a12ed86&hm=199e6c12371646531174c7569f2786472adbbb335438748a47cf0c4407a6eab7&",
+    "format": "ybot",
+    "date": "05/15/2024"
   },
   {
     "level_name": "Square keys",
@@ -328,7 +329,7 @@
     "video": "https://www.youtube.com/embed/hZQjH8BF894",
     "download": "",
     "format": "",
-    "date": "01/01/2025"
+    "date": "01/01/2024"
   },
   {
     "level_name": "Bimba y Lola",
@@ -340,7 +341,7 @@
     "video": false,
     "download": "",
     "format": "",
-    "date": "01/01/2025"
+    "date": "01/01/2024"
   },
   {
     "level_name": "Wendys Revenge",
@@ -352,7 +353,7 @@
     "video": false,
     "download": "",
     "format": "",
-    "date": "01/01/2025"
+    "date": "01/01/2024"
   },
   {
     "level_name": "Tetris in GD",
@@ -364,7 +365,7 @@
     "video": "https://www.youtube.com/embed/iXbfgD9iXHw",
     "download": false,
     "format": "",
-    "date": "01/01/2025"
+    "date": "01/01/2024"
   },
   {
     "level_name": "Black Lotus",
@@ -392,27 +393,27 @@
   },
   {
     "level_name": "Candy Crush buff",
-    "level_id": "98150495",
+    "level_id": "98714164",
     "difficulty": "Impossible",
     "ticks": 3459,
     "tps": 240,
     "authors": ["Fuyu"],
-    "video": "https://www.youtube.com/embed/VMbq8jxNI9U",
-    "download": "",
-    "format": "",
-    "date": "01/01/2025"
+    "video": "https://youtu.be/VMbq8jxNI9U?si=JK7j1Q3UCYL1-x8P",
+    "download": "https://cdn.discordapp.com/attachments/1222740229329522763/1241383961322721400/Candy_Crush_buff.gdr?ex=6a145068&is=6a12fee8&hm=7eef10409db89e57ff74dc44154eb38ac1554d822a41aea39318ec1f2a98089e&",
+    "format": "gdr",
+    "date": "05/18/2024"
   },
   {
     "level_name": "Exception",
-    "level_id": "97940176",
+    "level_id": "100509834",
     "difficulty": "Impossible",
     "ticks": 3508,
     "tps": 240,
     "authors": ["Fuyu"],
-    "video": "https://www.youtube.com/embed/R3j9xc_HPWw",
-    "download": "",
-    "format": "",
-    "date": "01/01/2025"
+    "video": "https://youtu.be/R3j9xc_HPWw?si=N4f7pQACZJjCxznl",
+    "download": "https://cdn.discordapp.com/attachments/1222740229329522763/1239161681356259428/Exception.gdr?ex=6a14cc7f&is=6a137aff&hm=53cef03096c7992ead2f201f02498147bd4ce2026c59c436958e5a5b137b8cc6&",
+    "format": "gdr",
+    "date": "05/12/2024"
   },
   {
     "level_name": "Shimmering Sierra",
@@ -676,7 +677,7 @@
     "video": false,
     "download": "",
     "format": "",
-    "date": "01/01/2025"
+    "date": "01/01/2024"
   },
   {
     "level_name": "Launch Factory",
@@ -688,7 +689,7 @@
     "video": false,
     "download": "",
     "format": "",
-    "date": "01/01/2025"
+    "date": "01/01/2024"
   },
   {
     "level_name": "Switchscapes",
@@ -700,7 +701,7 @@
     "video": "https://www.youtube.com/embed/jhO1Q4TAmtg",
     "download": "",
     "format": "",
-    "date": "01/01/2025"
+    "date": "01/01/2024"
   },
   {
     "level_name": "GD Tower Tiny Square",
@@ -712,7 +713,7 @@
     "video": false,
     "download": "",
     "format": "",
-    "date": "01/01/2025"
+    "date": "01/01/2024"
   },
   {
     "level_name": "Tornado",
@@ -917,6 +918,294 @@
     "download": "https://drive.google.com/file/d/1KEiO6-oDUKwog8ZHygSTqKNyD0660cCc/view?usp=drive_link",
     "format": "ybot",
     "date": "04/18/2024"
+  },
+  {
+    "level_name": "Tower Of Suffering",
+    "level_id": 99193438,
+    "difficulty": "Harder",
+    "ticks": 6182,
+    "tps": 240,
+    "authors": ["LucaGMD"],
+    "video": "https://youtu.be/OsRy1kPjne0",
+    "download": "https://cdn.discordapp.com/attachments/1222740229329522763/1226320934118359216/Tower_of_Suffering.gdr?ex=6a143a1e&is=6a12e89e&hm=8abeefadac3b6809f6e480bcc1ff6a21515fe841fbeb42f8eeefe9c2dbdc5d32&",
+    "format": "gdr",
+    "date": "04/06/2024"
+  },
+  {
+    "level_name": "Cl5u37r0ph0b1a",
+    "level_id": 102389658,
+    "difficulty": "Extreme Demon",
+    "ticks": 5288,
+    "tps": 240,
+    "authors": ["sear"],
+    "video": "https://youtu.be/WThB8qytfII",
+    "download": "https://cdn.discordapp.com/attachments/1222740229329522763/1226681703037403177/Claustrophobia.ybot?ex=6a14e15c&is=6a138fdc&hm=29072ea78fdf36e87fb8654b5b66b31779cb2a9f895797487098f8bf7cdf5eed&",
+    "format": "ybot",
+    "date": "04/08/2024"
+  },
+  {
+    "level_name": "Twenty Trials",
+    "level_id": 98780627,
+    "difficulty": "Easy Demon",
+    "ticks": 28987,
+    "tps": 240,
+    "authors": ["sear"],
+    "video": "https://youtu.be/qfikvAwNKjA",
+    "download": "https://cdn.discordapp.com/attachments/1222740229329522763/1227086775756001370/TwentyTrials.ybot?ex=6a14605d&is=6a130edd&hm=59d4e2a33ca3bfdc84659efc5610c8df3b24aa9c54fafc1dbba4af1536be6cbc&",
+    "format": "ybot",
+    "date": "04/08/2024"
+  },
+  {
+    "level_name": "Tower of Rage",
+    "level_id": 100782112,
+    "difficulty": "",
+    "ticks": 50989,
+    "tps": 360,
+    "authors": ["Swingcopter"],
+    "video": "https://youtu.be/AuwXkIkWUeE",
+    "download": "https://cdn.discordapp.com/attachments/1222740229329522763/1227422878375346298/Tower_of_Rage.ybot?ex=6a1447e2&is=6a12f662&hm=d4c1dfe833f47e1271958f7f9b9220e19768558f4080b215e7e677e762d3adbc&",
+    "format": "ybot",
+    "date": "04/09/2024"
+  },
+  {
+    "level_name": "Tower of Infinity",
+    "level_id": 97713011,
+    "difficulty": "Insane Demon",
+    "ticks": 27336,
+    "tps": 240,
+    "authors": ["sear"],
+    "video": "https://youtu.be/SuYyDskiNbM",
+    "download": "https://cdn.discordapp.com/attachments/1222740229329522763/1228438118215192628/TowerOfInfinity.ybot?ex=6a14ada6&is=6a135c26&hm=bea6df2ba08e846ff13b11487b2c70a96ced26e2f9ef8ef9b7994337c697ce93&",
+    "format": "ybot",
+    "date": "04/12/2024"
+  },
+  {
+    "level_name": "Idling Somewhere",
+    "level_id": 99170473,
+    "difficulty": "Easy Demon",
+    "ticks": 7952,
+    "tps": 240,
+    "authors": ["sear"],
+    "video": "https://youtu.be/orEEe6DG_4A",
+    "download": "https://cdn.discordapp.com/attachments/1222740229329522763/1228625836907823124/IdlingSomewhere.ybot?ex=6a14b3ba&is=6a13623a&hm=6a3852907c0164eb64c8c25f6178cf012e8e75533efa8d48b3f1771a7f73f053&",
+    "format": "ybot",
+    "date": "04/13/2024"
+  },
+  {
+    "level_name": "Jet Lag",
+    "level_id": 97536552,
+    "difficulty": "Easy Demon",
+    "ticks": 11868,
+    "tps": 240,
+    "authors": ["triplea"],
+    "video": "https://youtu.be/Dcc2wFZePHY?si=--ZDn0a4ANv7YFSg",
+    "download": "https://cdn.discordapp.com/attachments/1222740229329522763/1230591895734849666/jet_lag.ybot?ex=6a149a83&is=6a134903&hm=ff7921e4ae7ccb14e8b85d714a49762c3d5c5056a234620ad4bf1e8cd42520b2&",
+    "format": "ybot",
+    "date": "04/18/2024"
+  },
+  {
+    "level_name": "Worlds Hardest Game",
+    "level_id": 97683923,
+    "difficulty": "Extreme Demon",
+    "ticks": 92264,
+    "tps": 240,
+    "authors": ["noob"],
+    "video": "https://www.youtube.com/watch?v=0_Q8RtvUjAo",
+    "download": "https://cdn.discordapp.com/attachments/1222740229329522763/1231170865027219476/worlds_hardest_game.ybot?ex=6a14bb78&is=6a1369f8&hm=d2ddd425c6dbbae1a52be2edbff57d1d59f7592e098f3b1726cfded7c6bf9570&",
+    "format": "",
+    "date": "04/20/2024"
+  },
+  {
+    "level_name": "I WANNA KILL THE SANTENO",
+    "level_id": 100638312,
+    "difficulty": "Impossible",
+    "ticks": 23011,
+    "tps": 240,
+    "authors": ["LucaGMD"],
+    "video": "https://youtu.be/Bw1Lrh3sSks",
+    "download": "https://cdn.discordapp.com/attachments/1222740229329522763/1231407158776696923/I_WANNA_KILL_THE_SANTENO.gdr?ex=6a144609&is=6a12f489&hm=a01c96809944ef20190ff8706d2cd6b511afb3c9b2e071072885972de36fd1b9&",
+    "format": "gdr",
+    "date": "04/20/2024"
+  },
+{
+    "level_name": "Tower of Bread 12",
+    "level_id": 99999759,
+    "difficulty": "Insane",
+    "ticks": 3314,
+    "tps": 240,
+    "authors": ["Fuyu"],
+    "video": "https://youtu.be/QuayUxunOw0?si=n0Z5NCxgf4pS-waj",
+    "download": "https://cdn.discordapp.com/attachments/1222740229329522763/1231635040618680431/Tower_of_Bread_12.gdr?ex=6a147184&is=6a132004&hm=c2ed8d97796f87a5595ea35bcd68799de5c2e90fa95e3b68754218674124da53&",
+    "format": "gdr",
+    "date": "04/21/2024"
+  },
+  {
+    "level_name": "Tower of Geometry",
+    "level_id": 97787386,
+    "difficulty": "Insane Demon",
+    "ticks": 40974,
+    "tps": 240,
+    "authors": ["noob"],
+    "video": "https://www.youtube.com/watch?v=2uZZ7NgaB54",
+    "download": "https://cdn.discordapp.com/attachments/1222740229329522763/1231650434595160174/geometry_tower.ybot?ex=6a147fda&is=6a132e5a&hm=1322dbefeac53d9e2c48eeb55fbdb591cf8093609379684249ea49ea6d325000&",
+    "format": "ybot",
+    "date": "04/21/2024"
+  },
+  {
+    "level_name": "I WANNA KILL THE SANTENO",
+    "level_id": 100638312,
+    "difficulty": "Impossible",
+    "ticks": 21904,
+    "tps": 240,
+    "authors": ["sear"],
+    "video": "https://youtu.be/ShFu3KQ-_6A",
+    "download": "https://cdn.discordapp.com/attachments/1222740229329522763/1235806178227912814/IWKS.ybot?ex=6a1474f1&is=6a132371&hm=0b03578d2d296823b492db601491810aeb8bf6709ad5b8c28b0d5d8bd7606e47&",
+    "format": "gdr",
+    "date": "04/20/2024"
+  },
+  {
+    "level_name": "Exception",
+    "level_id": 100509834,
+    "difficulty": "Impossible",
+    "ticks": 3708,
+    "tps": 240,
+    "authors": ["sear"],
+    "video": "https://www.youtube.com/watch?v=VtZqXCOI5rk&lc=UgyVe_7eOtjLvFzXXT54AaABAg",
+    "download": "https://cdn.discordapp.com/attachments/1222740229329522763/1238755344814182481/Exception.ybot?ex=6a14a391&is=6a135211&hm=515ac040f1c81e8385cd9a10782937df42e1517af19fa27fc26d01158f7f0162&",
+    "format": "ybot",
+    "date": "05/11/2024"
+  },
+  {
+    "level_name": "Null",
+    "level_id": 104031134,
+    "difficulty": "Extreme Demon",
+    "ticks": 8223,
+    "tps": 240,
+    "authors": ["Aibyou"],
+    "video": "https://www.youtube.com/watch?v=cghcQ3lfff0",
+    "download": "https://cdn.discordapp.com/attachments/1222740229329522763/1238919490452848650/null.ybot?ex=6a1493b0&is=6a134230&hm=6ef97dae36da7b94aa6c9f78bb5f7ffb7d5cd4b8334ebb4fe1c7e439807bdc0b&",
+    "format": "ybot",
+    "date": "05/11/2024"
+  },
+  {
+    "level_name": "Jet Lag",
+    "level_id": 97536552,
+    "difficulty": "Easy Demon",
+    "ticks": 10426,
+    "tps": 240,
+    "authors": ["Fuyu"],
+    "video": "https://youtu.be/gT_MjJ-GUXM?si=9RVVBnYVO1uX3yCB",
+    "download": "https://cdn.discordapp.com/attachments/1222740229329522763/1239162080137838652/Jet_Lag.gdr?ex=6a14ccde&is=6a137b5e&hm=20dd9b994cc9e4b45a4dc1f06ce4a4cfe2e52a4d7a62b532915fa7fb7b18f323&",
+    "format": "gdr",
+    "date": "05/12/2024"
+  },
+  {
+    "level_name": "Switchscapes",
+    "level_id": 101298431,
+    "difficulty": "Hard Demon",
+    "ticks": 36198,
+    "tps": 240,
+    "authors": ["LawfulDmcBoo"],
+    "video": "https://www.youtube.com/watch?v=jhO1Q4TAmtg",
+    "download": "https://cdn.discordapp.com/attachments/1222740229329522763/1241585525077442650/Switchscapes_No_Master.gdr?ex=6a146360&is=6a1311e0&hm=59ac4cf2bc84dd823dbdeb34b7a9ab7b3aaf0efe86fa67fc8cacb969de2040ec&",
+    "format": "ybot",
+    "date": "05/18/2024"
+  },
+  {
+    "level_name": "22 Trials of Pain",
+    "level_id": 98228276,
+    "difficulty": "Extreme Demon",
+    "ticks": 30636,
+    "tps": 240,
+    "authors": ["LawfulDmcBoo"],
+    "video": "https://www.youtube.com/watch?v=AfdejvXHJAY",
+    "download": "https://cdn.discordapp.com/attachments/1222740229329522763/1242339369461878785/22_Trials_of_Pain.gdr?ex=6a147e73&is=6a132cf3&hm=c18655fef466051fe40064327b6b6523b901008cba6787c0a95a95f2c280ee29&",
+    "format": "gdr",
+    "date": "05/21/2024"
+  },
+  {
+    "level_name": "Bouncy Ball Expert (Coin)",
+    "level_id": 110625662,
+    "difficulty": "Insane Demon",
+    "ticks": 152325,
+    "tps": 240,
+    "authors": ["Spidapida"],
+    "video": "https://youtu.be/52j7lDfVlHE",
+    "download": "https://cdn.discordapp.com/attachments/1222740229329522763/1297892978513416303/bouncyballexpert.gdr?ex=6a143a87&is=6a12e907&hm=46862cbcf8f1c6fc83a0ad66e2f1ecd25d35eb71d0d37f571405099bbaa02522&",
+    "format": "gdr",
+    "date": "10/21/2024"
+  },
+  {
+    "level_name": "i wanna rob the top",
+    "level_id": 105299008,
+    "difficulty": "Extreme Demon",
+    "ticks": 28800,
+    "tps": 240,
+    "authors": ["Aibyou"],
+    "video": "https://www.youtube.com/watch?v=mvpaLnsqrKg",
+    "download": "https://cdn.discordapp.com/attachments/1222740229329522763/1298661501275734016/rob.ybot?ex=6a146345&is=6a1311c5&hm=f6db69049305acc75e46103244697d319df7f033525c5af3969f254ec994c116&",
+    "format": "ybot",
+    "date": "10/23/2024"
+  },
+  {
+    "level_name": "The Flipside",
+    "level_id": 100843339,
+    "difficulty": "Insane",
+    "ticks": 9919,
+    "tps": 240,
+    "authors": ["Taze"],
+    "video": "https://youtu.be/Ne-tw-G1hm8",
+    "download": "https://cdn.discordapp.com/attachments/1222740229329522763/1318075375581925517/The_Flipside.ybot?ex=6a147b9a&is=6a132a1a&hm=bdcd6aaeefa41972dd9e7ba70796d74dd4f9f18ed78809ec35ade0e84d7fc652&",
+    "format": "ybot",
+    "date": "12/15/2024"
+  },
+  {
+    "level_name": "CaveOfTheScarletSky",
+    "level_id": 113224510,
+    "difficulty": "Extreme Demon",
+    "ticks": 15778,
+    "tps": 240,
+    "authors": ["RichConnerGMN"],
+    "video": "https://youtu.be/LVt7CkEGUnQ",
+    "download": "",
+    "format": "",
+    "date": "12/19/2024"
+  },
+  {
+    "level_name": "CaveOfTheScarletSky",
+    "level_id": 113224510,
+    "difficulty": "Extreme Demon",
+    "ticks": 15460,
+    "tps": 240,
+    "authors": ["Fuyu"],
+    "video": "https://youtu.be/ZNtNtzWcMOI?si=dgHBQRAaXCjGGD_a",
+    "download": "",
+    "format": "",
+    "date": "12/20/2025"
+  },
+  {
+    "level_name": "Super Temu Guy",
+    "level_id": 108057924,
+    "difficulty": "Harder",
+    "ticks": 20280,
+    "tps": 240,
+    "authors": ["sear"],
+    "video": "https://youtu.be/Hp3DUrK-KfA",
+    "download": "https://cdn.discordapp.com/attachments/1222740229329522763/1347520296420249690/SuperTemuGuy.gdr?ex=6a14d0d2&is=6a137f52&hm=46d19c8b6de1e1dddf27e737b920cce1573e384b87bf41de778e8d262771a206&",
+    "format": "gdr",
+    "date": "03/07/2025"
+  },
+  {
+    "level_name": "US Healthcare",
+    "level_id": "",
+    "difficulty": "Impossible",
+    "ticks": 6017,
+    "tps": 240,
+    "authors": ["Fuyu"],
+    "video": "https://youtu.be/QKy3MCQEODM?si=PGa5IfH8_4yN0R0o",
+    "download": "https://cdn.discordapp.com/attachments/1222740229329522763/1347909429902704712/US_Healthcare.tcm?ex=6a1440fb&is=6a12ef7b&hm=03fcc69cc6db72479832a38b2b7c8ff018eac595272ecc076a8c2b059079a9a6&",
+    "format": "tcm",
+    "date": "03/08/2025"
   }
 
 ]
