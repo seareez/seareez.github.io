@@ -10,6 +10,7 @@ const inputs = {
   "f-time-to": document.querySelector("#f-time-to"),
   "f-tps-from": document.querySelector("#f-tps-from"),
   "f-tps-to": document.querySelector("#f-tps-to"),
+  "f-authors-name": document.querySelector("#f-authors-name"),
   "f-authors-from": document.querySelector("#f-authors-from"),
   "f-authors-to": document.querySelector("#f-authors-to"),
   "f-has-video": document.querySelector("#f-has-video"),
@@ -101,7 +102,7 @@ function filterRuns () {
     r?.level_name?.toString().toLowerCase().includes(fLevel?.toLowerCase()) || 
     r?.level_id?.toString().includes(fLevel)
   );
-
+  
   const fDifficulty = inputs["f-difficulty"].value.toString().trim().toLowerCase();
   filteredRuns = filteredRuns.filter(r =>
     r.difficulty.toString().toLowerCase().includes(fDifficulty)
@@ -125,6 +126,11 @@ function filterRuns () {
     if (fTPSTo && (r.tps || 240) > fTPSTo) pass = false;
     return pass;
   });
+
+  const fAuthorName = inputs["f-authors-name"].value.toString().trim().toLowerCase();
+  filteredRuns = filteredRuns.filter(r =>
+    r.authors.join(", ").toLowerCase().includes(fAuthorName)
+  );
 
   const fAuthorsFrom = Number(inputs["f-authors-from"].value.toString().trim());
   const fAuthorsTo = Number(inputs["f-authors-to"].value.toString().trim());

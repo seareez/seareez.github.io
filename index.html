@@ -78,24 +78,24 @@
       -webkit-appearance: none;
       margin: 0;
     }
+    @media only screen and (max-width: 800px) {
+      #table-container {
+        width: 100%;
+      }
+      #filters {
+        position: relative;
+        width: 100%;
+        top: unset;
+        right: unset;
+        margin-bottom: 20px;
+      }
+      input[type="number"] {
+        width: 3rem;
+      }
+    }
   </style>
 </head>
 <body>
-
-  <div id="table-container">
-    <table id="main-table">
-      <tr id="table-header">
-        <th>Level</th>
-        <th>Difficulty</th>
-        <th>Time</th>
-        <th>TPS</th>
-        <th>Author(s)</th>
-        <th>Video</th>
-        <th>Download</th>
-        <th>Date</th>
-      </tr>
-    </table>
-  </div>
 
   <div id="filters">
     <h3>Sort order</h3>
@@ -124,6 +124,9 @@
     <p>TPS:
       <input type="number" id="f-tps-from" placeholder="from"> – <input id="f-tps-to" type="number" placeholder="to">
     </p>
+    <p>Author name:
+      <input type="text" id="f-authors-name" placeholder="Name(s) of author(s)">
+    </p>
     <p>Author count:
       <input type="number" id="f-authors-from" placeholder="from"> – <input id="f-authors-to" type="number" placeholder="to">
     </p>
@@ -144,6 +147,21 @@
     <p>Date:
       <input id="f-date-from" type="date"> – <input id="f-date-to" type="date">
     </p>
+  </div>
+
+  <div id="table-container">
+    <table id="main-table">
+      <tr id="table-header">
+        <th>Level</th>
+        <th>Difficulty</th>
+        <th>Time</th>
+        <th>TPS</th>
+        <th>Author(s)</th>
+        <th>Video</th>
+        <th>Download</th>
+        <th>Date</th>
+      </tr>
+    </table>
   </div>
 
   <script src="main.js"></script>
