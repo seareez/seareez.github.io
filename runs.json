@@ -78,7 +78,7 @@
   },
   {
     "level_name": "The Elephants Foot",
-    "level_id": 114607234,
+    "level_id": 104896652,
     "difficulty": "Extreme Demon",
     "ticks": 5942,
     "tps": 240,
@@ -102,7 +102,7 @@
   },
   {
     "level_name": "Ascend",
-    "level_id": 112426437,
+    "level_id": 124303654,
     "difficulty": "Extreme Demon",
     "ticks": 9434,
     "tps": 240,
@@ -249,7 +249,7 @@
   },
   {
     "level_name": "Permafrost Peaks",
-    "level_id": "97711467",
+    "level_id": "98852405",
     "difficulty": "Impossible",
     "ticks": 1963,
     "tps": 240,
@@ -261,7 +261,7 @@
   },
   {
     "level_name": "YiiK A PostAlbertRPG",
-    "level_id": "100344445",
+    "level_id": "100353881",
     "difficulty": "Extreme Demon",
     "ticks": 2226,
     "tps": 240,
@@ -273,7 +273,7 @@
   },
   {
     "level_name": "VENUS",
-    "level_id": "102874945",
+    "level_id": "97524369",
     "difficulty": "Extreme Demon",
     "ticks": 2295,
     "tps": 240,
@@ -285,7 +285,7 @@
   },
   {
     "level_name": "Sunken Pier",
-    "level_id": "102927236",
+    "level_id": "97534859",
     "difficulty": "Extreme Demon",
     "ticks": 2376,
     "tps": 240,
@@ -297,7 +297,7 @@
   },
   {
     "level_name": "Infinity Trial",
-    "level_id": "102581691",
+    "level_id": "99978836",
     "difficulty": "Extreme Demon",
     "ticks": 2507,
     "tps": 240,
@@ -321,7 +321,7 @@
   },
   {
     "level_name": "Square keys",
-    "level_id": "98129759",
+    "level_id": "101007574",
     "difficulty": "Normal",
     "ticks": 2709,
     "tps": 240,
@@ -333,43 +333,41 @@
   },
   {
     "level_name": "Bimba y Lola",
-    "level_id": "102581452",
+    "level_id": "97704668",
     "difficulty": "Harder",
     "ticks": 3134,
     "tps": 240,
     "authors": ["ShadowyZephyr"],
-    "video": false,
     "download": "",
     "format": "",
     "date": "01/01/2024"
   },
   {
     "level_name": "Wendys Revenge",
-    "level_id": "102558667",
+    "level_id": "97687438",
     "difficulty": "Extreme Demon",
     "ticks": 3311,
     "tps": 240,
     "authors": ["Fuyu"],
-    "video": false,
     "download": "",
     "format": "",
     "date": "01/01/2024"
   },
   {
     "level_name": "Tetris in GD",
-    "level_id": "98075305",
+    "level_id": "98867410",
     "difficulty": "Harder",
     "ticks": 3355,
     "tps": 240,
     "authors": ["ShadowyZephyr"],
     "video": "https://www.youtube.com/embed/iXbfgD9iXHw",
-    "download": false,
+
     "format": "",
     "date": "01/01/2024"
   },
   {
     "level_name": "Black Lotus",
-    "level_id": "98322699",
+    "level_id": "99989185",
     "difficulty": "Extreme Demon",
     "ticks": 3358,
     "tps": 240,
@@ -381,7 +379,7 @@
   },
   {
     "level_name": "Ruined",
-    "level_id": "97818318",
+    "level_id": "99303885",
     "difficulty": "Impossible",
     "ticks": 3333,
     "tps": 240,
@@ -417,19 +415,18 @@
   },
   {
     "level_name": "Shimmering Sierra",
-    "level_id": "99335436",
+    "level_id": "97627454",
     "difficulty": "Harder",
     "ticks": 3666,
     "tps": 240,
     "authors": ["ShadowyZephyr"],
-    "video": false,
     "download": "",
     "format": "",
     "date": "01/01/2025"
   },
   {
     "level_name": "Scarlet Basement",
-    "level_id": "98544452",
+    "level_id": "97543818",
     "difficulty": "Extreme Demon",
     "ticks": 3712,
     "tps": 240,
@@ -437,35 +434,33 @@
     "video": "https://www.youtube.com/embed/VhwNPuxVYLo",
     "download": "",
     "format": "",
-    "date": "01/01/2025"
+    "date": "01/30/2024"
   },
   {
     "level_name": "Transformative Area",
-    "level_id": "100223545",
+    "level_id": "97676478",
     "difficulty": "Hard",
     "ticks": 3763,
     "tps": 240,
     "authors": ["ShadowyZephyr"],
-    "video": false,
     "download": "",
     "format": "",
     "date": "01/01/2025"
   },
   {
     "level_name": "Get The Apple",
-    "level_id": "100435432",
+    "level_id": "97596839",
     "difficulty": "Hard",
     "ticks": 3950,
     "tps": 240,
     "authors": ["ShadowyZephyr"],
-    "video": false,
     "download": "",
     "format": "",
     "date": "01/01/2025"
   },
   {
     "level_name": "The Tower XXII",
-    "level_id": "102558452",
+    "level_id": "97692058",
     "difficulty": "Extreme Demon",
     "ticks": 3992,
     "tps": 240,
@@ -477,7 +472,7 @@
   },
   {
     "level_name": "The Pit",
-    "level_id": "98322432",
+    "level_id": "99066482",
     "difficulty": "Extreme Demon",
     "ticks": 3882,
     "tps": 240,
@@ -489,36 +484,33 @@
   },
   {
     "level_name": "Getting Over It",
-    "level_id": "97818432",
+    "level_id": "97480163",
     "difficulty": "Insane Demon",
     "ticks": 4078,
     "tps": 240,
     "authors": ["ShadowyZephyr"],
-    "video": false,
     "download": "",
     "format": "",
     "date": "01/01/2025"
   },
   {
     "level_name": "Spartan Tower",
-    "level_id": "97664321",
+    "level_id": "97614556",
     "difficulty": "Hard Demon",
     "ticks": 4115,
     "tps": 240,
     "authors": ["zetex"],
-    "video": false,
     "download": "",
     "format": "",
     "date": "01/01/2025"
   },
   {
     "level_name": "climb",
-    "level_id": "101624652",
+    "level_id": "98881216",
     "difficulty": "Harder",
     "ticks": 4248,
     "tps": 240,
     "authors": ["ShadowyZephyr"],
-    "video": false,
     "download": "",
     "format": "",
     "date": "01/01/2025"
@@ -537,7 +529,7 @@
   },
   {
     "level_name": "I WANNA BE THE CRY",
-    "level_id": "101624652",
+    "level_id": "100424146",
     "difficulty": "Harder",
     "ticks": 4554,
     "tps": 240,
@@ -549,19 +541,18 @@
   },
   {
     "level_name": "Snowy Peaks",
-    "level_id": "101624652",
+    "level_id": "97943343",
     "difficulty": "Harder",
     "ticks": 4689,
     "tps": 240,
     "authors": ["ShadowyZephyr"],
-    "video": false,
     "download": "",
     "format": "",
     "date": "01/01/2025"
   },
   {
     "level_name": "ETERNAL ENDING",
-    "level_id": "101624652",
+    "level_id": "98316946",
     "difficulty": "Harder",
     "ticks": 4962,
     "tps": 240,
@@ -573,19 +564,18 @@
   },
   {
     "level_name": "Citadel Climb",
-    "level_id": "101624652",
+    "level_id": "97627452",
     "difficulty": "Harder",
     "ticks": 4955,
     "tps": 240,
     "authors": ["ShadowyZephyr"],
-    "video": false,
     "download": "",
     "format": "",
     "date": "01/01/2025"
   },
   {
     "level_name": "ftrial",
-    "level_id": "101624652",
+    "level_id": "97570694",
     "difficulty": "Harder",
     "ticks": 5104,
     "tps": 240,
@@ -597,31 +587,29 @@
   },
   {
     "level_name": "Disco Dungeon",
-    "level_id": "101624652",
+    "level_id": "97638770",
     "difficulty": "Harder",
     "ticks": 5242,
     "tps": 240,
     "authors": ["ShadowyZephyr"],
-    "video": false,
     "download": "",
     "format": "",
     "date": "01/01/2025"
   },
   {
     "level_name": "Ancient",
-    "level_id": "101624652",
+    "level_id": "97818880",
     "difficulty": "Harder",
     "ticks": 5368,
     "tps": 240,
     "authors": ["ShadowyZephyr"],
-    "video": false,
     "download": "",
     "format": "",
     "date": "01/01/2025"
   },
   {
     "level_name": "Infinity Trials",
-    "level_id": "101624652",
+    "level_id": "97730554",
     "difficulty": "Harder",
     "ticks": 5265,
     "tps": 240,
@@ -633,7 +621,7 @@
   },
   {
     "level_name": "Cl5u37r0ph0b1a",
-    "level_id": "101624652",
+    "level_id": "102389658",
     "difficulty": "Harder",
     "ticks": 5287,
     "tps": 240,
@@ -645,7 +633,7 @@
   },
   {
     "level_name": "Smelvin Teahouse",
-    "level_id": "101624652",
+    "level_id": "97949737",
     "difficulty": "Harder",
     "ticks": 5430,
     "tps": 240,
@@ -657,36 +645,33 @@
   },
   {
     "level_name": "Super Mario Bros Lv1",
-    "level_id": "101624652",
+    "level_id": "97978413",
     "difficulty": "Harder",
     "ticks": 5436,
     "tps": 240,
     "authors": ["C00L"],
     "video": "https://www.youtube.com/embed/mwpsSyQu9oY",
-    "download": false,
     "format": "",
     "date": "01/01/2025"
   },
   {
     "level_name": "ShiftLeaf Temple",
-    "level_id": "101624652",
+    "level_id": "98079761",
     "difficulty": "Harder",
     "ticks": 5478,
     "tps": 240,
     "authors": ["ShadowyZephyr"],
-    "video": false,
     "download": "",
     "format": "",
     "date": "01/01/2024"
   },
   {
     "level_name": "Launch Factory",
-    "level_id": "101624652",
+    "level_id": "97978413",
     "difficulty": "Harder",
     "ticks": 5478,
     "tps": 240,
     "authors": ["ShadowyZephyr"],
-    "video": false,
     "download": "",
     "format": "",
     "date": "01/01/2024"
@@ -710,7 +695,6 @@
     "ticks": 36446,
     "tps": 240,
     "authors": ["ShadowyZephyr"],
-    "video": false,
     "download": "",
     "format": "",
     "date": "01/01/2024"
@@ -958,7 +942,7 @@
   {
     "level_name": "Tower of Rage",
     "level_id": 100782112,
-    "difficulty": "",
+    "difficulty": "Easy Demon",
     "ticks": 50989,
     "tps": 360,
     "authors": ["Swingcopter"],
@@ -1292,7 +1276,7 @@
     "date": "02/20/2026"
   },
   {
-    "level_name": "Cartash",
+    "level_name": "Cartash [Fixed RNG]",
     "level_id": 135027288,
     "difficulty": "Easy",
     "ticks": 27093,
@@ -1304,10 +1288,10 @@
     "date": "03/06/2026"
   },
   {
-    "level_name": "Cartash",
+    "level_name": "Cartash [Fixed RNG]",
     "level_id": 135027288,
     "difficulty": "Easy",
-    "ticks": 27093,
+    "ticks": 25338,
     "tps": 240,
     "authors": ["RichConnerGMN"],
     "video": "https://youtu.be/wTir7NdrRR4",
