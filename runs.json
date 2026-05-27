@@ -944,18 +944,6 @@
     "date": "04/09/2024"
   },
   {
-    "level_name": "Tower of Infinity",
-    "level_id": 97713011,
-    "difficulty": "Insane Demon",
-    "ticks": 27336,
-    "tps": 240,
-    "authors": ["sear"],
-    "video": "https://youtu.be/SuYyDskiNbM",
-    "download": "https://cdn.discordapp.com/attachments/1222740229329522763/1228438118215192628/TowerOfInfinity.ybot?ex=6a14ada6&is=6a135c26&hm=bea6df2ba08e846ff13b11487b2c70a96ced26e2f9ef8ef9b7994337c697ce93&",
-    "format": "ybot",
-    "date": "04/12/2024"
-  },
-  {
     "level_name": "Idling Somewhere",
     "level_id": 99170473,
     "difficulty": "Easy Demon",
@@ -1954,7 +1942,7 @@
   {
     "level_name": "Terminal Heaven",
     "level_id": 99335322,
-    "difficulty": "",
+    "difficulty": "Extreme Demon",
     "ticks": 14399,
     "tps": 240,
     "authors": ["Fuyu"],
@@ -2041,7 +2029,7 @@
     "difficulty": "Insane",
     "ticks": 5696,
     "tps": 240,
-    "authors": ["RichConnerGMN"],
+    "authors": ["Rotten Cheese"],
     "video": "https://www.youtube.com/watch?v=6Zjx4vWGqyA",
     "download": "",
     "format": "",
@@ -2053,7 +2041,7 @@
     "difficulty": "Insane Demon",
     "ticks": 250750,
     "tps": 240,
-    "authors": ["RichConnerGMN"],
+    "authors": ["TheGreatBird"],
     "video": "https://youtu.be/b5hjwU5L41w",
     "download": "",
     "format": "",
