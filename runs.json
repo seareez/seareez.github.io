@@ -455,13 +455,37 @@
     "level_name": "The Tower XXII",
     "level_id": 97692058,
     "difficulty": "Extreme Demon",
+    "ticks": 4116,
+    "tps": 240,
+    "authors": ["sear"],
+    "video": "https://www.youtube.com/watch?v=GHKFDYeQ2UM",
+    "download": "",
+    "format": "",
+    "date": "01/15/2024"
+  },
+  {
+    "level_name": "The Tower XXII",
+    "level_id": 97692058,
+    "difficulty": "Extreme Demon",
+    "ticks": 4173,
+    "tps": 240,
+    "authors": ["Heatwave Productions"],
+    "video": "https://www.youtube.com/watch?v=K6PYe1slwA4",
+    "download": "",
+    "format": "",
+    "date": "12/28/2023"
+  },
+  {
+    "level_name": "The Tower XXII",
+    "level_id": 97692058,
+    "difficulty": "Extreme Demon",
     "ticks": 3992,
     "tps": 240,
     "authors": ["sear"],
     "video": "https://www.youtube.com/embed/gLTLb2bsEls",
     "download": "",
     "format": "",
-    "date": "01/01/2025"
+    "date": "03/24/2024"
   },
   {
     "level_name": "The Pit",
@@ -705,16 +729,16 @@
     "date": "01/01/2025"
   },
   {
-    "level_name": "The Abyss",
+    "level_name": "The Abyss (Old)",
     "level_id": 98163412,
     "difficulty": "Extreme Demon",
     "ticks": 91658,
     "tps": 240,
     "authors": ["sear, erzor"],
-    "video": "https://www.youtube.com/embed/vGiwAgO6mpo",
+    "video": "https://www.youtube.com/watch?v=vGiwAgO6mpo",
     "download": "",
     "format": "",
-    "date": "01/01/2025"
+    "date": "03/06/2024"
   },
   {
     "level_name": "Worlds Hardest Game",
@@ -1857,7 +1881,7 @@
     "date": "03/25/2024"
   },
   {
-    "level_name": "The Abyss",
+    "level_name": "The Abyss (Old)",
     "level_id": 98163412,
     "difficulty": "Extreme Demon",
     "ticks": 91659,
@@ -2131,6 +2155,150 @@
     "download": "https://drive.google.com/file/d/1ESItKFSHyZIMcww8I6Qqvl2yNIXs5LPy/view?usp=drive_link",
     "format": "tcm",
     "date": "05/26/2026"
+  },
+  {
+    "level_name": "Atone The Flower",
+    "level_id": 97952794,
+    "difficulty": "Hard Demon",
+    "ticks": 8460,
+    "tps": 240,
+    "authors": ["sear"],
+    "video": "https://youtu.be/ZsPUX871NUQ",
+    "download": "",
+    "format": "",
+    "date": "01/16/2024"
+  },
+  {
+    "level_name": "The Abyss (Old)",
+    "level_id": 98163412,
+    "difficulty": "Extreme Demon",
+    "ticks": 92575,
+    "tps": 240,
+    "authors": ["sear"],
+    "video": "https://youtu.be/yUqTrtyMBQI",
+    "download": "",
+    "format": "",
+    "date": "01/18/2024"
+  },
+  {
+    "level_name": "Candy Crush buff",
+    "level_id": 98714164,
+    "difficulty": "Impossible",
+    "ticks": 3459,
+    "tps": 240,
+    "authors": ["sear"],
+    "video": "https://www.youtube.com/watch?v=74OWhB7_yps",
+    "download": "",
+    "format": "",
+    "date": "02/02/2024"
+  },
+  {
+    "level_name": "Permafrost Peaks",
+    "level_id": 98852405,
+    "difficulty": "Impossible",
+    "ticks": 2206,
+    "tps": 240,
+    "authors": ["sear"],
+    "video": "https://www.youtube.com/watch?v=PZi_zckHH48",
+    "download": "",
+    "format": "",
+    "date": "02/02/2024"
+  },
+  {
+    "level_name": "YiiK A PostAlbertRPG",
+    "level_id": 100353881,
+    "difficulty": "Extreme Demon",
+    "ticks": 2228,
+    "tps": 240,
+    "authors": ["sear"],
+    "video": "https://youtu.be/JO5HzUiuq1I",
+    "download": "",
+    "format": "",
+    "date": "02/28/2024"
+  },
+  {
+    "level_name": "Club Kaizo Cube",
+    "level_id": 103389380,
+    "difficulty": "Impossible",
+    "ticks": 7977,
+    "tps": 240,
+    "authors": ["sear"],
+    "video": "https://youtu.be/N8XP7bu8F_w",
+    "download": "",
+    "format": "",
+    "date": "06/21/2024"
+  },
+  {
+    "level_name": "Club Kaizo Ball",
+    "level_id": 103876203,
+    "difficulty": "Impossible",
+    "ticks": 5172,
+    "tps": 240,
+    "authors": ["sear"],
+    "video": "https://www.youtube.com/watch?v=N8XP7bu8F_w",
+    "download": "",
+    "format": "",
+    "date": "06/22/2024"
+  },
+  {
+    "level_name": "Club Kaizo Ball",
+    "level_id": 103876203,
+    "difficulty": "Impossible",
+    "ticks": 4832,
+    "tps": 240,
+    "authors": ["sear"],
+    "video": "https://www.youtube.com/watch?v=4oq2LKQ-8f8",
+    "download": "",
+    "format": "",
+    "date": "07/19/2024"
+  },
+  {
+    "level_name": "Club Kaizo Jetpack",
+    "level_id": 103715487,
+    "difficulty": "Impossible",
+    "ticks": 19119,
+    "tps": 240,
+    "authors": ["sear"],
+    "video": "https://www.youtube.com/watch?v=I-bJGtxU6Ik",
+    "download": "",
+    "format": "",
+    "date": "07/22/2024"
+  },
+  {
+    "level_name": "How To Platformer",
+    "level_id": 104187415,
+    "difficulty": "Insane Demon",
+    "ticks": 627592,
+    "tps": 240,
+    "authors": ["sear, Taze"],
+    "video": "https://youtu.be/BdToeTWRjh8",
+    "download": "",
+    "format": "",
+    "date": "09/13/2024"
+  },
+  {
+    "level_name": "How To Platformer",
+    "level_id": 104187415,
+    "difficulty": "Insane Demon",
+    "ticks": 649440,
+    "tps": 240,
+    "authors": ["Electro"],
+    "video": "https://www.youtube.com/watch?v=Dk_0ejrMYlI",
+    "download": "",
+    "format": "",
+    "date": "06/06/2024"
+  },
+  {
+    "level_name": "Robot King",
+    "level_id": 99927952,
+    "difficulty": "Extreme Demon",
+    "ticks": 25524,
+    "tps": 240,
+    "authors": ["sear"],
+    "video": "https://www.youtube.com/watch?v=qINHnHlIsu4",
+    "download": "",
+    "format": "",
+    "date": "01/29/2025"
   }
 
 
