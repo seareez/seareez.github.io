@@ -179,6 +179,7 @@
     "ticks": 30476,
     "tps": 240,
     "authors": ["sear"],
+    "video": "https://youtu.be/3fjG96AvlF4",
     "download": "https://drive.google.com/file/d/1RdGY4UZgmLGXcr3mA6n2gr6HD2Fw56R2/view?usp=drive_link",
     "format": "tcm",
     "date": "01/01/2026"
@@ -1287,8 +1288,8 @@
     "tps": 240,
     "authors": ["The Cube Guy"],
     "video": "https://www.youtube.com/watch?v=cwxg3nrczfA",
-    "download": "",
-    "format": "",
+    "download": "https://cdn.discordapp.com/attachments/1504752137467334757/1508889820188115074/Radiopolis.tcm?ex=6a188026&is=6a172ea6&hm=a22fdd47ce2dd36a01fe06a1ebaad71ac7fd8e7056b82d50537978df538feb28&",
+    "format": "tcm",
     "date": "04/25/2026"
   },
   {
@@ -1299,8 +1300,8 @@
     "tps": 240,
     "authors": ["The Cube Guy"],
     "video": "https://www.youtube.com/watch?v=1W4sTtKGr6o",
-    "download": "",
-    "format": "",
+    "download": "https://cdn.discordapp.com/attachments/1504752137467334757/1508889819097338039/How_to_Spiderr.tcm?ex=6a188026&is=6a172ea6&hm=e8dd30a7e8a3a733793d025997c416e146cc1584699512c34d3c8ef32809826b&",
+    "format": "tcm",
     "date": "05/03/2026"
   },
   {
@@ -1311,8 +1312,8 @@
     "tps": 240,
     "authors": ["The Cube Guy"],
     "video": "https://www.youtube.com/watch?v=cfqy2Rvx-aM",
-    "download": "",
-    "format": "",
+    "download": "https://cdn.discordapp.com/attachments/1504752137467334757/1508889820502556745/Tears_in_the_Snow.tcm?ex=6a188027&is=6a172ea7&hm=f1190b82223812a3a43bd6f7a23c6d23a7f3981807093fddd55b2f120c4ab013&",
+    "format": "tcm",
     "date": "05/05/2026"
   },
   {
@@ -1323,8 +1324,8 @@
     "tps": 240,
     "authors": ["The Cube Guy"],
     "video": "https://www.youtube.com/watch?v=GlYmABVYDJ4",
-    "download": "",
-    "format": "",
+    "download": "https://cdn.discordapp.com/attachments/1504752137467334757/1508889818229112922/CastleVenture.tcm?ex=6a188026&is=6a172ea6&hm=4990b2797d3f4aa023f9e039d75d93a068470fa59132326aac2a8519e93b42ad&",
+    "format": "tcm",
     "date": "05/07/2026"
   },
   {
@@ -1335,8 +1336,8 @@
     "tps": 240,
     "authors": ["The Cube Guy"],
     "video": "https://www.youtube.com/watch?v=vVFTeguGoWQ",
-    "download": "",
-    "format": "",
+    "download": "https://cdn.discordapp.com/attachments/1504752137467334757/1508889818795606178/DS_1_Tower_1.tcm?ex=6a188026&is=6a172ea6&hm=4484c7082cdb7354152f4f74b0253c1effbea45247185dd76adcad892531d674&",
+    "format": "tcm",
     "date": "05/09/2026"
   },
   {
@@ -1347,8 +1348,8 @@
     "tps": 240,
     "authors": ["The Cube Guy"],
     "video": "https://www.youtube.com/watch?v=URrGekNk3mA",
-    "download": "",
-    "format": "",
+    "download": "https://cdn.discordapp.com/attachments/1504752137467334757/1508889817923190925/10_Rooms.tcm?ex=6a188026&is=6a172ea6&hm=57021e61a524159494b1050e083d46d2b6e7d5aab2c09d8d0df134aa1718ab72&",
+    "format": "tcm",
     "date": "05/11/2026"
   },
   {
@@ -1359,8 +1360,8 @@
     "tps": 240,
     "authors": ["The Cube Guy"],
     "video": "https://www.youtube.com/watch?v=moaUx4oj5CE",
-    "download": "",
-    "format": "",
+    "download": "https://cdn.discordapp.com/attachments/1504752137467334757/1508889819479277618/Level_Devil.tcm?ex=6a188026&is=6a172ea6&hm=ceb7538c44952b19651b1a36b870a9e7249b888080cba4656a2da7b58196189a&",
+    "format": "tcm",
     "date": "05/13/2026"
   },
   {
@@ -1371,8 +1372,8 @@
     "tps": 240,
     "authors": ["The Cube Guy"],
     "video": "https://www.youtube.com/watch?v=B45rFhuJQCI",
-    "download": "",
-    "format": "",
+    "download": "https://cdn.discordapp.com/attachments/1504752137467334757/1508889818531106986/Disco_Dungeon.tcm?ex=6a188026&is=6a172ea6&hm=27fa5e59900471a6f0021b5abd33f1ddcd64933be16600efafc720d881c6f410&",
+    "format": "tcm",
     "date": "05/15/2026"
   },
   {
@@ -1383,9 +1384,21 @@
     "tps": 240,
     "authors": ["The Cube Guy"],
     "video": "https://www.youtube.com/watch?v=eUiuoG3k7Wk",
+    "download": "https://cdn.discordapp.com/attachments/1504752137467334757/1508889819860832437/Many_Fun_Rooms_Await.tcm?ex=6a188026&is=6a172ea6&hm=a9562b33dfff78b3bdad082487fff755a168919ee10a8965c807c96ad49f0062&",
+    "format": "tcm",
+    "date": "05/23/2026"
+  },
+  {
+    "level_name": "100 Levels of Pain",
+    "level_id": 102517045,
+    "difficulty": "Hard",
+    "ticks": 63603,
+    "tps": 240,
+    "authors": ["The Cube Guy"],
+    "video": "https://www.youtube.com/watch?v=szRynaV0Zss",
     "download": "",
     "format": "",
-    "date": "05/23/2026"
+    "date": "05/27/2026"
   },
   {
     "level_name": "The Old Tower",
@@ -2046,6 +2059,78 @@
     "download": "",
     "format": "",
     "date": "02/08/2025"
+  },
+  {
+    "level_name": "Glitch Tower",
+    "level_id": 124474031,
+    "difficulty": "Harder",
+    "ticks": 3311,
+    "tps": 240,
+    "authors": ["sear"],
+    "video": "https://youtu.be/DZcGAF79IG4",
+    "download": "https://drive.google.com/file/d/1SnBnOivn5jQxdh_GxpQOyHcp_Wj6JyGr/view?usp=drive_link",
+    "format": "tcm",
+    "date": "01/06/2026"
+  },
+  {
+    "level_name": "The Puzzle Room",
+    "level_id": 97545648,
+    "difficulty": "Hard",
+    "ticks": 7496,
+    "tps": 240,
+    "authors": ["sear"],
+    "video": "https://youtu.be/aNCxm9H1d-s",
+    "download": "https://drive.google.com/file/d/1S5x6F0w2eX64FCuxmYr3DiHCp8DB3ubc/view?usp=drive_link",
+    "format": "tcm",
+    "date": "01/11/2026"
+  },
+  {
+    "level_name": "GeoDomPlatformer",
+    "level_id": 141330482,
+    "difficulty": "Insane",
+    "ticks": 20608,
+    "tps": 240,
+    "authors": ["sear"],
+    "video": "https://youtu.be/jFxX6gxxp0s",
+    "download": "https://drive.google.com/file/d/1ng4n31XBJdPHl4GZr3nWmZZ3G1MrJd0X/view?usp=drive_link",
+    "format": "tcm",
+    "date": "01/13/2026"
+  },
+  {
+    "level_name": "Digital Ascension",
+    "level_id": 117880611,
+    "difficulty": "Extreme Demon",
+    "ticks": 11392,
+    "tps": 240,
+    "authors": ["sear"],
+    "video": "https://youtu.be/y3yoVn3kLbI",
+    "download": "https://drive.google.com/file/d/1Ax4iuBKGFC7qUvoQcD8nz65553O1bDVu/view?usp=drive_link",
+    "format": "tcm",
+    "date": "03/03/2026"
+  },
+  {
+    "level_name": "How to Spiderr",
+    "level_id": 122370463,
+    "difficulty": "Easy Demon",
+    "ticks": 34298,
+    "tps": 240,
+    "authors": ["sear"],
+    "video": "https://youtu.be/SjGOFVFWU7I",
+    "download": "https://drive.google.com/file/d/1Xd-0OUTS1Ue33XhPBH1MlNjYUIOnhrfZ/view?usp=drive_link",
+    "format": "tcm",
+    "date": "05/04/2026"
+  },
+  {
+    "level_name": "10 Rooms For Fun",
+    "level_id": 106767751,
+    "difficulty": "Easy Demon",
+    "ticks": 8929,
+    "tps": 240,
+    "authors": ["sear"],
+    "video": "https://youtu.be/ocF87neFXGs",
+    "download": "https://drive.google.com/file/d/1ESItKFSHyZIMcww8I6Qqvl2yNIXs5LPy/view?usp=drive_link",
+    "format": "tcm",
+    "date": "05/26/2026"
   }
 
 
