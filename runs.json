@@ -2299,6 +2299,42 @@
     "download": "",
     "format": "",
     "date": "01/29/2025"
+  },
+  {
+    "level_name": "The Nucleus",
+    "level_id": 130400156,
+    "difficulty": "Insane",
+    "ticks": 38300,
+    "tps": 240,
+    "authors": ["RichConnerGMN"],
+    "video": "https://youtu.be/J3k_rCzzC6w",
+    "download": "https://drive.google.com/file/d/1GhrDbDq7BeDy1MAFMRh5NMsEp4PeSQxA/view?usp=drive_link",
+    "format": "slc",
+    "date": "05/27/2026"
+  },
+  {
+    "level_name": "Flipswap Factory",
+    "level_id": 98439428,
+    "difficulty": "Medium Demon",
+    "ticks": 13552,
+    "tps": 240,
+    "authors": ["Melting Ice"],
+    "video": "https://youtu.be/XLcIyDaKvfA",
+    "download": "https://drive.google.com/file/d/1vvW4kBHIsdr7ludbv7ddX9AVJm9hNLtt/view?usp=drive_link",
+    "format": "tcm",
+    "date": "11/04/2025"
+  },
+  {
+    "level_name": "Flipswap Factory",
+    "level_id": 98439428,
+    "difficulty": "Medium Demon",
+    "ticks": 13554,
+    "tps": 240,
+    "authors": ["Melting Ice"],
+    "video": "",
+    "download": "https://drive.google.com/file/d/10sPd_pODlBVURcz-bgUmIi_1OAQDtYmc/view?usp=drive_link",
+    "format": "gdr",
+    "date": "04/26/2024"
   }
 
 
