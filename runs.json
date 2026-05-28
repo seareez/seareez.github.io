@@ -2335,6 +2335,66 @@
     "download": "https://drive.google.com/file/d/10sPd_pODlBVURcz-bgUmIi_1OAQDtYmc/view?usp=drive_link",
     "format": "gdr",
     "date": "04/26/2024"
+  },
+  {
+    "level_name": "pivot",
+    "level_id": 110512282,
+    "difficulty": "Easy Demon",
+    "ticks": 25204,
+    "tps": 240,
+    "authors": ["daneeko"],
+    "video": "https://youtu.be/MJcHHZxi2Ow?si=d2InxHEn3eePSoiC",
+    "download": "",
+    "format": "",
+    "date": "05/24/2026"
+  },
+  {
+    "level_name": "Despicable",
+    "level_id": 98376908,
+    "difficulty": "Insane",
+    "ticks": 5015,
+    "tps": 240,
+    "authors": ["Ventrium"],
+    "video": "https://youtu.be/HcEwoZEqL4g?si=jk4BroRrXkUlorlN&t=30",
+    "download": "",
+    "format": "",
+    "date": "05/17/2026"
+  },
+  {
+    "level_name": "tower dco",
+    "level_id": 126401048,
+    "difficulty": "Hard",
+    "ticks": 8105,
+    "tps": 240,
+    "authors": ["Bruno El Pro"],
+    "video": "https://youtu.be/FXvMP_R3w1Y?si=wkzueAImN_j7U2QJ&t=1",
+    "download": "",
+    "format": "",
+    "date": "05/16/2026"
+  },
+  {
+    "level_name": "pedalka IWBTG",
+    "level_id": 139840975,
+    "difficulty": "Easy Demon",
+    "ticks": 6181,
+    "tps": 240,
+    "authors": ["Leshafriend"],
+    "video": "https://youtu.be/9WgW3eOaVu8?si=_8tlJ623ctUzaqyq",
+    "download": "",
+    "format": "",
+    "date": "05/13/2026"
+  },
+  {
+    "level_name": "Wall Jump",
+    "level_id": 102546298,
+    "difficulty": "Hard Demon",
+    "ticks": 48876,
+    "tps": 240,
+    "authors": ["GaminGuy"],
+    "video": "https://youtu.be/BotQONuBK28?si=Nqq9F79qVMVTkWhO",
+    "download": "",
+    "format": "",
+    "date": "05/12/2026"
   }
 
 
