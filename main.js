@@ -39,6 +39,20 @@ const iVideo = `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 640" cl
 const iXmark = `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 640" class="icon-red"><!--!Font Awesome Free 7.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2026 Fonticons, Inc.--><path d="M183.1 137.4C170.6 124.9 150.3 124.9 137.8 137.4C125.3 149.9 125.3 170.2 137.8 182.7L275.2 320L137.9 457.4C125.4 469.9 125.4 490.2 137.9 502.7C150.4 515.2 170.7 515.2 183.2 502.7L320.5 365.3L457.9 502.6C470.4 515.1 490.7 515.1 503.2 502.6C515.7 490.1 515.7 469.8 503.2 457.3L365.8 320L503.1 182.6C515.6 170.1 515.6 149.8 503.1 137.3C490.6 124.8 470.3 124.8 457.8 137.3L320.5 274.7L183.1 137.4z"/></svg>`;
 
 function buildTable (filteredRuns) {
+  // 1. Group by Level to find the minimum time for each unique level
+  const fastestTimesByLevel = {};
+  
+  if (runs && Array.isArray(runs)) {
+    for (const run of runs) {
+      const key = `${run.level_name}_${run.level_id}`;
+      const time = run.ticks / (run.tps || 240);
+      
+      if (!(key in fastestTimesByLevel) || time < fastestTimesByLevel[key]) {
+        fastestTimesByLevel[key] = time;
+      }
+    }
+  }
+
   let output = tableHeader.outerHTML;
   for (const run of filteredRuns) {
     let dateString = "????-??-??";
@@ -48,9 +62,18 @@ function buildTable (filteredRuns) {
       const date = new Date(runDate.getTime() - (timezoneOffset * 60 * 1000));
       dateString = date.toISOString().split("T")[0];
     } catch (_) { }
+
+    // 2. Determine if this specific run matches the fastest time for this level
+    const key = `${run.level_name}_${run.level_id}`;
+    const currentTime = run.ticks / (run.tps || 240);
+    const isFastest = (fastestTimesByLevel[key] !== undefined && Math.abs(currentTime - fastestTimesByLevel[key]) < 0.0001);
+    
+    // Add a star next to the name if it is the fastest
+    const starPrefix = isFastest ? "⭐ " : "";
+
     output += `
       <tr>
-        <td>${run.level_name}<br><sub>${run.level_id}</sub></td>
+        <td>${starPrefix}${run.level_name}<br><sub>${run.level_id}</sub></td>
         <td>${run.difficulty}</td>
         <td><span class="mono">${ticksToTime(run.ticks, run.tps)}</span><br><sub>(${run.ticks} ticks)</sub></td>
         <td>${run.tps || 240}</td>
