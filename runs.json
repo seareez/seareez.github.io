@@ -3440,11 +3440,23 @@
     "level_name": "One One",
     "level_id": 141283416,
     "difficulty": "Easy",
-    "ticks": 5404,
+    "ticks": 5403,
     "tps": 240,
     "authors": ["sear"],
     "video": "https://www.youtube.com/watch?v=iMqRTnWGnlg&feature=youtu.be",
     "download": "https://cdn.discordapp.com/attachments/1222740229329522763/1526106714368249856/OneOne.tcm?ex=6a55d122&is=6a547fa2&hm=b290fffb5fe8acca1b5314614cc141dde65ecb5401e55b6f1a4e82f020006bdd&",
+    "format": "tcm",
+    "date": "07/13/2026"
+  },
+  {
+    "level_name": "One One",
+    "level_id": 141283416,
+    "difficulty": "Easy",
+    "ticks": 5398,
+    "tps": 240,
+    "authors": ["Fuyu"],
+    "video": "https://www.youtube.com/watch?v=RSKVsloOXPY",
+    "download": "https://cdn.discordapp.com/attachments/1222740229329522763/1526256866617987192/one_one.tcm?ex=6a565cf9&is=6a550b79&hm=a4f8045f31e0aeeb4d0a477d5f0e6150c23e8078637aa05961f8b44634ca2eff&",
     "format": "tcm",
     "date": "07/13/2026"
   }
