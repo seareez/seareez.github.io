@@ -3399,6 +3399,54 @@
     "download": "",
     "format": "",
     "date": "12/31/2025"
+  },
+  {
+    "level_name": "COMPRESSOR",
+    "level_id": 140630049,
+    "difficulty": "Easy Demon",
+    "ticks": 39630,
+    "tps": 240,
+    "authors": ["RichConnerGMN"],
+    "video": "https://youtu.be/I14nVPZsAi4",
+    "download": "https://cdn.discordapp.com/attachments/1222740229329522763/1524910619554484384/compressor_tas.slc?ex=6a556baf&is=6a541a2f&hm=621d69c0bf4fde92996cb12d460067d5004b59f76b92acb8223c9463b33dbffa&",
+    "format": "slc",
+    "date": "07/09/2026"
+  },
+  {
+    "level_name": "One One",
+    "level_id": 141283416,
+    "difficulty": "Easy",
+    "ticks": 5405,
+    "tps": 240,
+    "authors": ["RichConnerGMN"],
+    "video": "https://youtu.be/wX-b9Rk7yPU/",
+    "download": "https://cdn.discordapp.com/attachments/1222740229329522763/1524971450841305230/one_one_tas.slc?ex=6a55a456&is=6a5452d6&hm=fad68a107c3fe641f071c9e7c8a14bb71978b16f37dd5625fd938a42db270fe0&",
+    "format": "slc",
+    "date": "07/09/2026"
+  },
+  {
+    "level_name": "One One",
+    "level_id": 141283416,
+    "difficulty": "Easy",
+    "ticks": 5404,
+    "tps": 240,
+    "authors": ["Taze"],
+    "video": "https://youtu.be/iMqRTnWGnlg",
+    "download": "https://cdn.discordapp.com/attachments/1222740229329522763/1524986275449409698/One_One.ast?ex=6a55b224&is=6a5460a4&hm=d6466af846f08c8b631fb5e4c797fc1b50129817a39f0b9b42dff06d06ea1a59&",
+    "format": "ast",
+    "date": "07/09/2026"
+  },
+  {
+    "level_name": "One One",
+    "level_id": 141283416,
+    "difficulty": "Easy",
+    "ticks": 5404,
+    "tps": 240,
+    "authors": ["sear"],
+    "video": "https://www.youtube.com/watch?v=iMqRTnWGnlg&feature=youtu.be",
+    "download": "https://cdn.discordapp.com/attachments/1222740229329522763/1526106714368249856/OneOne.tcm?ex=6a55d122&is=6a547fa2&hm=b290fffb5fe8acca1b5314614cc141dde65ecb5401e55b6f1a4e82f020006bdd&",
+    "format": "tcm",
+    "date": "07/13/2026"
   }
 
 
