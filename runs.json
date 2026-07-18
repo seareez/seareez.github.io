@@ -3460,6 +3460,41 @@
     "download": "https://cdn.discordapp.com/attachments/1222740229329522763/1526256866617987192/one_one.tcm?ex=6a565cf9&is=6a550b79&hm=a4f8045f31e0aeeb4d0a477d5f0e6150c23e8078637aa05961f8b44634ca2eff&",
     "format": "tcm",
     "date": "07/13/2026"
+  },
+  {
+    "level_name": "The Tower",
+    "difficulty": "Normal",
+    "ticks": 15566,
+    "tps": 240,
+    "authors": ["Fuyu"],
+    "video": "https://www.youtube.com/watch?v=jXujSq5aYw0",
+    "download": "https://drive.google.com/file/d/1P4P1SO1nZgQxOIWLcT-rj3Cb2AXrXS-F/view?usp=drive_link",
+    "format": "tcm",
+    "date": "07/15/2026"
+  },
+  {
+    "level_name": "Mice On Mercury",
+    "level_id": 97650341,
+    "difficulty": "Hard",
+    "ticks": 7657,
+    "tps": 240,
+    "authors": ["Taze"],
+    "video": "https://youtu.be/BQ-RtiKy7Jg?si=mjiijA1CNzZaTBtK",
+    "download": "https://drive.google.com/file/d/1tPf9ektP4PH8eiRIyN-OGcKG0AxsoMbU/view?usp=drive_link",
+    "format": "tcm",
+    "date": "07/15/2026"
+  },
+  {
+    "level_name": "Munch",
+    "level_id": 144178665,
+    "difficulty": "Hard Demon",
+    "ticks": 26651,
+    "tps": 240,
+    "authors": ["RichConnerGMN"],
+    "video": "https://youtu.be/cZf6xauaRkw",
+    "download": "https://drive.google.com/file/d/1w6loLV3xi6J7Uq92R2dUEgAhCkAGWN60/view?usp=drive_link",
+    "format": "slc",
+    "date": "7/15/2026"
   }
 
 
