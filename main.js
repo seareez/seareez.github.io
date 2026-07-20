@@ -16,7 +16,9 @@ const inputs = {
   "f-has-video": document.querySelector("#f-has-video"),
   "f-has-download": document.querySelector("#f-has-download"),
   "f-date-from": document.querySelector("#f-date-from"),
-  "f-date-to": document.querySelector("#f-date-to")
+  "f-date-to": document.querySelector("#f-date-to"),
+  "f-id-from": document.querySelector("#f-id-from"),
+  "f-id-to": document.querySelector("#f-id-to")
 };
 
 function ticksToTime (ticks, tps = 240) {
@@ -73,7 +75,7 @@ function buildTable (filteredRuns) {
 
     output += `
       <tr>
-        <td>${starPrefix}${run.level_name}<br><sub>${run.level_id}</sub></td>
+        <td>${starPrefix}${run.level_name}<br><sub>${Number.isFinite(run.level_id) ? run.level_id : "N/A"}</sub></td>
         <td>${run.difficulty}</td>
         <td><span class="mono">${ticksToTime(run.ticks, run.tps)}</span><br><sub>(${run.ticks} ticks)</sub></td>
         <td>${run.tps || 240}</td>
@@ -115,6 +117,20 @@ function filterRuns () {
       break;
     case "date-desc":
       filteredRuns.sort((b, a) => new Date(a.date) - new Date(b.date));
+      break;
+    case "id-asc":
+      filteredRuns.sort((a, b) => {
+        if (a.level_id === "N/A") return 1;
+        if (b.level_id === "N/A") return -1;
+        return a.level_id - b.level_id;
+      });
+      break;
+    case "id-desc":
+      filteredRuns.sort((a, b) => {
+        if (a.level_id === "N/A") return 1;
+        if (b.level_id === "N/A") return -1;
+        return b.level_id - a.level_id;
+      });
       break;
     default:
       break;
@@ -190,6 +206,15 @@ function filterRuns () {
     let pass = true;
     if (fDateFrom && Number(new Date(r.date)) < fDateFrom) pass = false;
     if (fDateTo && Number(new Date(r.date)) > fDateTo) pass = false;
+    return pass;
+  });
+
+  const fIdFrom = Number(inputs["f-id-from"].value.toString().trim());
+  const fIdTo = Number(inputs["f-id-to"].value.toString().trim());
+  filteredRuns = filteredRuns.filter(r => {
+    let pass = true;
+    if (fIdFrom && (r.level_id) < fIdFrom) pass = false;
+    if (fIdTo && (r.level_id) > fIdTo) pass = false;
     return pass;
   });
 

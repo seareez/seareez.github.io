@@ -115,11 +115,16 @@
         <option value="authors-desc">Author count (descending)</option>
         <option value="date-desc" selected>Date (newest first)</option>
         <option value="date-asc">Date (oldest first)</option>
+        <option value="id-desc" selected>Level ID (newest first)</option>
+        <option value="id-asc">Level ID (oldest first)</option>
       </select>
     </p>
     <h3>Filters</h3>
     <p>Level:
       <input type="text" id="f-level" placeholder="Level name or ID">
+    </p>
+    <p>Level ID:
+      <input id="f-id-from" type="number" placeholder="from"> – <input id="f-id-to" type="number" placeholder="to"> 
     </p>
     <p>Difficulty:
       <input type="text" id="f-difficulty" placeholder="Difficulty name">
