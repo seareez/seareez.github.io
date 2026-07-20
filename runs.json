@@ -1,6 +1,7 @@
 [
   {
     "level_name": "The Tower",
+    "level_id": 5001,
     "difficulty": "Normal",
     "ticks": 15567,
     "tps": 240,
@@ -12,6 +13,7 @@
   },
   {
     "level_name": "The Sewers",
+    "level_id": 5002,
     "difficulty": "Hard",
     "ticks": 17347,
     "tps": 240,
@@ -23,6 +25,7 @@
   },
   {
     "level_name": "The Cellar",
+    "level_id": 5003,
     "difficulty": "Harder",
     "ticks": 18317,
     "tps": 240,
@@ -34,6 +37,7 @@
   },
   {
     "level_name": "The Secret Hollow",
+    "level_id": 5004,
     "difficulty": "Insane",
     "ticks": 39293,
     "tps": 240,
@@ -278,7 +282,7 @@
   },
   {
     "level_name": "VENUS",
-    "level_id": "97524369",
+    "level_id": 97524369,
     "difficulty": "Extreme Demon",
     "ticks": 2295,
     "tps": 240,
@@ -637,18 +641,6 @@
     "date": "03/26/2024"
   },
   {
-    "level_name": "Cl5u37r0ph0b1a",
-    "level_id": 102389658,
-    "difficulty": "Harder",
-    "ticks": 5287,
-    "tps": 240,
-    "authors": ["sear"],
-    "video": "https://www.youtube.com/embed/WThB8qytfII",
-    "download": "",
-    "format": "",
-    "date": "01/01/2025"
-  },
-  {
     "level_name": "Smelvin Teahouse",
     "level_id": 97949737,
     "difficulty": "Extreme Demon",
@@ -763,18 +755,6 @@
     "download": "https://cdn.discordapp.com/attachments/1222740229329522763/1222743533513867285/patio_light.gdr?ex=6a146567&is=6a1313e7&hm=c293443f14c792598800be8a97cabcd32e15dfc5929cf3bcd41a49d37a7810f8&",
     "format": "gdr",
     "date": "01/01/2025"
-  },
-  {
-    "level_name": "Silent Hills",
-    "level_id": 11683795,
-    "difficulty": "Extreme Demon",
-    "ticks": 14992,
-    "tps": 240,
-    "authors": ["sear"],
-    "video": "https://youtu.be/Ng62-N0wWz8",
-    "download": "https://cdn.discordapp.com/attachments/1222740229329522763/1222775891151683676/Silent_Hills.ybot?ex=6a14838a&is=6a13320a&hm=81c074cffae763fada0c6c84135bbe01360950630f8b9e7a50ab2c59464c25bd&",
-    "format": "ybot",
-    "date": "03/28/2024"
   },
   {
     "level_name": "The Pit",
@@ -1113,7 +1093,7 @@
     "date": "05/21/2024"
   },
   {
-    "level_name": "Bouncy Ball Expert (Coin)",
+    "level_name": "Bouncy Ball Expert (1 Coin)",
     "level_id": 110625662,
     "difficulty": "Insane Demon",
     "ticks": 152325,
@@ -1281,7 +1261,7 @@
     "date": "02/20/2026"
   },
   {
-    "level_name": "Cartash [Fixed RNG]",
+    "level_name": "cartash fix rng",
     "level_id": 135027288,
     "difficulty": "Easy",
     "ticks": 27093,
@@ -1293,7 +1273,7 @@
     "date": "03/06/2026"
   },
   {
-    "level_name": "Cartash [Fixed RNG]",
+    "level_name": "cartash fix rng",
     "level_id": 135027288,
     "difficulty": "Easy",
     "ticks": 25338,
@@ -1344,7 +1324,7 @@
     "level_name": "CastleVenture",
     "level_id": 114614899,
     "difficulty": "Easy Demon",
-    "ticks": 10437,
+    "ticks": 18316,
     "tps": 240,
     "authors": ["The Cube Guy"],
     "video": "https://www.youtube.com/watch?v=GlYmABVYDJ4",
@@ -2184,13 +2164,25 @@
     "level_name": "Candy Crush buff",
     "level_id": 98714164,
     "difficulty": "Impossible",
-    "ticks": 3459,
+    "ticks": 3599,
     "tps": 240,
     "authors": ["sear"],
     "video": "https://www.youtube.com/watch?v=74OWhB7_yps",
     "download": "",
     "format": "",
     "date": "02/02/2024"
+  },
+  {
+    "level_name": "Candy Crush buff",
+    "level_id": 98714164,
+    "difficulty": "Impossible",
+    "ticks": 3920,
+    "tps": 240,
+    "authors": ["erzor"],
+    "video": "https://youtu.be/eru11lVwGmo",
+    "download": "",
+    "format": "",
+    "date": "01/10/2024"
   },
   {
     "level_name": "Permafrost Peaks",
@@ -2410,7 +2402,7 @@
   },
   {
     "level_name": "Maethrillian",
-    "level_id": "98222333",
+    "level_id": 98222333,
     "difficulty": "Easy Demon",
     "ticks": 10782,
     "tps": 240,
@@ -2443,18 +2435,6 @@
     "download": "",
     "format": "ybot",
     "date": "12/26/2023"
-  },
-  {
-    "level_name": "The Tower XXII",
-    "level_id": 97692058,
-    "difficulty": "Extreme Demon",
-    "ticks": 4173,
-    "tps": 240,
-    "authors": ["alex"],
-    "video": "https://youtu.be/K6PYe1slwA4",
-    "download": "",
-    "format": "",
-    "date": "12/28/2023"
   },
   {
     "level_name": "Super Mario Bros Lv1",
@@ -2733,7 +2713,7 @@
   },
   {
     "level_name": "Gateway",
-    "level_id": "98322118",
+    "level_id": 98322118,
     "difficulty": "Easy Demon",
     "ticks": 24766,
     "tps": 240,
@@ -2901,6 +2881,7 @@
   },
   {
     "level_name": "The Secret Hollow",
+    "level_id": 5004,
     "difficulty": "Insane",
     "ticks": 41963,
     "tps": 240,
@@ -2912,6 +2893,7 @@
   },
   {
     "level_name": "The Secret Hollow (No RNG)",
+    "level_id": 5004,
     "difficulty": "Insane",
     "ticks": 41939,
     "tps": 240,
@@ -2920,17 +2902,6 @@
     "download": "",
     "format": "",
     "date": "05/30/2025"
-  },
-  {
-    "level_name": "The Tower (Floor 1)",
-    "difficulty": "",
-    "ticks": 106002,
-    "tps": 240,
-    "authors": ["Melting Ice"],
-    "video": "https://youtu.be/oQpDdzn9o5I",
-    "download": "",
-    "format": "",
-    "date": "06/06/2025"
   },
   {
     "level_name": "Forgotten Tower",
@@ -2957,6 +2928,7 @@
     "date": "06/11/2025"
   },{
     "level_name": "The Tower 4x",
+    "level_id": 121045728,
     "difficulty": "Hard",
     "ticks": 12109,
     "tps": 240,
@@ -2968,6 +2940,7 @@
   },
   {
     "level_name": "The Sewers 4x",
+    "level_id": 121045749,
     "difficulty": "Harder",
     "ticks": 15860,
     "tps": 240,
@@ -2979,6 +2952,7 @@
   },
   {
     "level_name": "The Cellar 4x",
+    "level_id": 121045765,
     "difficulty": "Insane",
     "ticks": 14516,
     "tps": 240,
@@ -2990,6 +2964,7 @@
   },
   {
     "level_name": "The Secret Hollow 4x",
+    "level_id": 121045828,
     "difficulty": "Easy Demon",
     "ticks": 33382,
     "tps": 240,
@@ -3036,7 +3011,8 @@
     "date": "06/27/2025"
   },
   {
-    "level_name": "The Tower Low%",
+    "level_name": "The Tower (Low%)",
+    "level_id": 5001,
     "difficulty": "Normal",
     "ticks": 15616,
     "tps": 240,
@@ -3047,7 +3023,8 @@
     "date": "07/19/2025"
   },
   {
-    "level_name": "The Sewers Low%",
+    "level_name": "The Sewers (Low%)",
+    "level_id": 5002,
     "difficulty": "Hard",
     "ticks": 18353,
     "tps": 240,
@@ -3058,7 +3035,8 @@
     "date": "07/19/2025"
   },
   {
-    "level_name": "The Cellar Low%",
+    "level_name": "The Cellar (Low%)",
+    "level_id": 5003,
     "difficulty": "Harder",
     "ticks": 18393,
     "tps": 240,
@@ -3069,7 +3047,8 @@
     "date": "07/19/2025"
   },
   {
-    "level_name": "The Secret Hollow Low%",
+    "level_name": "The Secret Hollow (Low%)",
+    "level_id": 5004,
     "difficulty": "Insane",
     "ticks": 40236,
     "tps": 240,
@@ -3114,17 +3093,6 @@
     "download": "",
     "format": "",
     "date": "07/27/2025"
-  },
-  {
-    "level_name": "The Tower",
-    "difficulty": "Normal",
-    "ticks": 8167,
-    "tps": 240,
-    "authors": ["SP_SUS"],
-    "video": "https://youtu.be/4zmH8heJjYg",
-    "download": "",
-    "format": "",
-    "date": "08/20/2025"
   },
   {
     "level_name": "Convolution",
@@ -3237,6 +3205,7 @@
   {
     "level_name": "yeah right",
     "difficulty": "Extreme Demon",
+    "level_id": "N/A",
     "ticks": 6194,
     "tps": 240,
     "authors": ["Rotten Cheese"],
@@ -3463,6 +3432,7 @@
   },
   {
     "level_name": "The Tower",
+    "level_id": 5001,
     "difficulty": "Normal",
     "ticks": 15566,
     "tps": 240,
