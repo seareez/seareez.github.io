@@ -3465,6 +3465,18 @@
     "download": "https://drive.google.com/file/d/1w6loLV3xi6J7Uq92R2dUEgAhCkAGWN60/view?usp=drive_link",
     "format": "slc",
     "date": "7/15/2026"
+  },
+    {
+    "level_name": "Quarion",
+    "level_id": 106866157,
+    "difficulty": "Medium Demon",
+    "ticks": 33944,
+    "tps": 240,
+    "authors": ["RichConnerGMN"],
+    "video": "https://youtu.be/eOQP3Mq_yeM",
+    "download": "https://github.com/seareez/seareez.github.io/blob/main/macros/106866157_33944t_any.slc",
+    "format": "slc",
+    "date": "7/31/2026"
   }
 
 
