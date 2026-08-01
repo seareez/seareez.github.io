@@ -3477,6 +3477,18 @@
     "download": "https://github.com/seareez/seareez.github.io/blob/main/macros/106866157_33944t_any.slc",
     "format": "slc",
     "date": "7/31/2026"
+  },
+    {
+    "level_name": "Cog",
+    "level_id": 106866157,
+    "difficulty": "Easy Demon",
+    "ticks": 20203,
+    "tps": 240,
+    "authors": ["RichConnerGMN"],
+    "video": "https://youtu.be/Ur0D8J9yw8g",
+    "download": "https://github.com/seareez/seareez.github.io/blob/main/macros/109851469_20203t_any.slc",
+    "format": "slc",
+    "date": "7/31/2026"
   }
 
 
