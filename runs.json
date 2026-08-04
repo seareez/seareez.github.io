@@ -3489,8 +3489,163 @@
     "download": "https://github.com/seareez/seareez.github.io/blob/main/macros/109851469_20203t_any.slc",
     "format": "slc",
     "date": "7/31/2026"
+  },
+  {
+    "level_name": "Buttom Mania",
+    "level_id": 100138257,
+    "difficulty": "Hard",
+    "ticks": 12960,
+    "tps": 240,
+    "authors": ["GaminGuy"],
+    "video": "https://www.youtube.com/watch?v=dJLtno5TJgU",
+    "download": "",
+    "format": "",
+    "date": "05/25/2026"
+  },
+  {
+    "level_name": "Mice On Mercury",
+    "level_id": 97650341,
+    "difficulty": "Hard",
+    "ticks": 7411,
+    "tps": 240,
+    "authors": ["sear"],
+    "video": "https://youtu.be/S-YIB9eTyPg",
+    "download": "https://github.com/seareez/seareez.github.io/blob/main/macros/97650341_7411t.tcm",
+    "format": "tcm",
+    "date": "07/20/2026"
+  },
+  {
+    "level_name": "Koshmar",
+    "level_id": 97974182,
+    "difficulty": "Hard",
+    "ticks": 11424,
+    "tps": 240,
+    "authors": ["RichConnerGMN"],
+    "video": "https://youtu.be/4z37_rIwcwE/",
+    "download": "https://github.com/seareez/seareez.github.io/blob/main/macros/97650341_7411t.tcm",
+    "format": "slc",
+    "date": "07/21/2026"
+  },
+  {
+    "level_name": "Getting Over It",
+    "level_id": 97480163,
+    "difficulty": "Insane",
+    "ticks": 4095,
+    "tps": 240,
+    "authors": ["GaminGuy"],
+    "video": "",
+    "download": "https://github.com/seareez/seareez.github.io/blob/main/macros/97480163_4095t.gdr",
+    "format": "gdr",
+    "date": "07/26/2026"
+  },
+  {
+    "level_name": "Platformer Manual",
+    "level_id": "145150304 (110377078)",
+    "difficulty": "Extreme Demon",
+    "ticks": 730195,
+    "tps": 240,
+    "authors": ["sear, Fuyu, Melting Ice"],
+    "video": "https://youtu.be/zInZN-JA0H0",
+    "download": "https://github.com/seareez/seareez.github.io/blob/main/macros/145150304_730195t.tcm",
+    "format": "tcm",
+    "date": "07/27/2026"
+  },
+  {
+    "level_name": "Speeeeeeed",
+    "level_id": 110172318,
+    "difficulty": "Hard Demon",
+    "ticks": 7256,
+    "tps": 240,
+    "authors": ["GaminGuy"],
+    "video": "",
+    "download": "https://github.com/seareez/seareez.github.io/blob/main/macros/110172318_7256t.gdr",
+    "format": "gdr",
+    "date": "07/30/2026"
+  },
+  {
+    "level_name": "Avos",
+    "level_id": 110624214,
+    "difficulty": "Easy",
+    "ticks": 16862,
+    "tps": 240,
+    "authors": ["Taze"],
+    "video": "",
+    "download": "https://github.com/seareez/seareez.github.io/blob/main/macros/110624214_16862t.tcm",
+    "format": "tcm",
+    "date": "07/30/2026"
+  },
+  {
+    "level_name": "Koshmar",
+    "level_id": 97974182,
+    "difficulty": "Hard",
+    "ticks": 11409,
+    "tps": 240,
+    "authors": ["Taze"],
+    "video": "https://youtu.be/QgrHMKKYFkw",
+    "download": "https://github.com/seareez/seareez.github.io/blob/main/macros/97974182_110409.tcm",
+    "format": "tcm",
+    "date": "07/31/2026"
+  },
+  {
+    "level_name": "heavy lifting",
+    "level_id": 140672387,
+    "difficulty": "Hard",
+    "ticks": 22842,
+    "tps": 240,
+    "authors": ["Taze"],
+    "video": "https://youtu.be/ln5ZZkYRbyw",
+    "download": "https://github.com/seareez/seareez.github.io/blob/main/macros/140672387_22842t.tcm",
+    "format": "tcm",
+    "date": "08/01/2026"
+  },
+  {
+    "level_name": "The Tower (100%)",
+    "level_id": 5001,
+    "difficulty": "",
+    "ticks": 17154,
+    "tps": 240,
+    "authors": ["Melting Ice"],
+    "video": "https://www.youtube.com/watch?v=8OY0EhMDBB4",
+    "download": "https://github.com/seareez/seareez.github.io/blob/main/macros/5001-100_17154t.tcm",
+    "format": "tcm",
+    "date": "08/09/2025"
+  },
+  {
+    "level_name": "The Sewers (100%)",
+    "level_id": 5002,
+    "difficulty": "",
+    "ticks": 21491,
+    "tps": 240,
+    "authors": ["Melting Ice"],
+    "video": "https://www.youtube.com/watch?v=3RALM8B0M7o",
+    "download": "https://github.com/seareez/seareez.github.io/blob/main/macros/5002-100_21491t.tcm",
+    "format": "tcm",
+    "date": "08/10/2025"
+  },
+  {
+    "level_name": "The Cellar (100%)",
+    "level_id": 5003,
+    "difficulty": "",
+    "ticks": 20386,
+    "tps": 240,
+    "authors": ["Melting Ice"],
+    "video": "https://www.youtube.com/watch?v=TWoHgGZkh9Q",
+    "download": "https://github.com/seareez/seareez.github.io/blob/main/macros/5003-100_20386t.tcm",
+    "format": "tcm",
+    "date": "05/19/2026"
+  },
+  {
+    "level_name": "How To Platformer",
+    "level_id": 104187415,
+    "difficulty": "Insane Demon",
+    "ticks": 618232,
+    "tps": 240,
+    "authors": ["sear, Fuyu, Melting Ice"],
+    "video": "https://www.youtube.com/watch?v=8mcbluRGJok",
+    "download": "https://github.com/seareez/seareez.github.io/blob/main/macros/104187415_618232t.tcm",
+    "format": "tcm",
+    "date": "08/03/2026"
   }
-
 
 
 ]
