@@ -3645,6 +3645,18 @@
     "download": "https://github.com/seareez/seareez.github.io/blob/main/macros/104187415_618232t.tcm",
     "format": "tcm",
     "date": "08/03/2026"
+  },
+  {
+    "level_name": "comBATMAN",
+    "level_id": 142869735,
+    "difficulty": "Insane",
+    "ticks": 7689,
+    "tps": 240,
+    "authors": ["RichConnerGMN"],
+    "video": "https://www.youtube.com/watch?v=b4LnSTSaY9c",
+    "download": "https://github.com/seareez/seareez.github.io/blob/main/macros/142869735_7689t_any.slc",
+    "format": "slc",
+    "date": "09/19/2026"
   }
 
 
