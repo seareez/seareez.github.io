@@ -3657,6 +3657,18 @@
     "download": "https://github.com/seareez/seareez.github.io/blob/main/macros/142869735_7689t_any.slc",
     "format": "slc",
     "date": "09/19/2026"
+  },
+  {
+    "level_name": "RTA Viable",
+    "level_id": 110626059,
+    "difficulty": "Impossible",
+    "ticks": 1907,
+    "tps": 240,
+    "authors": ["Melting Ice"],
+    "video": "",
+    "download": "https://github.com/seareez/seareez.github.io/blob/main/macros/110626059_1907t.tcm",
+    "format": "tcm",
+    "date": "08/04/2026"
   }
 
 
