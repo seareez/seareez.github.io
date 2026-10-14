@@ -4219,7 +4219,7 @@
     "authors": ["SkyThePancake"],
     "video": "https://youtu.be/7ieWVyFVHM4",
     "download": "https://github.com/seareez/seareez.github.io/blob/main/macros/114362678_88769t.tcm",
-    "format": "https://youtu.be/7ieWVyFVHM4",
+    "format": "tcm",
     "date": "10/05/2026"
   },
   {
@@ -4337,7 +4337,7 @@
     "ticks": 1640,
     "tps": 240,
     "authors": ["RichConnerGMN"],
-    "video": "",
+    "video": "https://youtu.be/ONZOTF8_lJI",
     "download": "https://github.com/seareez/seareez.github.io/blob/main/macros/138530778_1640t.slc",
     "format": "slc",
     "date": "10/12/2026"
