@@ -4175,7 +4175,7 @@
     "date": "10/03/2026"
   },
   {
-    "level_name": "Palette",
+    "level_name": "PALETTE",
     "level_id": 115084216,
     "difficulty": "Easy Demon",
     "ticks": 18256,
@@ -4341,6 +4341,42 @@
     "download": "https://github.com/seareez/seareez.github.io/blob/main/macros/138530778_1640t.slc",
     "format": "slc",
     "date": "10/12/2026"
+  },
+  {
+    "level_name": "GD levels platformer",
+    "level_id": 133560715,
+    "difficulty": "Easy Demon",
+    "ticks": 67814,
+    "tps": 240,
+    "authors": ["Fuyu"],
+    "video": "https://www.youtube.com/watch?v=lYRsAEphNa4",
+    "download": "https://github.com/seareez/seareez.github.io/blob/main/macros/133560715_67814t.tcm",
+    "format": "tcm",
+    "date": "10/14/2026"
+  },
+  {
+    "level_name": "How to IPLL",
+    "level_id": 113529878,
+    "difficulty": "Impossible",
+    "ticks": 43773,
+    "tps": 240,
+    "authors": ["Melting Ice"],
+    "video": "https://youtu.be/bf3-PxE6kl0",
+    "download": "https://github.com/seareez/seareez.github.io/blob/main/macros/113529878_43773t.tcm",
+    "format": "tcm",
+    "date": "10/14/2026"
+  },
+  {
+    "level_name": "PALETTE",
+    "level_id": 115084216,
+    "difficulty": "Easy Demon",
+    "ticks": 4086,
+    "tps": 240,
+    "authors": ["sear"],
+    "video": "https://www.youtube.com/watch?v=DqjbKzW48MU",
+    "download": "https://github.com/seareez/seareez.github.io/blob/main/macros/115084216_4086t.tcm",
+    "format": "tcm",
+    "date": "10/15/2026"
   }
 
 
