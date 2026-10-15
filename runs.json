@@ -4343,7 +4343,9 @@
     "date": "10/12/2026"
   },
   {
+    "level_name": "GD levels platformer",
     "level_id": 133560715,
+    "difficulty": "Easy Demon",
     "ticks": 67814,
     "tps": 240,
     "authors": ["Fuyu"],
@@ -4353,7 +4355,9 @@
     "date": "10/14/2026"
   },
   {
+    "level_name": "How to IPLL",
     "level_id": 113529878,
+    "difficulty": "Impossible",
     "ticks": 43773,
     "tps": 240,
     "authors": ["Melting Ice"],
@@ -4363,7 +4367,9 @@
     "date": "10/14/2026"
   },
   {
+    "level_name": "PALETTE",
     "level_id": 115084216,
+    "difficulty": "Easy Demon",
     "ticks": 16344,
     "tps": 240,
     "authors": ["sear"],
