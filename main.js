@@ -228,7 +228,7 @@ for (const input in inputs) {
 }
 
 async function initTable () {
-  const response = await fetch("runs.json");
+  const response = await fetch("filled_runs.json");
   if (response.status !== 200) {
     alert("Failed to fetch table of runs.\nTry again later.");
     return;
