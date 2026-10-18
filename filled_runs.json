@@ -1,0 +1,5377 @@
+[
+  {
+    "level_name": "The Tower",
+    "level_id": 5001,
+    "difficulty": "Hard",
+    "ticks": 15567,
+    "tps": 240,
+    "authors": [
+      "Melting Ice"
+    ],
+    "video": "https://youtu.be/RMScGB_Fwh&t=5",
+    "download": "https://drive.google.com/file/d/1jhBM3x_SEbkYs2NW_jfs_ADr2j8si7xq/view?usp=drive_link",
+    "format": "tcm",
+    "date": "07/15/2025",
+    "moons": "0"
+  },
+  {
+    "level_name": "The Sewers",
+    "level_id": 5002,
+    "difficulty": "Harder",
+    "ticks": 17347,
+    "tps": 240,
+    "authors": [
+      "Melting Ice"
+    ],
+    "video": "https://youtu.be/RMScGB_Fwhs&t=75",
+    "download": "https://drive.google.com/file/d/1d6rR9nZ3L80lMHklOJc2SrAqxsPo0ybV/view?usp=drive_link",
+    "format": "tcm",
+    "date": "05/31/2025",
+    "moons": "0"
+  },
+  {
+    "level_name": "The Cellar",
+    "level_id": 5003,
+    "difficulty": "Harder",
+    "ticks": 18317,
+    "tps": 240,
+    "authors": [
+      "Melting Ice"
+    ],
+    "video": "https://youtu.be/RMScGB_Fwhs&t=153",
+    "download": "https://drive.google.com/file/d/1uLwJFJBK7PY4mfvnViKaaCUrsdHVLANB/view?usp=drive_link",
+    "format": "tcm",
+    "date": "12/19/2025",
+    "moons": "0"
+  },
+  {
+    "level_name": "The Secret Hollow",
+    "level_id": 5004,
+    "difficulty": "Harder",
+    "ticks": 39293,
+    "tps": 240,
+    "authors": [
+      "Melting Ice"
+    ],
+    "video": "https://youtu.be/RMScGB_Fwhs&t=235",
+    "download": "https://drive.google.com/file/d/1T8Oa7_VHMnZhqigERcukPGf4_MjbXpT2/view?usp=drive_link",
+    "format": "tcm",
+    "date": "07/18/2025",
+    "moons": "0"
+  },
+  {
+    "level_name": "ROBOT STOP",
+    "level_id": 122689486,
+    "difficulty": "Insane",
+    "ticks": 3063,
+    "tps": 240,
+    "authors": [
+      "Fuyu"
+    ],
+    "video": "https://youtu.be/ZsIhPIvXMFE",
+    "download": "https://drive.google.com/file/d/1BjfgSggbSBGrAJmNcqdbDiVZGucnQo3W/view",
+    "format": "tcm",
+    "date": "01/01/2026",
+    "moons": "0"
+  },
+  {
+    "level_name": "Aerios",
+    "level_id": 111048577,
+    "difficulty": "Extreme Demon",
+    "ticks": 10597,
+    "tps": 240,
+    "authors": [
+      "Fuyu"
+    ],
+    "video": "https://youtu.be/CSU2nuB0vMM",
+    "download": "https://drive.google.com/file/d/1OY_yZBa1quE2MMt6zGgDojqhu1uzzag8/view?usp=drive_link",
+    "format": "tcm",
+    "date": "01/01/2026",
+    "moons": "10"
+  },
+  {
+    "level_name": "eve",
+    "level_id": 111900395,
+    "difficulty": "Insane",
+    "ticks": 3727,
+    "tps": 240,
+    "authors": [
+      "Fuyu"
+    ],
+    "video": "https://youtu.be/LKTHM272bEU",
+    "download": "https://drive.google.com/file/d/1Zfa5auBgvHY-qWy--sIWGRrXv_y7JJsi/view",
+    "format": "tcm",
+    "date": "01/01/2026",
+    "moons": "0"
+  },
+  {
+    "level_name": "The Elephants Foot",
+    "level_id": 104896656,
+    "difficulty": "Insane",
+    "ticks": 5942,
+    "tps": 240,
+    "authors": [
+      "Fuyu"
+    ],
+    "video": "https://www.youtube.com/watch?v=a8MYj0FFero",
+    "download": "https://drive.google.com/file/d/1G6dKngb9Oi3q5J-UCZc7P_6yZEtRNQ80/view?usp=sharing",
+    "format": "tcm",
+    "date": "03/09/2025",
+    "moons": "0"
+  },
+  {
+    "level_name": "Uhm Huh",
+    "level_id": 112426437,
+    "difficulty": "Extreme Demon",
+    "ticks": 9434,
+    "tps": 240,
+    "authors": [
+      "Fuyu"
+    ],
+    "video": "https://www.youtube.com/watch?v=enSIHetBYC4",
+    "download": "https://drive.google.com/file/d/1DArSi0j0Ln7-xkxaTSv7Q6nwaZ5Kzw0Z/view?usp=drive_link",
+    "format": "tcm",
+    "date": "02/23/2025",
+    "moons": "10"
+  },
+  {
+    "level_name": "ascend",
+    "level_id": 124303654,
+    "difficulty": "Insane",
+    "ticks": 8082,
+    "tps": 240,
+    "authors": [
+      "Fuyu"
+    ],
+    "video": "https://youtu.be/I-uVlsrXbOw",
+    "download": "https://drive.google.com/file/d/1DArSi0j0Ln7-xkxaTSv7Q6nwaZ5Kzw0Z/view?usp=drive_link",
+    "format": "tcm",
+    "date": "01/01/2026",
+    "moons": "0"
+  },
+  {
+    "level_name": "Null",
+    "level_id": 104031134,
+    "difficulty": "Extreme Demon",
+    "ticks": 7067,
+    "tps": 240,
+    "authors": [
+      "sear"
+    ],
+    "video": "https://www.youtube.com/watch?v=fq4Tug6XGxE",
+    "download": "https://drive.google.com/file/d/1cAWjMf5RQTrQ5lof3khX4RAYTANkOK3n/view?usp=drive_link",
+    "format": "tcm",
+    "date": "01/01/2026",
+    "moons": "10"
+  },
+  {
+    "level_name": "r a g e",
+    "level_id": 112834935,
+    "difficulty": "Extreme Demon",
+    "ticks": 5528,
+    "tps": 240,
+    "authors": [
+      "sear"
+    ],
+    "download": "https://drive.google.com/file/d/19mNlcOCklVmx0kUxuBCwTLaQyF78DrSv/view?usp=drive_link",
+    "format": "tcm",
+    "date": "01/01/2026",
+    "moons": "10"
+  },
+  {
+    "level_name": "CaveOfTheScarletSky",
+    "level_id": 113224510,
+    "difficulty": "Extreme Demon",
+    "ticks": 15456,
+    "tps": 240,
+    "authors": [
+      "sear"
+    ],
+    "video": "https://www.youtube.com/watch?v=9YL3i5B-EH8",
+    "download": "https://drive.google.com/file/d/1TMdRmiSLGVf-A8XPmYxUNjH97_WTCaUg/view?usp=sharing",
+    "format": "gdr",
+    "date": "12/19/2024",
+    "moons": "10"
+  },
+  {
+    "level_name": "Pandora",
+    "level_id": 115809824,
+    "difficulty": "Insane",
+    "ticks": 8406,
+    "tps": 240,
+    "authors": [
+      "Melting Ice"
+    ],
+    "download": "https://drive.google.com/file/d/1nDN1moSCugmXDZXByelZmpdPuvL7GUqe/view?usp=drive_link",
+    "format": "tcm",
+    "date": "01/01/2026",
+    "moons": "0"
+  },
+  {
+    "level_name": "IWannaPlatformerList",
+    "level_id": 122391065,
+    "difficulty": "Extreme Demon",
+    "ticks": 119573,
+    "tps": 240,
+    "authors": [
+      "Melting Ice"
+    ],
+    "download": "https://drive.google.com/file/d/1eWBB67lV3hKkbIv0Xs8YFIrgnckh5E2t/view?usp=drive_link",
+    "format": "tcm",
+    "date": "01/01/2026",
+    "moons": "10"
+  },
+  {
+    "level_name": "Trials of Infinity",
+    "level_id": 109520668,
+    "difficulty": "Insane",
+    "ticks": 30476,
+    "tps": 240,
+    "authors": [
+      "sear"
+    ],
+    "video": "https://youtu.be/3fjG96AvlF4",
+    "download": "https://drive.google.com/file/d/1RdGY4UZgmLGXcr3mA6n2gr6HD2Fw56R2/view?usp=drive_link",
+    "format": "tcm",
+    "date": "01/01/2026",
+    "moons": "0"
+  },
+  {
+    "level_name": "Its MF Kaiji Sunday ",
+    "level_id": 109540925,
+    "difficulty": "Harder",
+    "ticks": 2792,
+    "tps": 240,
+    "authors": [
+      "sear"
+    ],
+    "download": "https://drive.google.com/file/d/1m8VZPY8hR16gbxv79hfz8yVH_G_CpURt/view?usp=sharing",
+    "format": "tcm",
+    "date": "01/01/2026",
+    "moons": "0"
+  },
+  {
+    "level_name": "FLORESCENCE",
+    "level_id": 112737943,
+    "difficulty": "Insane",
+    "ticks": 13552,
+    "tps": 240,
+    "authors": [
+      "sear"
+    ],
+    "download": "https://drive.google.com/file/d/13mCIbZo7dlCaaQW3ewSVfAiSwkj5-lDZ/view?usp=sharing",
+    "format": "tcm",
+    "date": "01/01/2026",
+    "moons": "0"
+  },
+  {
+    "level_name": " Ruined",
+    "level_id": 99303885,
+    "difficulty": "Insane",
+    "ticks": 3333,
+    "tps": 240,
+    "authors": [
+      "Fuyu"
+    ],
+    "video": "https://youtu.be/4c3XD9X9d00",
+    "download": "https://drive.google.com/file/d/1i36Lp_ZD5J9IX8rSPiAl5xpYoQaZPklR/view?usp=drive_link",
+    "format": "tcm",
+    "date": "01/01/2026",
+    "moons": "0"
+  },
+  {
+    "level_name": "Sedulous",
+    "level_id": 111126817,
+    "difficulty": "Insane",
+    "ticks": 9120,
+    "tps": 240,
+    "authors": [
+      "sear"
+    ],
+    "download": "https://drive.google.com/file/d/1JyOti-ZBYgfGgFtL4gOVrCdfs3HkFPsi/view?usp=sharing",
+    "format": "tcm",
+    "date": "01/01/2026",
+    "moons": "0"
+  },
+  {
+    "level_name": "Diamonds For Dashers",
+    "level_id": 118798387,
+    "difficulty": "Extreme Demon",
+    "ticks": 15543,
+    "tps": 240,
+    "authors": [
+      "sear"
+    ],
+    "download": "https://drive.google.com/file/d/1rznfPMMblPBirdTAbeZQ_Ez7vl3HGPep/view?usp=sharing",
+    "format": "tcm",
+    "date": "01/01/2026",
+    "moons": "10"
+  },
+  {
+    "level_name": "BRRRRRRRRRRRR",
+    "level_id": 97642383,
+    "difficulty": "Hard",
+    "ticks": 1342,
+    "tps": 240,
+    "authors": [
+      "Fuyu"
+    ],
+    "video": "https://youtu.be/JARp0rYwMWw",
+    "download": "https://cdn.discordapp.com/attachments/1222740229329522763/1232031790630310053/BRRRRRRRRRRRR.gdr?ex=6a149184&is=6a134004&hm=510e928ae8825c754ae80620708f3c441a9c0d5c04464c67bdfdd67a1ff8576e&",
+    "format": "gdr",
+    "date": "04/22/2024",
+    "moons": "4"
+  },
+  {
+    "level_name": "Permafrost Peaks",
+    "level_id": 98852405,
+    "difficulty": "Harder",
+    "ticks": 1963,
+    "tps": 240,
+    "authors": [
+      "ShadowyZephyr"
+    ],
+    "video": "https://www.youtube.com/embed/-GwMwRCvca8",
+    "download": "",
+    "format": "",
+    "date": "01/01/2025",
+    "moons": "0"
+  },
+  {
+    "level_name": "YiiK A PostAlbertRPG",
+    "level_id": 100353881,
+    "difficulty": "Harder",
+    "ticks": 2226,
+    "tps": 240,
+    "authors": [
+      "Fuyu"
+    ],
+    "video": "https://www.youtube.com/embed/IZdQ36AW9zA",
+    "download": "",
+    "format": "",
+    "date": "03/10/2024",
+    "moons": "0"
+  },
+  {
+    "level_name": "VENUS",
+    "level_id": 97524369,
+    "difficulty": "Harder",
+    "ticks": 2295,
+    "tps": 240,
+    "authors": [
+      "Fuyu"
+    ],
+    "video": "https://www.youtube.com/embed/VALsq5kBlKA",
+    "download": "",
+    "format": "",
+    "date": "02/27/2024",
+    "moons": "0"
+  },
+  {
+    "level_name": "Sunken Pier",
+    "level_id": 97534859,
+    "difficulty": "Insane",
+    "ticks": 2377,
+    "tps": 240,
+    "authors": [
+      "Fuyu"
+    ],
+    "video": "https://www.youtube.com/embed/i3qL9yFt1q0",
+    "download": "",
+    "format": "",
+    "date": "01/28/2024",
+    "moons": "0"
+  },
+  {
+    "level_name": "Infinity Trial",
+    "level_id": 99978836,
+    "difficulty": "Harder",
+    "ticks": 2507,
+    "tps": 240,
+    "authors": [
+      "sear"
+    ],
+    "video": "https://www.youtube.com/embed/jldYyXEtasY",
+    "download": "",
+    "format": "",
+    "date": "01/01/2025",
+    "moons": "0"
+  },
+  {
+    "level_name": "Black Spot",
+    "level_id": 98611700,
+    "difficulty": "Insane",
+    "ticks": 2558,
+    "tps": 240,
+    "authors": [
+      "Aibyou"
+    ],
+    "video": "https://www.youtube.com/watch?v=VQuswwpGMKA",
+    "download": "https://cdn.discordapp.com/attachments/1222740229329522763/1240459326275977306/blackspot.ybot?ex=6a143f06&is=6a12ed86&hm=199e6c12371646531174c7569f2786472adbbb335438748a47cf0c4407a6eab7&",
+    "format": "ybot",
+    "date": "05/15/2024",
+    "moons": "0"
+  },
+  {
+    "level_name": "Square keys",
+    "level_id": 101007574,
+    "difficulty": "Normal",
+    "ticks": 2709,
+    "tps": 240,
+    "authors": [
+      "ShadowyZephyr"
+    ],
+    "video": "https://www.youtube.com/embed/hZQjH8BF894",
+    "download": "",
+    "format": "",
+    "date": "01/01/2024",
+    "moons": "3"
+  },
+  {
+    "level_name": "Bimba y Lola",
+    "level_id": 97704668,
+    "difficulty": "Harder",
+    "ticks": 3134,
+    "tps": 240,
+    "authors": [
+      "ShadowyZephyr"
+    ],
+    "download": "",
+    "format": "",
+    "date": "01/01/2024",
+    "moons": "7"
+  },
+  {
+    "level_name": "Wendys Revenge",
+    "level_id": 97687438,
+    "difficulty": "Insane",
+    "ticks": 3311,
+    "tps": 240,
+    "authors": [
+      "Fuyu"
+    ],
+    "download": "",
+    "format": "",
+    "date": "01/01/2024",
+    "moons": "0"
+  },
+  {
+    "level_name": "Tetris in GD",
+    "level_id": 98867410,
+    "difficulty": "Harder",
+    "ticks": 3355,
+    "tps": 240,
+    "authors": [
+      "ShadowyZephyr"
+    ],
+    "video": "https://www.youtube.com/embed/iXbfgD9iXHw",
+    "format": "",
+    "date": "01/01/2024",
+    "moons": "7"
+  },
+  {
+    "level_name": "Black Lotus",
+    "level_id": 99989185,
+    "difficulty": "Insane",
+    "ticks": 3358,
+    "tps": 240,
+    "authors": [
+      "LucaGMD"
+    ],
+    "video": "https://www.youtube.com/embed/8aXFjfbfHkU",
+    "download": "https://cdn.discordapp.com/attachments/1222740229329522763/1223038453256687698/Black_Lotus.gdr?ex=6a14cf52&is=6a137dd2&hm=dcfd645c8566b5a9ed689c7f5967d0340128c102f6213d930c59914a49bc1f7a&",
+    "format": "gdr",
+    "date": "03/28/2024",
+    "moons": "0"
+  },
+  {
+    "level_name": "Candy Crush buff",
+    "level_id": 98714164,
+    "difficulty": "Insane",
+    "ticks": 3459,
+    "tps": 240,
+    "authors": [
+      "Fuyu"
+    ],
+    "video": "https://youtu.be/VMbq8jxNI9U",
+    "download": "https://cdn.discordapp.com/attachments/1222740229329522763/1241383961322721400/Candy_Crush_buff.gdr?ex=6a145068&is=6a12fee8&hm=7eef10409db89e57ff74dc44154eb38ac1554d822a41aea39318ec1f2a98089e&",
+    "format": "gdr",
+    "date": "05/18/2024",
+    "moons": "0"
+  },
+  {
+    "level_name": "Exception",
+    "level_id": 100509834,
+    "difficulty": "Insane",
+    "ticks": 3508,
+    "tps": 240,
+    "authors": [
+      "Fuyu"
+    ],
+    "video": "https://youtu.be/R3j9xc_HPWw",
+    "download": "https://cdn.discordapp.com/attachments/1222740229329522763/1239161681356259428/Exception.gdr?ex=6a14cc7f&is=6a137aff&hm=53cef03096c7992ead2f201f02498147bd4ce2026c59c436958e5a5b137b8cc6&",
+    "format": "gdr",
+    "date": "05/12/2024",
+    "moons": "0"
+  },
+  {
+    "level_name": "Shimmering Sierra",
+    "level_id": 97627454,
+    "difficulty": "Harder",
+    "ticks": 3666,
+    "tps": 240,
+    "authors": [
+      "ShadowyZephyr"
+    ],
+    "download": "",
+    "format": "",
+    "date": "01/01/2025",
+    "moons": "6"
+  },
+  {
+    "level_name": "Scarlet Basement",
+    "level_id": 97543818,
+    "difficulty": "Insane",
+    "ticks": 3712,
+    "tps": 240,
+    "authors": [
+      "Fuyu"
+    ],
+    "video": "https://youtu.be/bn-e4bj12-0",
+    "download": "",
+    "format": "",
+    "date": "01/30/2024",
+    "moons": "0"
+  },
+  {
+    "level_name": "transformative area",
+    "level_id": 97676478,
+    "difficulty": "Hard",
+    "ticks": 3763,
+    "tps": 240,
+    "authors": [
+      "ShadowyZephyr"
+    ],
+    "download": "",
+    "format": "",
+    "date": "01/01/2025",
+    "moons": "4"
+  },
+  {
+    "level_name": "Get the Apple",
+    "level_id": 97596839,
+    "difficulty": "Hard",
+    "ticks": 3950,
+    "tps": 240,
+    "authors": [
+      "ShadowyZephyr"
+    ],
+    "download": "",
+    "format": "",
+    "date": "01/01/2025",
+    "moons": "5"
+  },
+  {
+    "level_name": "The Tower XXII",
+    "level_id": 97692058,
+    "difficulty": "Insane Demon",
+    "ticks": 4116,
+    "tps": 240,
+    "authors": [
+      "sear"
+    ],
+    "video": "https://www.youtube.com/watch?v=GHKFDYeQ2UM",
+    "download": "",
+    "format": "",
+    "date": "01/15/2024",
+    "moons": "10"
+  },
+  {
+    "level_name": "The Pit",
+    "level_id": 99066482,
+    "difficulty": "Insane",
+    "ticks": 3882,
+    "tps": 240,
+    "authors": [
+      "Fuyu"
+    ],
+    "video": "https://www.youtube.com/embed/ffWcR0JIHGk",
+    "download": "",
+    "format": "",
+    "date": "03/30/2024",
+    "moons": "0"
+  },
+  {
+    "level_name": "Getting Over It",
+    "level_id": 97480163,
+    "difficulty": "Insane",
+    "ticks": 4078,
+    "tps": 240,
+    "authors": [
+      "ShadowyZephyr"
+    ],
+    "download": "",
+    "format": "",
+    "date": "01/01/2025",
+    "moons": "8"
+  },
+  {
+    "level_name": "Spartan Tower",
+    "level_id": 97614556,
+    "difficulty": "Insane",
+    "ticks": 4115,
+    "tps": 240,
+    "authors": [
+      "zetex"
+    ],
+    "download": "",
+    "format": "",
+    "date": "01/01/2025",
+    "moons": "9"
+  },
+  {
+    "level_name": "climb",
+    "level_id": 98881216,
+    "difficulty": "Normal",
+    "ticks": 4248,
+    "tps": 240,
+    "authors": [
+      "ShadowyZephyr"
+    ],
+    "download": "",
+    "format": "",
+    "date": "01/01/2025",
+    "moons": "3"
+  },
+  {
+    "level_name": "Boring Tower",
+    "level_id": 97579586,
+    "difficulty": "Insane",
+    "ticks": 4405,
+    "tps": 240,
+    "authors": [
+      "LucaGMD"
+    ],
+    "video": "https://www.youtube.com/embed/FPBgIDAe644",
+    "download": "https://cdn.discordapp.com/attachments/1222740229329522763/1223040852973191299/Boring_Tower.gdr?ex=6a14d18e&is=6a13800e&hm=5ed147841ddd113183b835b85b76b72c5110969658474575fbd6b188ecd85c21&",
+    "format": "gdr",
+    "date": "03/28/2024",
+    "moons": "0"
+  },
+  {
+    "level_name": "I WANNA BE THE CRY",
+    "level_id": 100424146,
+    "difficulty": "Insane",
+    "ticks": 4554,
+    "tps": 240,
+    "authors": [
+      "Fuyu"
+    ],
+    "video": "https://www.youtube.com/embed/UhP3qxDpJt0",
+    "download": "",
+    "format": "",
+    "date": "02/27/2024",
+    "moons": "0"
+  },
+  {
+    "level_name": "Snowy Peaks",
+    "level_id": 97943343,
+    "difficulty": "Hard",
+    "ticks": 4689,
+    "tps": 240,
+    "authors": [
+      "ShadowyZephyr"
+    ],
+    "download": "",
+    "format": "",
+    "date": "01/01/2025",
+    "moons": "4"
+  },
+  {
+    "level_name": "ETERNAL ENDING",
+    "level_id": 98316946,
+    "difficulty": "Extreme Demon",
+    "ticks": 4962,
+    "tps": 240,
+    "authors": [
+      "Fuyu"
+    ],
+    "video": "https://www.youtube.com/embed/zQn3oTlEHgw",
+    "download": "",
+    "format": "",
+    "date": "02/02/2024",
+    "moons": "10"
+  },
+  {
+    "level_name": "Citadel Climb",
+    "level_id": 97627452,
+    "difficulty": "Insane",
+    "ticks": 4955,
+    "tps": 240,
+    "authors": [
+      "ShadowyZephyr"
+    ],
+    "download": "",
+    "format": "",
+    "date": "01/01/2025",
+    "moons": "8"
+  },
+  {
+    "level_name": "ftrial",
+    "level_id": 97570694,
+    "difficulty": "Insane",
+    "ticks": 5104,
+    "tps": 240,
+    "authors": [
+      "Fuyu"
+    ],
+    "video": "https://www.youtube.com/embed/f3gmwzK-Qdc",
+    "download": "",
+    "format": "",
+    "date": "01/28/2024",
+    "moons": "0"
+  },
+  {
+    "level_name": "Disco Dungeon",
+    "level_id": 97638770,
+    "difficulty": "Easy",
+    "ticks": 5242,
+    "tps": 240,
+    "authors": [
+      "ShadowyZephyr"
+    ],
+    "download": "",
+    "format": "",
+    "date": "01/01/2025",
+    "moons": "2"
+  },
+  {
+    "level_name": "Ancient",
+    "level_id": 97818880,
+    "difficulty": "Hard",
+    "ticks": 5368,
+    "tps": 240,
+    "authors": [
+      "ShadowyZephyr"
+    ],
+    "download": "",
+    "format": "",
+    "date": "01/01/2025",
+    "moons": "4"
+  },
+  {
+    "level_name": "INFINITY TRIALS",
+    "level_id": 97730554,
+    "difficulty": "Insane",
+    "ticks": 5265,
+    "tps": 240,
+    "authors": [
+      "Fuyu"
+    ],
+    "video": "https://www.youtube.com/embed/TqjD6gnG9I8",
+    "download": "",
+    "format": "",
+    "date": "03/26/2024",
+    "moons": "0"
+  },
+  {
+    "level_name": "Smelvin Teahouse",
+    "level_id": 97949737,
+    "difficulty": "Insane",
+    "ticks": 5430,
+    "tps": 240,
+    "authors": [
+      "Fuyu"
+    ],
+    "video": "https://www.youtube.com/embed/wgvtANMTC6w",
+    "download": "",
+    "format": "",
+    "date": "02/14/2024",
+    "moons": "0"
+  },
+  {
+    "level_name": "Super Mario Bros Lv1",
+    "level_id": 97978413,
+    "difficulty": "Normal",
+    "ticks": 5436,
+    "tps": 240,
+    "authors": [
+      "C00L"
+    ],
+    "video": "https://www.youtube.com/embed/mwpsSyQu9oY",
+    "format": "",
+    "date": "01/01/2025",
+    "moons": "3"
+  },
+  {
+    "level_name": "ShiftLeaf Temple",
+    "level_id": 98079761,
+    "difficulty": "Easy Demon",
+    "ticks": 5478,
+    "tps": 240,
+    "authors": [
+      "ShadowyZephyr"
+    ],
+    "download": "",
+    "format": "",
+    "date": "01/01/2024",
+    "moons": "10"
+  },
+  {
+    "level_name": "Fun Slides",
+    "level_id": 97818432,
+    "difficulty": "Unrated",
+    "ticks": 36198,
+    "tps": 240,
+    "authors": [
+      "ShadowyZephyr"
+    ],
+    "video": "https://www.youtube.com/embed/jhO1Q4TAmtg",
+    "download": "",
+    "format": "",
+    "date": "01/01/2024",
+    "moons": "0"
+  },
+  {
+    "level_name": "the tower",
+    "level_id": 97664321,
+    "difficulty": "Unrated",
+    "ticks": 36446,
+    "tps": 240,
+    "authors": [
+      "ShadowyZephyr"
+    ],
+    "download": "",
+    "format": "",
+    "date": "01/01/2024",
+    "moons": "0"
+  },
+  {
+    "level_name": "Tornado",
+    "level_id": 101624652,
+    "difficulty": "Harder",
+    "ticks": 38860,
+    "tps": 240,
+    "authors": [
+      "ShadowyZephyr"
+    ],
+    "video": "https://www.youtube.com/embed/1rap_a7YyPQ",
+    "download": "",
+    "format": "",
+    "date": "01/01/2025",
+    "moons": "6"
+  },
+  {
+    "level_name": "The Abyss",
+    "level_id": 98163412,
+    "difficulty": "Extreme Demon",
+    "ticks": 91658,
+    "tps": 240,
+    "authors": [
+      "sear, erzor"
+    ],
+    "video": "https://www.youtube.com/watch?v=vGiwAgO6mpo",
+    "download": "",
+    "format": "",
+    "date": "03/06/2024",
+    "moons": "10"
+  },
+  {
+    "level_name": "Worlds Hardest Game",
+    "level_id": 97683923,
+    "difficulty": "Insane Demon",
+    "ticks": 105822,
+    "tps": 240,
+    "authors": [
+      "sear"
+    ],
+    "video": "https://www.youtube.com/embed/E-0S_Yw6hM8",
+    "download": "",
+    "format": "",
+    "date": "01/01/2025",
+    "moons": "10"
+  },
+  {
+    "level_name": "patio light",
+    "level_id": 99701334,
+    "difficulty": "Insane",
+    "ticks": 28483,
+    "tps": 240,
+    "authors": [
+      "LucaGMD"
+    ],
+    "video": "https://www.youtube.com/watch?v=Vz4wgBbApik&t",
+    "download": "https://cdn.discordapp.com/attachments/1222740229329522763/1222743533513867285/patio_light.gdr?ex=6a146567&is=6a1313e7&hm=c293443f14c792598800be8a97cabcd32e15dfc5929cf3bcd41a49d37a7810f8&",
+    "format": "gdr",
+    "date": "01/01/2025",
+    "moons": "0"
+  },
+  {
+    "level_name": "Tower of Bread 12",
+    "level_id": 99999759,
+    "difficulty": "Insane",
+    "ticks": 6514,
+    "tps": 240,
+    "authors": [
+      "LucaGMD"
+    ],
+    "video": "https://www.youtube.com/watch?v=VubH49c6quc",
+    "download": "https://cdn.discordapp.com/attachments/1222740229329522763/1223039697102835813/Tower_of_Bread_12.gdr?ex=6a14d07a&is=6a137efa&hm=5f248ff4d03e31d08a16d24890bbe0c37be9541d6c159ba52b8c2b02bd1dc7c9&",
+    "format": "gdr",
+    "date": "03/28/2024",
+    "moons": "0"
+  },
+  {
+    "level_name": "A True City",
+    "level_id": 97589231,
+    "difficulty": "Harder",
+    "ticks": 7158,
+    "tps": 240,
+    "authors": [
+      "Fuyu"
+    ],
+    "video": "https://youtu.be/t_N181fMcn8",
+    "download": "https://cdn.discordapp.com/attachments/1222740229329522763/1223713843730186310/A_True_City.gdr?ex=6a14a153&is=6a134fd3&hm=03abb49c5b398eb0a9766628cdf430b6d46d6fd0b5ba05aa5ef83d62b1582829&",
+    "format": "gdr",
+    "date": "03/30/2024",
+    "moons": "6"
+  },
+  {
+    "level_name": "I wanna be the guy",
+    "level_id": 97543536,
+    "difficulty": "Insane Demon",
+    "ticks": 14303,
+    "tps": 240,
+    "authors": [
+      "furrv"
+    ],
+    "video": "https://www.youtube.com/watch?v=W4cGLJ3fcd0",
+    "download": "",
+    "format": "",
+    "date": "03/09/2024",
+    "moons": "10"
+  },
+  {
+    "level_name": "Tower of Suffering",
+    "level_id": 99193438,
+    "difficulty": "Harder",
+    "ticks": 6182,
+    "tps": 240,
+    "authors": [
+      "LucaGMD"
+    ],
+    "video": "https://youtu.be/OsRy1kPjne0",
+    "download": "https://cdn.discordapp.com/attachments/1222740229329522763/1226320934118359216/Tower_of_Suffering.gdr?ex=6a143a1e&is=6a12e89e&hm=8abeefadac3b6809f6e480bcc1ff6a21515fe841fbeb42f8eeefe9c2dbdc5d32&",
+    "format": "gdr",
+    "date": "04/06/2024",
+    "moons": "0"
+  },
+  {
+    "level_name": "Twenty Trials",
+    "level_id": 98780627,
+    "difficulty": "Easy Demon",
+    "ticks": 28987,
+    "tps": 240,
+    "authors": [
+      "sear"
+    ],
+    "video": "https://youtu.be/qfikvAwNKjA",
+    "download": "https://cdn.discordapp.com/attachments/1222740229329522763/1227086775756001370/TwentyTrials.ybot?ex=6a14605d&is=6a130edd&hm=59d4e2a33ca3bfdc84659efc5610c8df3b24aa9c54fafc1dbba4af1536be6cbc&",
+    "format": "ybot",
+    "date": "04/08/2024",
+    "moons": "10"
+  },
+  {
+    "level_name": "Tower of Rage",
+    "level_id": 100782112,
+    "difficulty": "Easy Demon",
+    "ticks": 50989,
+    "tps": 360,
+    "authors": [
+      "Swingcopter"
+    ],
+    "video": "https://youtu.be/AuwXkIkWUeE",
+    "download": "https://cdn.discordapp.com/attachments/1222740229329522763/1227422878375346298/Tower_of_Rage.ybot?ex=6a1447e2&is=6a12f662&hm=d4c1dfe833f47e1271958f7f9b9220e19768558f4080b215e7e677e762d3adbc&",
+    "format": "ybot",
+    "date": "04/09/2024",
+    "moons": "10"
+  },
+  {
+    "level_name": "Idling Somewhere",
+    "level_id": 99170473,
+    "difficulty": "Easy Demon",
+    "ticks": 7952,
+    "tps": 240,
+    "authors": [
+      "sear"
+    ],
+    "video": "https://youtu.be/orEEe6DG_4A",
+    "download": "https://cdn.discordapp.com/attachments/1222740229329522763/1228625836907823124/IdlingSomewhere.ybot?ex=6a14b3ba&is=6a13623a&hm=6a3852907c0164eb64c8c25f6178cf012e8e75533efa8d48b3f1771a7f73f053&",
+    "format": "ybot",
+    "date": "04/13/2024",
+    "moons": "10"
+  },
+  {
+    "level_name": "Jet Lag",
+    "level_id": 97536552,
+    "difficulty": "Medium Demon",
+    "ticks": 11868,
+    "tps": 240,
+    "authors": [
+      "triplea"
+    ],
+    "video": "https://youtu.be/Dcc2wFZePHY",
+    "download": "https://cdn.discordapp.com/attachments/1222740229329522763/1230591895734849666/jet_lag.ybot?ex=6a149a83&is=6a134903&hm=ff7921e4ae7ccb14e8b85d714a49762c3d5c5056a234620ad4bf1e8cd42520b2&",
+    "format": "ybot",
+    "date": "04/18/2024",
+    "moons": "10"
+  },
+  {
+    "level_name": "iwks unnerfed",
+    "level_id": 100638312,
+    "difficulty": "Harder",
+    "ticks": 23011,
+    "tps": 240,
+    "authors": [
+      "LucaGMD"
+    ],
+    "video": "https://youtu.be/Bw1Lrh3sSks",
+    "download": "https://cdn.discordapp.com/attachments/1222740229329522763/1231407158776696923/I_WANNA_KILL_THE_SANTENO.gdr?ex=6a144609&is=6a12f489&hm=a01c96809944ef20190ff8706d2cd6b511afb3c9b2e071072885972de36fd1b9&",
+    "format": "gdr",
+    "date": "04/20/2024",
+    "moons": "0"
+  },
+  {
+    "level_name": "Tower of Geometry",
+    "level_id": 97787386,
+    "difficulty": "Insane Demon",
+    "ticks": 40974,
+    "tps": 240,
+    "authors": [
+      "noob"
+    ],
+    "video": "https://www.youtube.com/watch?v=2uZZ7NgaB54",
+    "download": "https://cdn.discordapp.com/attachments/1222740229329522763/1231650434595160174/geometry_tower.ybot?ex=6a147fda&is=6a132e5a&hm=1322dbefeac53d9e2c48eeb55fbdb591cf8093609379684249ea49ea6d325000&",
+    "format": "ybot",
+    "date": "04/21/2024",
+    "moons": "10"
+  },
+  {
+    "level_name": "Switchscapes",
+    "level_id": 101298431,
+    "difficulty": "Hard Demon",
+    "ticks": 36198,
+    "tps": 240,
+    "authors": [
+      "LawfulDmcBoo"
+    ],
+    "video": "https://www.youtube.com/watch?v=jhO1Q4TAmtg",
+    "download": "https://cdn.discordapp.com/attachments/1222740229329522763/1241585525077442650/Switchscapes_No_Master.gdr?ex=6a146360&is=6a1311e0&hm=59ac4cf2bc84dd823dbdeb34b7a9ab7b3aaf0efe86fa67fc8cacb969de2040ec&",
+    "format": "ybot",
+    "date": "05/18/2024",
+    "moons": "10"
+  },
+  {
+    "level_name": "22 Trials of PAIN",
+    "level_id": 98228276,
+    "difficulty": "Extreme Demon",
+    "ticks": 30636,
+    "tps": 240,
+    "authors": [
+      "LawfulDmcBoo"
+    ],
+    "video": "https://www.youtube.com/watch?v=AfdejvXHJAY",
+    "download": "https://cdn.discordapp.com/attachments/1222740229329522763/1242339369461878785/22_Trials_of_Pain.gdr?ex=6a147e73&is=6a132cf3&hm=c18655fef466051fe40064327b6b6523b901008cba6787c0a95a95f2c280ee29&",
+    "format": "gdr",
+    "date": "05/21/2024",
+    "moons": "10"
+  },
+  {
+    "level_name": "Bouncy Ball Expert",
+    "level_id": 110625662,
+    "difficulty": "Insane Demon",
+    "ticks": 152325,
+    "tps": 240,
+    "authors": [
+      "Spidapida"
+    ],
+    "video": "https://youtu.be/52j7lDfVlHE",
+    "download": "https://cdn.discordapp.com/attachments/1222740229329522763/1297892978513416303/bouncyballexpert.gdr?ex=6a143a87&is=6a12e907&hm=46862cbcf8f1c6fc83a0ad66e2f1ecd25d35eb71d0d37f571405099bbaa02522&",
+    "format": "gdr",
+    "date": "10/21/2024",
+    "moons": "10"
+  },
+  {
+    "level_name": "i wanna rob the top",
+    "level_id": 105299008,
+    "difficulty": "Extreme Demon",
+    "ticks": 28800,
+    "tps": 240,
+    "authors": [
+      "Aibyou"
+    ],
+    "video": "https://www.youtube.com/watch?v=mvpaLnsqrKg",
+    "download": "https://cdn.discordapp.com/attachments/1222740229329522763/1298661501275734016/rob.ybot?ex=6a146345&is=6a1311c5&hm=f6db69049305acc75e46103244697d319df7f033525c5af3969f254ec994c116&",
+    "format": "ybot",
+    "date": "10/23/2024",
+    "moons": "10"
+  },
+  {
+    "level_name": "The Flipside",
+    "level_id": 100843339,
+    "difficulty": "Insane",
+    "ticks": 9919,
+    "tps": 240,
+    "authors": [
+      "Taze"
+    ],
+    "video": "https://youtu.be/Ne-tw-G1hm8",
+    "download": "https://cdn.discordapp.com/attachments/1222740229329522763/1318075375581925517/The_Flipside.ybot?ex=6a147b9a&is=6a132a1a&hm=bdcd6aaeefa41972dd9e7ba70796d74dd4f9f18ed78809ec35ade0e84d7fc652&",
+    "format": "ybot",
+    "date": "12/15/2024",
+    "moons": "0"
+  },
+  {
+    "level_name": "Super Temu Guy",
+    "level_id": 108057924,
+    "difficulty": "Extreme Demon",
+    "ticks": 20280,
+    "tps": 240,
+    "authors": [
+      "sear"
+    ],
+    "video": "https://youtu.be/Hp3DUrK-KfA",
+    "download": "https://cdn.discordapp.com/attachments/1222740229329522763/1347520296420249690/SuperTemuGuy.gdr?ex=6a14d0d2&is=6a137f52&hm=46d19c8b6de1e1dddf27e737b920cce1573e384b87bf41de778e8d262771a206&",
+    "format": "gdr",
+    "date": "03/07/2025",
+    "moons": "10"
+  },
+  {
+    "level_name": "US Healthcare",
+    "level_id": 113066260,
+    "difficulty": "Insane",
+    "ticks": 6017,
+    "tps": 240,
+    "authors": [
+      "Fuyu"
+    ],
+    "video": "https://youtu.be/QKy3MCQEODM",
+    "download": "https://cdn.discordapp.com/attachments/1222740229329522763/1347909429902704712/US_Healthcare.tcm?ex=6a1440fb&is=6a12ef7b&hm=03fcc69cc6db72479832a38b2b7c8ff018eac595272ecc076a8c2b059079a9a6&",
+    "format": "tcm",
+    "date": "03/08/2025",
+    "moons": "0"
+  },
+  {
+    "level_name": "Secret Subterranea",
+    "level_id": 115274076,
+    "difficulty": "Harder",
+    "ticks": 49167,
+    "tps": 240,
+    "authors": [
+      "RichConnerGMN"
+    ],
+    "video": "https://www.youtube.com/watch?v=5w7c99PL1uo",
+    "download": "",
+    "format": "",
+    "date": "03/19/2025",
+    "moons": "7"
+  },
+  {
+    "level_name": "Polychrome",
+    "level_id": 119750498,
+    "difficulty": "Insane",
+    "ticks": 16197,
+    "tps": 240,
+    "authors": [
+      "RichConnerGMN"
+    ],
+    "video": "https://youtu.be/WVoBzlTFGJU",
+    "download": "https://cdn.discordapp.com/attachments/1222740229329522763/1454995986249420830/polychrome.slc?ex=6a163c1b&is=6a14ea9b&hm=58b250482d12a6b35b277ef9f7b5a0c536f434bf0d85e8a251fb78c56f7628d0&",
+    "format": "slc",
+    "date": "12/28/2025",
+    "moons": "9"
+  },
+  {
+    "level_name": "Tower of Machinery",
+    "level_id": 97796674,
+    "difficulty": "Insane",
+    "ticks": 4013,
+    "tps": 240,
+    "authors": [
+      "RichConnerGMN"
+    ],
+    "video": "https://youtu.be/YFSVWPiuA88",
+    "download": "https://cdn.discordapp.com/attachments/1222740229329522763/1462649689362010184/zpryth0.slc?ex=6a1664ac&is=6a15132c&hm=a0fc5e5db1f120ae3defefc856f3f9c95358b520bea82d7ca156dbb7c12f52f8&",
+    "format": "slc",
+    "date": "01/16/2026",
+    "moons": "8"
+  },
+  {
+    "level_name": "The Towerverse",
+    "level_id": 102814497,
+    "difficulty": "Hard Demon",
+    "ticks": 140989,
+    "tps": 240,
+    "authors": [
+      "RichConnerGMN"
+    ],
+    "video": "https://youtu.be/rd6RM112KAw/",
+    "download": "https://cdn.discordapp.com/attachments/1222740229329522763/1469293663795417119/the_towerverse_tas.slc?ex=6a162c9b&is=6a14db1b&hm=68d99981d0e98db0fef9fa6de3b4c8480a9af4427598bdee42a8e7c24ad95273&",
+    "format": "slc",
+    "date": "02/06/2025",
+    "moons": "10"
+  },
+  {
+    "level_name": "TOPALAND",
+    "level_id": 128580513,
+    "difficulty": "Hard",
+    "ticks": 24090,
+    "tps": 240,
+    "authors": [
+      "RichConnerGMN"
+    ],
+    "video": "https://youtu.be/KrXD9k4zhHE/",
+    "download": "https://cdn.discordapp.com/attachments/1222740229329522763/1470372215244591194/topaland_tas.slc?ex=6a162496&is=6a14d316&hm=d733ebfb696cc8b1f56bd6ce872dfd7bc9a309b9037e73f1ebfddc1e05309fc2&",
+    "format": "slc",
+    "date": "02/09/2026",
+    "moons": "5"
+  },
+  {
+    "level_name": "PORTUHHH",
+    "level_id": 132963656,
+    "difficulty": "Hard",
+    "ticks": 11390,
+    "tps": 240,
+    "authors": [
+      "RichConnerGMN"
+    ],
+    "video": "https://youtu.be/Dh3Rt41oDA8/",
+    "download": "https://cdn.discordapp.com/attachments/1222740229329522763/1473077775781986325/portuhhh_tas.slc?ex=6a161916&is=6a14c796&hm=da5040cee8df79749053182ea81e80f326873d165cce346606f55780e0a732ed&",
+    "format": "slc",
+    "date": "02/16/2026",
+    "moons": "5"
+  },
+  {
+    "level_name": "Tendril Temple",
+    "level_id": 133651969,
+    "difficulty": "Insane",
+    "ticks": 8243,
+    "tps": 240,
+    "authors": [
+      "Aibyou"
+    ],
+    "video": "https://www.youtube.com/watch?v=KZGW1NQYlGI",
+    "download": "https://cdn.discordapp.com/attachments/1222740229329522763/1474568955028050173/tt.tcm?ex=6a163fdb&is=6a14ee5b&hm=8e531dd8c89868cc81f4c0df72bfe5ee328e95f70a7dfa82c629be50f92e6d03&",
+    "format": "tcm",
+    "date": "02/20/2026",
+    "moons": "9"
+  },
+  {
+    "level_name": "Cartash fixed rng",
+    "level_id": 135027288,
+    "difficulty": "Unrated",
+    "ticks": 27093,
+    "tps": 240,
+    "authors": [
+      "RichConnerGMN"
+    ],
+    "video": "https://youtu.be/gaAzh5npLbs",
+    "download": "https://cdn.discordapp.com/attachments/1222740229329522763/1479612309474381824/6AMdybt.slc?ex=6a1623d8&is=6a14d258&hm=f7dfaf5364db0566fc3c7a0d0704fde0b53190fda2795a35f03173a9545eb6e9&",
+    "format": "slc",
+    "date": "03/06/2026",
+    "moons": "0"
+  },
+  {
+    "level_name": "Radiopolis",
+    "level_id": 138140383,
+    "difficulty": "Insane Demon",
+    "ticks": 8658,
+    "tps": 240,
+    "authors": [
+      "The Cube Guy"
+    ],
+    "video": "https://www.youtube.com/watch?v=cwxg3nrczfA",
+    "download": "https://cdn.discordapp.com/attachments/1504752137467334757/1508889820188115074/Radiopolis.tcm?ex=6a188026&is=6a172ea6&hm=a22fdd47ce2dd36a01fe06a1ebaad71ac7fd8e7056b82d50537978df538feb28&",
+    "format": "tcm",
+    "date": "04/25/2026",
+    "moons": "10"
+  },
+  {
+    "level_name": "how to Spiderr",
+    "level_id": 122370463,
+    "difficulty": "Easy Demon",
+    "ticks": 35008,
+    "tps": 240,
+    "authors": [
+      "The Cube Guy"
+    ],
+    "video": "https://www.youtube.com/watch?v=1W4sTtKGr6o",
+    "download": "https://cdn.discordapp.com/attachments/1504752137467334757/1508889819097338039/How_to_Spiderr.tcm?ex=6a188026&is=6a172ea6&hm=e8dd30a7e8a3a733793d025997c416e146cc1584699512c34d3c8ef32809826b&",
+    "format": "tcm",
+    "date": "05/03/2026",
+    "moons": "10"
+  },
+  {
+    "level_name": "tears in the snow",
+    "level_id": 130887287,
+    "difficulty": "Easy Demon",
+    "ticks": 10437,
+    "tps": 240,
+    "authors": [
+      "The Cube Guy"
+    ],
+    "video": "https://www.youtube.com/watch?v=cfqy2Rvx-aM",
+    "download": "https://cdn.discordapp.com/attachments/1504752137467334757/1508889820502556745/Tears_in_the_Snow.tcm?ex=6a188027&is=6a172ea7&hm=f1190b82223812a3a43bd6f7a23c6d23a7f3981807093fddd55b2f120c4ab013&",
+    "format": "tcm",
+    "date": "05/05/2026",
+    "moons": "10"
+  },
+  {
+    "level_name": "CastleVenture",
+    "level_id": 114614899,
+    "difficulty": "Easy Demon",
+    "ticks": 18316,
+    "tps": 240,
+    "authors": [
+      "The Cube Guy"
+    ],
+    "video": "https://www.youtube.com/watch?v=GlYmABVYDJ4",
+    "download": "https://cdn.discordapp.com/attachments/1504752137467334757/1508889818229112922/CastleVenture.tcm?ex=6a188026&is=6a172ea6&hm=4990b2797d3f4aa023f9e039d75d93a068470fa59132326aac2a8519e93b42ad&",
+    "format": "tcm",
+    "date": "05/07/2026",
+    "moons": "10"
+  },
+  {
+    "level_name": "10 Rooms For Fun",
+    "level_id": 106767751,
+    "difficulty": "Easy Demon",
+    "ticks": 8975,
+    "tps": 240,
+    "authors": [
+      "The Cube Guy"
+    ],
+    "video": "https://www.youtube.com/watch?v=URrGekNk3mA",
+    "download": "https://cdn.discordapp.com/attachments/1504752137467334757/1508889817923190925/10_Rooms.tcm?ex=6a188026&is=6a172ea6&hm=57021e61a524159494b1050e083d46d2b6e7d5aab2c09d8d0df134aa1718ab72&",
+    "format": "tcm",
+    "date": "05/11/2026",
+    "moons": "10"
+  },
+  {
+    "level_name": "Level Devil",
+    "level_id": 134077341,
+    "difficulty": "Easy Demon",
+    "ticks": 42003,
+    "tps": 240,
+    "authors": [
+      "The Cube Guy"
+    ],
+    "video": "https://www.youtube.com/watch?v=moaUx4oj5CE",
+    "download": "https://cdn.discordapp.com/attachments/1504752137467334757/1508889819479277618/Level_Devil.tcm?ex=6a188026&is=6a172ea6&hm=ceb7538c44952b19651b1a36b870a9e7249b888080cba4656a2da7b58196189a&",
+    "format": "tcm",
+    "date": "05/13/2026",
+    "moons": "10"
+  },
+  {
+    "level_name": "Many Fun Rooms Await",
+    "level_id": 112326019,
+    "difficulty": "Medium Demon",
+    "ticks": 84973,
+    "tps": 240,
+    "authors": [
+      "The Cube Guy"
+    ],
+    "video": "https://www.youtube.com/watch?v=eUiuoG3k7Wk",
+    "download": "https://cdn.discordapp.com/attachments/1504752137467334757/1508889819860832437/Many_Fun_Rooms_Await.tcm?ex=6a188026&is=6a172ea6&hm=a9562b33dfff78b3bdad082487fff755a168919ee10a8965c807c96ad49f0062&",
+    "format": "tcm",
+    "date": "05/23/2026",
+    "moons": "10"
+  },
+  {
+    "level_name": "100 Levels of Pain",
+    "level_id": 102517045,
+    "difficulty": "Insane",
+    "ticks": 63603,
+    "tps": 240,
+    "authors": [
+      "The Cube Guy"
+    ],
+    "video": "https://www.youtube.com/watch?v=szRynaV0Zss",
+    "download": "",
+    "format": "",
+    "date": "05/27/2026",
+    "moons": "0"
+  },
+  {
+    "level_name": "The Old Tower",
+    "level_id": 97749804,
+    "difficulty": "Harder",
+    "ticks": 6114,
+    "tps": 240,
+    "authors": [
+      "ezmna59"
+    ],
+    "video": "",
+    "download": "https://drive.google.com/file/d/1y0WUj1AG-O9EOhxrXk20z9PdOi2I0onG/view?usp=sharing",
+    "format": "ybot",
+    "date": "01/01/2025",
+    "moons": "7"
+  },
+  {
+    "level_name": "chromaside",
+    "level_id": 97793375,
+    "difficulty": "Hard Demon",
+    "ticks": 6212,
+    "tps": 240,
+    "authors": [
+      "ShadowyZephyr"
+    ],
+    "video": "https://www.youtube.com/embed/sAum6cTWn2w",
+    "download": "https://drive.google.com/file/d/1Stq1NPqEWTcCHHksGNc9nuurMxLFuqg8/view?usp=sharing",
+    "format": "ybot",
+    "date": "01/03/2024",
+    "moons": "10"
+  },
+  {
+    "level_name": "Cascade Crypts",
+    "level_id": 97566507,
+    "difficulty": "Harder",
+    "ticks": 6479,
+    "tps": 240,
+    "authors": [
+      "ShadowyZephyr"
+    ],
+    "video": "",
+    "download": "https://drive.google.com/file/d/1Rv2zptckg3RgfEKc47qdsNSv2bIvo_w8/view?usp=drive_link",
+    "format": "ybot",
+    "date": "01/01/2025",
+    "moons": "6"
+  },
+  {
+    "level_name": "Squid game font",
+    "level_id": 97663296,
+    "difficulty": "Hard",
+    "ticks": 6811,
+    "tps": 240,
+    "authors": [
+      "ShadowyZephyr"
+    ],
+    "video": "",
+    "download": "https://drive.google.com/file/d/1RD-wmW5FxzKwl1YdGJO3mYLdlusafUwd/view?usp=drive_link",
+    "format": "ybot",
+    "date": "01/01/2025",
+    "moons": "5"
+  },
+  {
+    "level_name": "The Golden Tower",
+    "level_id": 97698751,
+    "difficulty": "Easy",
+    "ticks": 7310,
+    "tps": 240,
+    "authors": [
+      "ShadowyZephyr"
+    ],
+    "video": "https://www.youtube.com/embed/GXHzF-mEdzg",
+    "download": "https://drive.google.com/file/d/1yXtJV4g0eb7_FpklkjQ1zFoejP08tvki/view?usp=drive_link",
+    "format": "ybot",
+    "date": "03/22/2024",
+    "moons": "2"
+  },
+  {
+    "level_name": "Cobblestone Crypts",
+    "level_id": 97972420,
+    "difficulty": "Hard",
+    "ticks": 7774,
+    "tps": 240,
+    "authors": [
+      "ShadowyZephyr"
+    ],
+    "video": "",
+    "download": "https://drive.google.com/file/d/1ELE_3lVELY7aecMprHz7_zodyqYqGava/view?usp=drive_link",
+    "format": "ybot",
+    "date": "01/01/2025",
+    "moons": "5"
+  },
+  {
+    "level_name": "A Christmas Delivery",
+    "level_id": 97603989,
+    "difficulty": "Easy",
+    "ticks": 8933,
+    "tps": 240,
+    "authors": [
+      "ShadowyZephyr"
+    ],
+    "video": "https://www.youtube.com/embed/EAADEDbYG5I",
+    "download": "https://drive.google.com/file/d/1TJJO7HfBh7s2NSqj2yfurV7fnMB9ZfTT/view?usp=drive_link",
+    "format": "ybot",
+    "date": "02/03/2024",
+    "moons": "2"
+  },
+  {
+    "level_name": "Sunset Summit",
+    "level_id": 98094285,
+    "difficulty": "Hard Demon",
+    "ticks": 10641,
+    "tps": 240,
+    "authors": [
+      "sear"
+    ],
+    "video": "",
+    "download": "https://drive.google.com/file/d/1efBym7CLCKJEy26QWX9ZJvn-rRxILBim/view?usp=drive_link",
+    "format": "ybot",
+    "date": "01/01/2025",
+    "moons": "10"
+  },
+  {
+    "level_name": "Impossible Boy",
+    "level_id": 98011217,
+    "difficulty": "Insane",
+    "ticks": 11661,
+    "tps": 240,
+    "authors": [
+      "ShadowyZephyr"
+    ],
+    "video": "https://www.youtube.com/embed/6S8jzN_2vGA",
+    "download": "https://drive.google.com/file/d/1WQxngblaGY5sFP7xdQulUJp_T1jR01w4/view?usp=drive_link",
+    "format": "ybot",
+    "date": "02/03/2024",
+    "moons": "0"
+  },
+  {
+    "level_name": "Spidertek",
+    "level_id": 101116471,
+    "difficulty": "Medium Demon",
+    "ticks": 11763,
+    "tps": 240,
+    "authors": [
+      "ShadowyZephyr"
+    ],
+    "video": "",
+    "download": "https://drive.google.com/file/d/1G-9mksY8IhNgD9BkqfTacrj312DjYAam/view?usp=drive_link",
+    "format": "ybot",
+    "date": "01/01/2025",
+    "moons": "10"
+  },
+  {
+    "level_name": "Enjoying The Sun",
+    "level_id": 97459884,
+    "difficulty": "Hard",
+    "ticks": 12009,
+    "tps": 240,
+    "authors": [
+      "ShadowyZephyr"
+    ],
+    "video": "",
+    "download": "https://drive.google.com/file/d/1zOXNtTbYcH26BgDETsrXB3nXFcDG95Pw/view?usp=drive_link",
+    "format": "ybot",
+    "date": "01/01/2025",
+    "moons": "5"
+  },
+  {
+    "level_name": "dashing over it",
+    "level_id": 98695499,
+    "difficulty": "Medium Demon",
+    "ticks": 13099,
+    "tps": 240,
+    "authors": [
+      "ezmna59"
+    ],
+    "video": "",
+    "download": "https://drive.google.com/file/d/1CJIr9-bRBcXT9QtS3AiHsDRtFNIP1Xpc/view?usp=drive_link",
+    "format": "ybot",
+    "date": "01/01/2025",
+    "moons": "10"
+  },
+  {
+    "level_name": "Dash Cave",
+    "level_id": 98128088,
+    "difficulty": "Hard",
+    "ticks": 13181,
+    "tps": 240,
+    "authors": [
+      "ShadowyZephyr"
+    ],
+    "video": "",
+    "download": "https://drive.google.com/file/d/16ub2VhoRheIwCblnkKAp6aZJtVAD8qsm/view?usp=drive_link",
+    "format": "ybot",
+    "date": "01/01/2025",
+    "moons": "4"
+  },
+  {
+    "level_name": "Bramble Scramble",
+    "level_id": 99126990,
+    "difficulty": "Insane",
+    "ticks": 13962,
+    "tps": 240,
+    "authors": [
+      "ShadowyZephyr"
+    ],
+    "video": "https://www.youtube.com/embed/VtNjZuADcDk",
+    "download": "https://drive.google.com/file/d/1_4QmhQC7o2ZxwnbLLalyASVTlK-mlnfk/view?usp=drive_link",
+    "format": "ybot",
+    "date": "01/31/2024",
+    "moons": "0"
+  },
+  {
+    "level_name": "Forsaken City",
+    "level_id": 97906220,
+    "difficulty": "Easy Demon",
+    "ticks": 14092,
+    "tps": 240,
+    "authors": [
+      "ShadowyZephyr"
+    ],
+    "video": "https://www.youtube.com/embed/yFoqweo2exo",
+    "download": "https://drive.google.com/file/d/15Ylbmz9mp8CZZ4bozSJFxuEN9f0_0y-q/view?usp=drive_link",
+    "format": "ybot",
+    "date": "02/19/2024",
+    "moons": "10"
+  },
+  {
+    "level_name": "Flipswap Factory",
+    "level_id": 98439428,
+    "difficulty": "Medium Demon",
+    "ticks": 14394,
+    "tps": 240,
+    "authors": [
+      "ShadowyZephyr"
+    ],
+    "video": "https://www.youtube.com/embed/V2ewGtogoeM",
+    "download": "https://drive.google.com/file/d/16Y0Qu-2eQ4DL5M-LATZTTqNW24OUuXxg/view?usp=drive_link",
+    "format": "ybot",
+    "date": "01/25/2024",
+    "moons": "10"
+  },
+  {
+    "level_name": "Loco Motive",
+    "level_id": 97598449,
+    "difficulty": "Harder",
+    "ticks": 14421,
+    "tps": 240,
+    "authors": [
+      "ezmna59"
+    ],
+    "video": "",
+    "download": "https://drive.google.com/file/d/1GUZYKqmSxPLhaHqKG8BdiInzPsm8xwgi/view?usp=drive_link",
+    "format": "ybot",
+    "date": "01/01/2025",
+    "moons": "6"
+  },
+  {
+    "level_name": "infiltration",
+    "level_id": 101619476,
+    "difficulty": "Easy Demon",
+    "ticks": 15214,
+    "tps": 240,
+    "authors": [
+      "Swingcopter"
+    ],
+    "video": "https://www.youtube.com/embed/CAd2mDzTgSQ",
+    "download": "https://drive.google.com/file/d/1-0lvK6sR7p5vv6p9NZ-DGMOOqGFGpz2m/view?usp=drive_link",
+    "format": "ybot",
+    "date": "03/16/2024",
+    "moons": "10"
+  },
+  {
+    "level_name": "duAlist",
+    "level_id": 98457659,
+    "difficulty": "Hard Demon",
+    "ticks": 15775,
+    "tps": 240,
+    "authors": [
+      "Vinsterplays"
+    ],
+    "video": "https://www.youtube.com/embed/Uqm_boHevLg",
+    "download": "https://drive.google.com/file/d/1CAQ1DO3BVU29xon94C9m1d0nOe6EN4gh/view?usp=drive_link",
+    "format": "ybot",
+    "date": "01/09/2024",
+    "moons": "10"
+  },
+  {
+    "level_name": "Blink Blink Blink",
+    "level_id": 97910997,
+    "difficulty": "Insane",
+    "ticks": 16326,
+    "tps": 240,
+    "authors": [
+      "Toster"
+    ],
+    "video": "",
+    "download": "https://drive.google.com/file/d/1R1z7MKJUn3UPJePy23DQiERSe0W8Dgp2/view?usp=drive_link",
+    "format": "ybot",
+    "date": "01/01/2025",
+    "moons": "8"
+  },
+  {
+    "level_name": "subterranean odyssey",
+    "level_id": 100513599,
+    "difficulty": "Hard",
+    "ticks": 16702,
+    "tps": 240,
+    "authors": [
+      "ShadowyZephyr"
+    ],
+    "video": "",
+    "download": "https://drive.google.com/file/d/1mXWKz4fU4xFWA-Tpn4STAHpR-ppOrAVF/view?usp=drive_link",
+    "format": "ybot",
+    "date": "01/01/2025",
+    "moons": "5"
+  },
+  {
+    "level_name": "Beneath the bouncer",
+    "level_id": 97701937,
+    "difficulty": "Normal",
+    "ticks": 19713,
+    "tps": 240,
+    "authors": [
+      "Zettaminx"
+    ],
+    "video": "",
+    "download": "https://drive.google.com/file/d/1Yor_i55k7L6HQl93MykiKNVUGXhQ67S2/view?usp=drive_link",
+    "format": "ybot",
+    "date": "01/01/2025",
+    "moons": "3"
+  },
+  {
+    "level_name": "Pseudo Zone",
+    "level_id": 99110853,
+    "difficulty": "Harder",
+    "ticks": 20347,
+    "tps": 240,
+    "authors": [
+      "ShadowyZephyr"
+    ],
+    "video": "https://www.youtube.com/embed/wxgFvhChfVw",
+    "download": "https://drive.google.com/file/d/110761vKBKxDbujGOLOeS2ed6aq4V5Tb2/view?usp=drive_link",
+    "format": "ybot",
+    "date": "03/06/2024",
+    "moons": "6"
+  },
+  {
+    "level_name": "Terminal Heaven",
+    "level_id": 99335322,
+    "difficulty": "Extreme Demon",
+    "ticks": 21288,
+    "tps": 240,
+    "authors": [
+      "Vinsterplays"
+    ],
+    "video": "https://www.youtube.com/embed/0WBmGtWY0dg",
+    "download": "false",
+    "format": "",
+    "date": "01/21/2024",
+    "moons": "10"
+  },
+  {
+    "level_name": "Coaster Mountain",
+    "level_id": 98170000,
+    "difficulty": "Medium Demon",
+    "ticks": 24687,
+    "tps": 240,
+    "authors": [
+      "ShadowyZephyr"
+    ],
+    "video": "",
+    "download": "https://drive.google.com/file/d/1DNfgArjCk6SDpyWLman2LgRf3ZaYycRO/view?usp=drive_link",
+    "format": "ybot",
+    "date": "01/01/2025",
+    "moons": "10"
+  },
+  {
+    "level_name": "old site gdside",
+    "level_id": 98147815,
+    "difficulty": "Medium Demon",
+    "ticks": 25253,
+    "tps": 240,
+    "authors": [
+      "Fuyu"
+    ],
+    "video": "https://www.youtube.com/embed/KK6NABvWFQU",
+    "download": "https://drive.google.com/file/d/1Nobzx2E1oEiqS9LiybpH_PcUPwPeFPLM/view?usp=drive_link",
+    "format": "ybot",
+    "date": "01/23/2024",
+    "moons": "10"
+  },
+  {
+    "level_name": "Robot King",
+    "level_id": 99927952,
+    "difficulty": "Extreme Demon",
+    "ticks": 26283,
+    "tps": 240,
+    "authors": [
+      "sear"
+    ],
+    "video": "https://www.youtube.com/embed/B1MSp8whwWc",
+    "download": "https://drive.google.com/file/d/1-ihUpm2Yc9qNTIJbpIXLWCTgnKC_T027/view?usp=drive_link",
+    "format": "ybot",
+    "date": "03/16/2024",
+    "moons": "10"
+  },
+  {
+    "level_name": "Tower of Infinity",
+    "level_id": 97713011,
+    "difficulty": "Insane Demon",
+    "ticks": 27336,
+    "tps": 240,
+    "authors": [
+      "sear"
+    ],
+    "video": "https://www.youtube.com/embed/SuYyDskiNbM",
+    "download": "https://drive.google.com/file/d/1ekFANstoMBMV3jyEbh5_wQb5StT3tT1J/view?usp=drive_link",
+    "format": "ybot",
+    "date": "04/12/2024",
+    "moons": "10"
+  },
+  {
+    "level_name": "I made this level",
+    "level_id": 97956692,
+    "difficulty": "Insane",
+    "ticks": 34055,
+    "tps": 240,
+    "authors": [
+      "alex"
+    ],
+    "video": "https://www.youtube.com/embed/0RjtZo00ELI",
+    "download": "",
+    "format": "",
+    "date": "12/29/2023",
+    "moons": "0"
+  },
+  {
+    "level_name": "Baddie Castle",
+    "level_id": 97809320,
+    "difficulty": "Normal",
+    "ticks": 34092,
+    "tps": 240,
+    "authors": [
+      "ShadowyZephyr"
+    ],
+    "video": "https://www.youtube.com/embed/wUg7RZ95wsQ",
+    "download": "https://drive.google.com/file/d/1XnDCitcxH8J75wRfxeSQ2bc8Gi5gfWXs/view?usp=drive_link",
+    "format": "ybot",
+    "date": "03/06/2024",
+    "moons": "3"
+  },
+  {
+    "level_name": "GD Tower Tiny Square",
+    "level_id": 98489186,
+    "difficulty": "Hard Demon",
+    "ticks": 36446,
+    "tps": 240,
+    "authors": [
+      "Vibri"
+    ],
+    "video": "",
+    "download": "https://drive.google.com/file/d/17D_j2gMpZhFQpDOvZxzk0nYg-M_RTZiU/view?usp=drive_link",
+    "format": "ybot",
+    "date": "01/01/2025",
+    "moons": "10"
+  },
+  {
+    "level_name": "Club Kaizo Ball",
+    "level_id": 103876203,
+    "difficulty": "Insane",
+    "ticks": 4788,
+    "tps": 240,
+    "authors": [
+      "Fuyu"
+    ],
+    "video": "https://youtu.be/0n_1XJgaXlE",
+    "download": "",
+    "format": "",
+    "date": "08/24/2024",
+    "moons": "0"
+  },
+  {
+    "level_name": "CONVOLUTION",
+    "level_id": 105724358,
+    "difficulty": "Extreme Demon",
+    "ticks": 7181,
+    "tps": 240,
+    "authors": [
+      "Fuyu"
+    ],
+    "video": "https://youtu.be/gDpZODgwucU",
+    "download": "",
+    "format": "",
+    "date": "08/24/2024",
+    "moons": "10"
+  },
+  {
+    "level_name": "quae est charta",
+    "level_id": 110841243,
+    "difficulty": "Insane",
+    "ticks": 7333,
+    "tps": 240,
+    "authors": [
+      "Fuyu"
+    ],
+    "video": "https://youtu.be/9kiMoMxl654",
+    "download": "",
+    "format": "",
+    "date": "02/22/2025",
+    "moons": "0"
+  },
+  {
+    "level_name": "Rabbit Hole",
+    "level_id": 115881666,
+    "difficulty": "Extreme Demon",
+    "ticks": 15345,
+    "tps": 240,
+    "authors": [
+      "Fuyu"
+    ],
+    "video": "https://youtu.be/N_tNUCvN6EI",
+    "download": "",
+    "format": "",
+    "date": "03/25/2025",
+    "moons": "10"
+  },
+  {
+    "level_name": "Working Together",
+    "level_id": 108835735,
+    "difficulty": "Insane",
+    "ticks": 21647,
+    "tps": 240,
+    "authors": [
+      "RichConnerGMN"
+    ],
+    "video": "https://www.youtube.com/watch?v=IQsGXzlTyas",
+    "download": "",
+    "format": "",
+    "date": "08/20/2024",
+    "moons": "9"
+  },
+  {
+    "level_name": "Speeeeeeed",
+    "level_id": 110172318,
+    "difficulty": "Hard Demon",
+    "ticks": 7273,
+    "tps": 240,
+    "authors": [
+      "RichConnerGMN"
+    ],
+    "video": "https://www.youtube.com/watch?v=E8cqnT2EtXI",
+    "download": "",
+    "format": "",
+    "date": "09/21/2024",
+    "moons": "10"
+  },
+  {
+    "level_name": "Lostless",
+    "level_id": 108701729,
+    "difficulty": "Insane",
+    "ticks": 25729,
+    "tps": 240,
+    "authors": [
+      "RichConnerGMN"
+    ],
+    "video": "https://www.youtube.com/watch?v=twjhREyykDk",
+    "download": "",
+    "format": "",
+    "date": "03/17/2025",
+    "moons": "8"
+  },
+  {
+    "level_name": "heart cancer",
+    "level_id": 127473144,
+    "difficulty": "Unrated",
+    "ticks": 5696,
+    "tps": 240,
+    "authors": [
+      "Rotten Cheese"
+    ],
+    "video": "https://www.youtube.com/watch?v=6Zjx4vWGqyA",
+    "download": "",
+    "format": "",
+    "date": "10/26/2025",
+    "moons": "0"
+  },
+  {
+    "level_name": "Throat of the World",
+    "level_id": 109365157,
+    "difficulty": "Insane Demon",
+    "ticks": 250750,
+    "tps": 240,
+    "authors": [
+      "TheGreatBird"
+    ],
+    "video": "https://youtu.be/b5hjwU5L41w",
+    "download": "",
+    "format": "",
+    "date": "02/08/2025",
+    "moons": "10"
+  },
+  {
+    "level_name": "glitch tower",
+    "level_id": 124474031,
+    "difficulty": "Hard",
+    "ticks": 3311,
+    "tps": 240,
+    "authors": [
+      "sear"
+    ],
+    "video": "https://youtu.be/DZcGAF79IG4",
+    "download": "https://drive.google.com/file/d/1SnBnOivn5jQxdh_GxpQOyHcp_Wj6JyGr/view?usp=drive_link",
+    "format": "tcm",
+    "date": "01/06/2026",
+    "moons": "0"
+  },
+  {
+    "level_name": "The puzzle room",
+    "level_id": 97545648,
+    "difficulty": "Hard",
+    "ticks": 7496,
+    "tps": 240,
+    "authors": [
+      "sear"
+    ],
+    "video": "https://youtu.be/aNCxm9H1d-s",
+    "download": "https://drive.google.com/file/d/1S5x6F0w2eX64FCuxmYr3DiHCp8DB3ubc/view?usp=drive_link",
+    "format": "tcm",
+    "date": "01/11/2026",
+    "moons": "4"
+  },
+  {
+    "level_name": "GeoDom Platformer",
+    "level_id": 141330482,
+    "difficulty": "Unrated",
+    "ticks": 20608,
+    "tps": 240,
+    "authors": [
+      "sear"
+    ],
+    "video": "https://youtu.be/jFxX6gxxp0s",
+    "download": "https://drive.google.com/file/d/1ng4n31XBJdPHl4GZr3nWmZZ3G1MrJd0X/view?usp=drive_link",
+    "format": "tcm",
+    "date": "01/13/2026",
+    "moons": "0"
+  },
+  {
+    "level_name": "Digital Ascension",
+    "level_id": 117880611,
+    "difficulty": "Harder",
+    "ticks": 11392,
+    "tps": 240,
+    "authors": [
+      "sear"
+    ],
+    "video": "https://youtu.be/y3yoVn3kLbI",
+    "download": "https://drive.google.com/file/d/1Ax4iuBKGFC7qUvoQcD8nz65553O1bDVu/view?usp=drive_link",
+    "format": "tcm",
+    "date": "03/03/2026",
+    "moons": "0"
+  },
+  {
+    "level_name": "atone the flower",
+    "level_id": 97952794,
+    "difficulty": "Insane",
+    "ticks": 8460,
+    "tps": 240,
+    "authors": [
+      "sear"
+    ],
+    "video": "https://youtu.be/ZsPUX871NUQ",
+    "download": "",
+    "format": "",
+    "date": "01/16/2024",
+    "moons": "0"
+  },
+  {
+    "level_name": "Club Kaizo Cube",
+    "level_id": 103389380,
+    "difficulty": "Insane",
+    "ticks": 7977,
+    "tps": 240,
+    "authors": [
+      "sear"
+    ],
+    "video": "https://youtu.be/N8XP7bu8F_w",
+    "download": "",
+    "format": "",
+    "date": "06/21/2024",
+    "moons": "0"
+  },
+  {
+    "level_name": "Club Kaizo Jetpack",
+    "level_id": 103715487,
+    "difficulty": "Insane",
+    "ticks": 19119,
+    "tps": 240,
+    "authors": [
+      "sear"
+    ],
+    "video": "https://www.youtube.com/watch?v=I-bJGtxU6Ik",
+    "download": "",
+    "format": "",
+    "date": "07/22/2024",
+    "moons": "0"
+  },
+  {
+    "level_name": "How to platformer",
+    "level_id": 104187415,
+    "difficulty": "Insane Demon",
+    "ticks": 627592,
+    "tps": 240,
+    "authors": [
+      "sear, Taze"
+    ],
+    "video": "https://youtu.be/BdToeTWRjh8",
+    "download": "",
+    "format": "",
+    "date": "09/13/2024",
+    "moons": "10"
+  },
+  {
+    "level_name": "The Nucleus",
+    "level_id": 130400156,
+    "difficulty": "Insane",
+    "ticks": 38300,
+    "tps": 240,
+    "authors": [
+      "RichConnerGMN"
+    ],
+    "video": "https://youtu.be/J3k_rCzzC6w",
+    "download": "https://drive.google.com/file/d/1GhrDbDq7BeDy1MAFMRh5NMsEp4PeSQxA/view?usp=drive_link",
+    "format": "slc",
+    "date": "05/27/2026",
+    "moons": "9"
+  },
+  {
+    "level_name": "pivot",
+    "level_id": 110512282,
+    "difficulty": "Easy Demon",
+    "ticks": 25204,
+    "tps": 240,
+    "authors": [
+      "daneeko"
+    ],
+    "video": "https://youtu.be/MJcHHZxi2Ow",
+    "download": "",
+    "format": "",
+    "date": "05/24/2026",
+    "moons": "10"
+  },
+  {
+    "level_name": "Despicable",
+    "level_id": 98376908,
+    "difficulty": "Insane",
+    "ticks": 5015,
+    "tps": 240,
+    "authors": [
+      "Ventrium"
+    ],
+    "video": "https://youtu.be/HcEwoZEqL4g&t=30",
+    "download": "",
+    "format": "",
+    "date": "05/17/2026",
+    "moons": "0"
+  },
+  {
+    "level_name": "tower dco",
+    "level_id": 126401048,
+    "difficulty": "Hard",
+    "ticks": 8105,
+    "tps": 240,
+    "authors": [
+      "Bruno El Pro"
+    ],
+    "video": "https://youtu.be/FXvMP_R3w1Y&t=1",
+    "download": "",
+    "format": "",
+    "date": "05/16/2026",
+    "moons": "0"
+  },
+  {
+    "level_name": "pedalka IWBTG",
+    "level_id": 139840975,
+    "difficulty": "Unrated",
+    "ticks": 6181,
+    "tps": 240,
+    "authors": [
+      "Leshafriend"
+    ],
+    "video": "https://youtu.be/9WgW3eOaVu",
+    "download": "",
+    "format": "",
+    "date": "05/13/2026",
+    "moons": "0"
+  },
+  {
+    "level_name": "Wall jump",
+    "level_id": 102546298,
+    "difficulty": "Hard Demon",
+    "ticks": 48876,
+    "tps": 240,
+    "authors": [
+      "GaminGuy"
+    ],
+    "video": "https://youtu.be/BotQONuBK28",
+    "download": "",
+    "format": "",
+    "date": "05/12/2026",
+    "moons": "10"
+  },
+  {
+    "level_name": "Maethrillian",
+    "level_id": 98222333,
+    "difficulty": "Easy Demon",
+    "ticks": 10782,
+    "tps": 240,
+    "authors": [
+      "The Cube Guy"
+    ],
+    "download": "",
+    "video": "https://youtu.be/to5Xbyg8Qxc",
+    "format": "",
+    "date": "06/08/2026",
+    "moons": "10"
+  },
+  {
+    "level_name": "The Infection",
+    "level_id": 98502873,
+    "difficulty": "Harder",
+    "ticks": 35894,
+    "tps": 240,
+    "authors": [
+      "Toster"
+    ],
+    "video": "https://youtu.be/_FU8RqMjIJY",
+    "download": "",
+    "format": "",
+    "date": "01/06/2024",
+    "moons": "7"
+  },
+  {
+    "level_name": "tas walnut",
+    "level_id": 100834077,
+    "difficulty": "Harder",
+    "ticks": 21545,
+    "tps": 240,
+    "authors": [
+      "axnolo"
+    ],
+    "video": "https://youtu.be/emx3zzLuMWA",
+    "download": "",
+    "format": "",
+    "date": "02/14/2024",
+    "moons": "0"
+  },
+  {
+    "level_name": "Tower 0",
+    "level_id": 98142594,
+    "difficulty": "Insane",
+    "ticks": 2165,
+    "tps": 240,
+    "authors": [
+      "Fuyu"
+    ],
+    "video": "https://youtu.be/ppi-SzQpsPU",
+    "download": "",
+    "format": "",
+    "date": "05/03/2025",
+    "moons": "0"
+  },
+  {
+    "level_name": "Reaching Rebounds",
+    "level_id": 99025341,
+    "difficulty": "Harder",
+    "ticks": 24690,
+    "tps": 240,
+    "authors": [
+      "Ayn234"
+    ],
+    "video": "https://youtu.be/vateWQZQvNQ",
+    "download": "",
+    "format": "",
+    "date": "05/05/2024",
+    "moons": "7"
+  },
+  {
+    "level_name": "Trap Adventure 2",
+    "level_id": 97495407,
+    "difficulty": "Insane",
+    "ticks": 7253,
+    "tps": 240,
+    "authors": [
+      "LawfulDmcBoo"
+    ],
+    "video": "https://youtu.be/eSCkwnhu5RY",
+    "download": "",
+    "format": "",
+    "date": "05/11/2024",
+    "moons": "0"
+  },
+  {
+    "level_name": "Bouncy Ball",
+    "level_id": 101340172,
+    "difficulty": "Extreme Demon",
+    "ticks": 11472,
+    "tps": 240,
+    "authors": [
+      "Electro"
+    ],
+    "video": "https://youtu.be/QZO0hEtdi3s",
+    "download": "",
+    "format": "",
+    "date": "06/04/2024",
+    "moons": "10"
+  },
+  {
+    "level_name": "I00",
+    "level_id": 105083825,
+    "difficulty": "Insane Demon",
+    "ticks": 69213,
+    "tps": 240,
+    "authors": [
+      "stonease"
+    ],
+    "video": "https://youtu.be/c374Hw3VIR8",
+    "download": "",
+    "format": "",
+    "date": "06/07/2024",
+    "moons": "10"
+  },
+  {
+    "level_name": "2024 Dash Olympics",
+    "level_id": 109745490,
+    "difficulty": "Harder",
+    "ticks": 5453,
+    "tps": 240,
+    "authors": [
+      "Glorby"
+    ],
+    "video": "https://youtu.be/gRT_EcQ6GKU",
+    "download": "",
+    "format": "",
+    "date": "09/03/2024",
+    "moons": "0"
+  },
+  {
+    "level_name": "become fish and die",
+    "level_id": 101087105,
+    "difficulty": "Hard Demon",
+    "ticks": 21082,
+    "tps": 240,
+    "authors": [
+      "Glorby"
+    ],
+    "video": "https://youtu.be/FL2m7Qy0aUw",
+    "download": "",
+    "format": "",
+    "date": "09/03/2024",
+    "moons": "10"
+  },
+  {
+    "level_name": "Shinzo III",
+    "level_id": 110661145,
+    "difficulty": "Insane",
+    "ticks": 133667,
+    "tps": 240,
+    "authors": [
+      "sear"
+    ],
+    "video": "https://youtu.be/4vXHjvKqguI",
+    "download": "",
+    "format": "",
+    "date": "09/29/2024",
+    "moons": "0"
+  },
+  {
+    "level_name": "Sewer Temple",
+    "level_id": 110929199,
+    "difficulty": "Easy Demon",
+    "ticks": 18435,
+    "tps": 240,
+    "authors": [
+      "Maxson Dawson"
+    ],
+    "video": "https://youtu.be/ZrHK3QDJu3k",
+    "download": "",
+    "format": "",
+    "date": "10/12/2024",
+    "moons": "10"
+  },
+  {
+    "level_name": "THE DUSKBREAKER",
+    "level_id": 111146189,
+    "difficulty": "Unrated",
+    "ticks": 23536,
+    "tps": 240,
+    "authors": [
+      "Fuyu"
+    ],
+    "video": "https://youtu.be/O3PIs6fwTKI",
+    "download": "",
+    "format": "",
+    "date": "10/20/2024",
+    "moons": "0"
+  },
+  {
+    "level_name": "PlaTef01ngf234j egh1",
+    "level_id": 112238667,
+    "difficulty": "Insane",
+    "ticks": 25342,
+    "tps": 240,
+    "authors": [
+      "Glorby"
+    ],
+    "video": "https://youtu.be/ENOiY8kHGG4",
+    "download": "",
+    "format": "",
+    "date": "11/26/2024",
+    "moons": "0"
+  },
+  {
+    "level_name": "Picture Museum",
+    "level_id": 112585302,
+    "difficulty": "Easy Demon",
+    "ticks": 26227,
+    "tps": 240,
+    "authors": [
+      "Glorby"
+    ],
+    "video": "https://youtu.be/QEHLqSas42s",
+    "download": "",
+    "format": "",
+    "date": "11/28/2024",
+    "moons": "10"
+  },
+  {
+    "level_name": "Gateway",
+    "level_id": 98322118,
+    "difficulty": "Easy Demon",
+    "ticks": 24766,
+    "tps": 240,
+    "authors": [
+      "Glorby"
+    ],
+    "video": "https://youtu.be/Z_L3I_oW0zY",
+    "download": "",
+    "format": "",
+    "date": "12/07/2024",
+    "moons": "10"
+  },
+  {
+    "level_name": "i wanna die",
+    "level_id": 109043594,
+    "difficulty": "Insane",
+    "ticks": 12283,
+    "tps": 240,
+    "authors": [
+      "Crimson Flux"
+    ],
+    "video": "https://youtu.be/RbLZKCMjKXc",
+    "download": "",
+    "format": "",
+    "date": "12/12/2024",
+    "moons": "0"
+  },
+  {
+    "level_name": "TRIPLE SWAP",
+    "level_id": 112594688,
+    "difficulty": "Insane Demon",
+    "ticks": 30508,
+    "tps": 240,
+    "authors": [
+      "daneeko"
+    ],
+    "video": "https://youtu.be/9enXrGliI2E",
+    "download": "",
+    "format": "",
+    "date": "02/09/2025",
+    "moons": "10"
+  },
+  {
+    "level_name": "everhood",
+    "level_id": 99271283,
+    "difficulty": "Hard Demon",
+    "ticks": 5547,
+    "tps": 240,
+    "authors": [
+      "Glorby"
+    ],
+    "video": "https://youtu.be/XK5idm1BY4k",
+    "download": "",
+    "format": "",
+    "date": "03/26/2025",
+    "moons": "10"
+  },
+  {
+    "level_name": "Storm Front",
+    "level_id": 100486532,
+    "difficulty": "Extreme Demon",
+    "ticks": 21670,
+    "tps": 240,
+    "authors": [
+      "Glorby"
+    ],
+    "video": "https://youtu.be/k_vbZVrGm1E",
+    "download": "",
+    "format": "",
+    "date": "05/29/2025",
+    "moons": "10"
+  },
+  {
+    "level_name": "ORB MASTER",
+    "level_id": 109908097,
+    "difficulty": "Medium Demon",
+    "ticks": 10267,
+    "tps": 240,
+    "authors": [
+      "Glorby"
+    ],
+    "video": "https://youtu.be/YLt3RrBIjww",
+    "download": "",
+    "format": "",
+    "date": "04/13/2025",
+    "moons": "10"
+  },
+  {
+    "level_name": "Sheercrag",
+    "level_id": 117200253,
+    "difficulty": "Easy Demon",
+    "ticks": 68540,
+    "tps": 240,
+    "authors": [
+      "TheGreatBird"
+    ],
+    "video": "https://youtu.be/QdHosgJolSY",
+    "download": "",
+    "format": "",
+    "date": "04/30/2025",
+    "moons": "10"
+  },
+  {
+    "level_name": "Forgotten Tower",
+    "level_id": 98055641,
+    "difficulty": "Easy Demon",
+    "ticks": 25160,
+    "tps": 240,
+    "authors": [
+      "WAMB173"
+    ],
+    "video": "https://youtu.be/bA7LX325XtY",
+    "download": "",
+    "format": "",
+    "date": "06/08/2025",
+    "moons": "10"
+  },
+  {
+    "level_name": "YouHave86Sec",
+    "level_id": 119414594,
+    "difficulty": "Medium Demon",
+    "ticks": 23410,
+    "tps": 240,
+    "authors": [
+      "Fri2k"
+    ],
+    "video": "https://youtu.be/uoHjv5OW8iE",
+    "download": "",
+    "format": "",
+    "date": "06/11/2025",
+    "moons": "10"
+  },
+  {
+    "level_name": "The Tower 4x",
+    "level_id": 121045728,
+    "difficulty": "Unrated",
+    "ticks": 12109,
+    "tps": 240,
+    "authors": [
+      "Melting Ice"
+    ],
+    "video": "https://youtu.be/YXHFcemYzwM",
+    "download": "",
+    "format": "",
+    "date": "06/15/2025",
+    "moons": "0"
+  },
+  {
+    "level_name": "The Sewers 4x",
+    "level_id": 121045749,
+    "difficulty": "Unrated",
+    "ticks": 15860,
+    "tps": 240,
+    "authors": [
+      "Melting Ice"
+    ],
+    "video": "https://youtu.be/YXHFcemYzwM&t=62",
+    "download": "",
+    "format": "",
+    "date": "06/15/2025",
+    "moons": "0"
+  },
+  {
+    "level_name": "The Cellar 4x",
+    "level_id": 121045765,
+    "difficulty": "Unrated",
+    "ticks": 14516,
+    "tps": 240,
+    "authors": [
+      "Melting Ice"
+    ],
+    "video": "https://youtu.be/YXHFcemYzwM&t=136",
+    "download": "",
+    "format": "",
+    "date": "06/15/2025",
+    "moons": "0"
+  },
+  {
+    "level_name": "The Secret Hollow 4x",
+    "level_id": 121045828,
+    "difficulty": "Unrated",
+    "ticks": 33382,
+    "tps": 240,
+    "authors": [
+      "Melting Ice"
+    ],
+    "video": "https://youtu.be/YXHFcemYzwM&t=205",
+    "download": "",
+    "format": "",
+    "date": "06/15/2025",
+    "moons": "0"
+  },
+  {
+    "level_name": "IWannaJackTheFrost",
+    "level_id": 119965676,
+    "difficulty": "Insane",
+    "ticks": 9856,
+    "tps": 240,
+    "authors": [
+      "Defilantema"
+    ],
+    "video": "https://youtu.be/KTw4sdFnzzk",
+    "download": "",
+    "format": "",
+    "date": "06/20/2025",
+    "moons": "0"
+  },
+  {
+    "level_name": "serenity",
+    "level_id": 117081000,
+    "difficulty": "Extreme Demon",
+    "ticks": 12154,
+    "tps": 240,
+    "authors": [
+      "IllusiveBARK"
+    ],
+    "video": "https://youtu.be/bIpKe2PfXlU",
+    "download": "",
+    "format": "",
+    "date": "06/27/2025",
+    "moons": "10"
+  },
+  {
+    "level_name": "Starlight Cyclone",
+    "level_id": 117632770,
+    "difficulty": "Extreme Demon",
+    "ticks": 12980,
+    "tps": 240,
+    "authors": [
+      "IllusiveBARK"
+    ],
+    "video": "https://youtu.be/YBGX4yC7jJ0",
+    "download": "",
+    "format": "",
+    "date": "06/27/2025",
+    "moons": "10"
+  },
+  {
+    "level_name": "exdemon park",
+    "level_id": 123215572,
+    "difficulty": "Harder",
+    "ticks": 31288,
+    "tps": 240,
+    "authors": [
+      "Gmd Lore"
+    ],
+    "video": "https://youtu.be/yl9om1JE6Hc",
+    "download": "",
+    "format": "",
+    "date": "07/19/2025",
+    "moons": "0"
+  },
+  {
+    "level_name": "ETOH Take II",
+    "level_id": 120043816,
+    "difficulty": "Harder",
+    "ticks": 6293,
+    "tps": 240,
+    "authors": [
+      "Bowser [GD]"
+    ],
+    "video": "https://youtu.be/Wb7WB8iYFaU",
+    "download": "",
+    "format": "",
+    "date": "07/19/2025",
+    "moons": "0"
+  },
+  {
+    "level_name": "TOP 10000 CHEESE",
+    "level_id": 116149492,
+    "difficulty": "Insane",
+    "ticks": 2020228,
+    "tps": 240,
+    "authors": [
+      "Walgrey"
+    ],
+    "video": "https://youtu.be/EFmZV8VmZNM",
+    "download": "",
+    "format": "",
+    "date": "07/27/2025",
+    "moons": "0"
+  },
+  {
+    "level_name": "delightful climb",
+    "level_id": 115206404,
+    "difficulty": "Extreme Demon",
+    "ticks": 17116,
+    "tps": 240,
+    "authors": [
+      "SP_SUS"
+    ],
+    "video": "https://youtu.be/0cUUtwvSo9M",
+    "download": "",
+    "format": "",
+    "date": "08/23/2025",
+    "moons": "10"
+  },
+  {
+    "level_name": "Quarion",
+    "level_id": 106866157,
+    "difficulty": "Medium Demon",
+    "ticks": 48401,
+    "tps": 240,
+    "authors": [
+      "ItzCyberCube"
+    ],
+    "video": "https://youtu.be/PMP5pYVFlEc",
+    "download": "",
+    "format": "",
+    "date": "9/02/2025",
+    "moons": "10"
+  },
+  {
+    "level_name": "minecraft RP",
+    "level_id": 98454945,
+    "difficulty": "Normal",
+    "ticks": 25008,
+    "tps": 240,
+    "authors": [
+      "fauleyy"
+    ],
+    "video": "https://youtu.be/HxGXL1Yazkg",
+    "download": "",
+    "format": "",
+    "date": "09/05/2025",
+    "moons": "3"
+  },
+  {
+    "level_name": "i wanna be gauntlet",
+    "level_id": 125856121,
+    "difficulty": "Insane",
+    "ticks": 13668,
+    "tps": 240,
+    "authors": [
+      "BeardedManny"
+    ],
+    "video": "https://youtu.be/amZWx4up4BU",
+    "download": "",
+    "format": "",
+    "date": "09/11/2025",
+    "moons": "0"
+  },
+  {
+    "level_name": "Grappling Hook",
+    "level_id": 117048955,
+    "difficulty": "Hard Demon",
+    "ticks": 34346,
+    "tps": 240,
+    "authors": [
+      "styng!"
+    ],
+    "video": "https://youtu.be/a21V7pKPXx4",
+    "download": "",
+    "format": "",
+    "date": "09/20/2025",
+    "moons": "10"
+  },
+  {
+    "level_name": "Labyrinth",
+    "level_id": 126447025,
+    "difficulty": "Extreme Demon",
+    "ticks": 49798,
+    "tps": 240,
+    "authors": [
+      "\u0428\u043b\u044f\u043f\u0430"
+    ],
+    "video": "https://youtu.be/nJn7zKAt5ok",
+    "download": "",
+    "format": "",
+    "date": "10/02/2025",
+    "moons": "10"
+  },
+  {
+    "level_name": "Intervallum",
+    "level_id": 104049200,
+    "difficulty": "Extreme Demon",
+    "ticks": 8064,
+    "tps": 240,
+    "authors": [
+      "GeoGeek"
+    ],
+    "video": "https://youtu.be/8VG_elbDaFo",
+    "download": "",
+    "format": "",
+    "date": "10/09/2025",
+    "moons": "10"
+  },
+  {
+    "level_name": "Last Ending",
+    "level_id": 127725271,
+    "difficulty": "Insane",
+    "ticks": 23860,
+    "tps": 240,
+    "authors": [
+      "\u0428\u043b\u044f\u043f\u0430"
+    ],
+    "video": "https://youtu.be/NuLEWjS9w5E",
+    "download": "",
+    "format": "",
+    "date": "11/12/2025",
+    "moons": "0"
+  },
+  {
+    "level_name": "Magic Archer",
+    "level_id": 100421461,
+    "difficulty": "Hard Demon",
+    "ticks": 17469,
+    "tps": 240,
+    "authors": [
+      "styng!"
+    ],
+    "video": "https://youtu.be/KreWnvhFk6Q",
+    "download": "",
+    "format": "",
+    "date": "12/27/2025",
+    "moons": "10"
+  },
+  {
+    "level_name": "Speed Racer",
+    "level_id": 130236854,
+    "difficulty": "Insane",
+    "ticks": 7637,
+    "tps": 240,
+    "authors": [
+      "Fuyu"
+    ],
+    "video": "https://youtu.be/P3owz-dBF5o",
+    "download": "",
+    "format": "",
+    "date": "12/28/2025",
+    "moons": "8"
+  },
+  {
+    "level_name": "Jetpack Trials",
+    "level_id": 101192123,
+    "difficulty": "Extreme Demon",
+    "ticks": 176091,
+    "tps": 240,
+    "authors": [
+      "Beckett the Buckett"
+    ],
+    "video": "https://youtu.be/YEzp6vyYXrQ",
+    "download": "",
+    "format": "",
+    "date": "12/29/2025",
+    "moons": "10"
+  },
+  {
+    "level_name": "Yimu",
+    "level_id": 116921752,
+    "difficulty": "Extreme Demon",
+    "ticks": 24986,
+    "tps": 240,
+    "authors": [
+      "Beckett the Buckett"
+    ],
+    "video": "https://youtu.be/TtX0HjYcJO4",
+    "download": "",
+    "format": "",
+    "date": "12/31/2025",
+    "moons": "10"
+  },
+  {
+    "level_name": "COMPRESSOR",
+    "level_id": 140630049,
+    "difficulty": "Easy Demon",
+    "ticks": 39630,
+    "tps": 240,
+    "authors": [
+      "RichConnerGMN"
+    ],
+    "video": "https://youtu.be/I14nVPZsAi4",
+    "download": "https://cdn.discordapp.com/attachments/1222740229329522763/1524910619554484384/compressor_tas.slc?ex=6a556baf&is=6a541a2f&hm=621d69c0bf4fde92996cb12d460067d5004b59f76b92acb8223c9463b33dbffa&",
+    "format": "slc",
+    "date": "07/09/2026",
+    "moons": "10"
+  },
+  {
+    "level_name": "One One",
+    "level_id": 141283416,
+    "difficulty": "Easy",
+    "ticks": 5405,
+    "tps": 240,
+    "authors": [
+      "RichConnerGMN"
+    ],
+    "video": "https://youtu.be/wX-b9Rk7yPU",
+    "download": "https://cdn.discordapp.com/attachments/1222740229329522763/1524971450841305230/one_one_tas.slc?ex=6a55a456&is=6a5452d6&hm=fad68a107c3fe641f071c9e7c8a14bb71978b16f37dd5625fd938a42db270fe0&",
+    "format": "slc",
+    "date": "07/09/2026",
+    "moons": "2"
+  },
+  {
+    "level_name": "Mice On Mercury",
+    "level_id": 97650341,
+    "difficulty": "Hard",
+    "ticks": 7657,
+    "tps": 240,
+    "authors": [
+      "Taze"
+    ],
+    "video": "https://youtu.be/BQ-RtiKy7Jg",
+    "download": "https://drive.google.com/file/d/1tPf9ektP4PH8eiRIyN-OGcKG0AxsoMbU/view?usp=drive_link",
+    "format": "tcm",
+    "date": "07/15/2026",
+    "moons": "5"
+  },
+  {
+    "level_name": "Munch",
+    "level_id": 144178665,
+    "difficulty": "Hard Demon",
+    "ticks": 26651,
+    "tps": 240,
+    "authors": [
+      "RichConnerGMN"
+    ],
+    "video": "https://youtu.be/cZf6xauaRkw",
+    "download": "https://drive.google.com/file/d/1w6loLV3xi6J7Uq92R2dUEgAhCkAGWN60/view?usp=drive_link",
+    "format": "slc",
+    "date": "7/15/2026",
+    "moons": "10"
+  },
+  {
+    "level_name": "Button Mania",
+    "level_id": 100138257,
+    "difficulty": "Hard",
+    "ticks": 12960,
+    "tps": 240,
+    "authors": [
+      "GaminGuy"
+    ],
+    "video": "https://www.youtube.com/watch?v=dJLtno5TJgU",
+    "download": "",
+    "format": "",
+    "date": "05/25/2026",
+    "moons": "4"
+  },
+  {
+    "level_name": "Koshmar",
+    "level_id": 97974182,
+    "difficulty": "Hard",
+    "ticks": 11424,
+    "tps": 240,
+    "authors": [
+      "RichConnerGMN"
+    ],
+    "video": "https://youtu.be/4z37_rIwcwE/",
+    "download": "https://github.com/seareez/seareez.github.io/blob/main/macros/97650341_7411t.tcm",
+    "format": "slc",
+    "date": "07/21/2026",
+    "moons": "4"
+  },
+  {
+    "level_name": "Platformer Manual",
+    "level_id": "110377078",
+    "difficulty": "Insane",
+    "ticks": 730195,
+    "tps": 240,
+    "authors": [
+      "sear, Fuyu, Melting Ice"
+    ],
+    "video": "https://youtu.be/zInZN-JA0H0",
+    "download": "https://github.com/seareez/seareez.github.io/blob/main/macros/145150304_730195t.tcm",
+    "format": "tcm",
+    "date": "07/27/2026",
+    "moons": "0"
+  },
+  {
+    "level_name": "Avos",
+    "level_id": 110624214,
+    "difficulty": "Easy",
+    "ticks": 16862,
+    "tps": 240,
+    "authors": [
+      "Taze"
+    ],
+    "video": "",
+    "download": "https://github.com/seareez/seareez.github.io/blob/main/macros/110624214_16862t.tcm",
+    "format": "tcm",
+    "date": "07/30/2026",
+    "moons": "2"
+  },
+  {
+    "level_name": "heavy lifting",
+    "level_id": 140672387,
+    "difficulty": "Hard",
+    "ticks": 22842,
+    "tps": 240,
+    "authors": [
+      "Taze"
+    ],
+    "video": "https://youtu.be/ln5ZZkYRbyw",
+    "download": "https://github.com/seareez/seareez.github.io/blob/main/macros/140672387_22842t.tcm",
+    "format": "tcm",
+    "date": "08/01/2026",
+    "moons": "5"
+  },
+  {
+    "level_name": "comBATMAN",
+    "level_id": 142869735,
+    "difficulty": "Insane",
+    "ticks": 7689,
+    "tps": 240,
+    "authors": [
+      "RichConnerGMN"
+    ],
+    "video": "https://www.youtube.com/watch?v=b4LnSTSaY9c",
+    "download": "https://github.com/seareez/seareez.github.io/blob/main/macros/142869735_7689t_any.slc",
+    "format": "slc",
+    "date": "09/19/2026",
+    "moons": "8"
+  },
+  {
+    "level_name": "RTA Viable",
+    "level_id": 110626059,
+    "difficulty": "Insane",
+    "ticks": 1907,
+    "tps": 240,
+    "authors": [
+      "Melting Ice"
+    ],
+    "video": "",
+    "download": "https://github.com/seareez/seareez.github.io/blob/main/macros/110626059_1907t.tcm",
+    "format": "tcm",
+    "date": "08/04/2026",
+    "moons": "0"
+  },
+  {
+    "level_name": "RobTop Rooms",
+    "level_id": 132265312,
+    "difficulty": "Hard",
+    "ticks": 31496,
+    "tps": 240,
+    "authors": [
+      "SkyThePancake"
+    ],
+    "video": "https://youtu.be/PAVK2t0MWto",
+    "download": "https://github.com/seareez/seareez.github.io/blob/main/macros/132265312_31496t_any.tcm",
+    "format": "tcm",
+    "date": "10/07/2026",
+    "moons": "5"
+  },
+  {
+    "level_name": "Dashtek",
+    "level_id": 110649372,
+    "difficulty": "Easy Demon",
+    "ticks": 7583,
+    "tps": 240,
+    "authors": [
+      "Ashfalcons44"
+    ],
+    "video": "https://youtu.be/fRZez4t_8XA?si=_RDtWBwl-C7fJGMq",
+    "download": "",
+    "format": "",
+    "date": "12/07/2024",
+    "moons": "10"
+  },
+  {
+    "level_name": "The Foolish Tower",
+    "level_id": 116926133,
+    "difficulty": "Hard",
+    "ticks": 22991,
+    "tps": 240,
+    "authors": [
+      "Melting Ice"
+    ],
+    "video": "https://youtu.be/GHU65AOjEz0?si=cEo-Hk2WJ5AQmy5d",
+    "download": "",
+    "format": "",
+    "date": "06/08/2025",
+    "moons": "5"
+  },
+  {
+    "level_name": "The Deep Sewers",
+    "level_id": 116926138,
+    "difficulty": "Harder",
+    "ticks": 23391,
+    "tps": 240,
+    "authors": [
+      "Melting Ice"
+    ],
+    "video": "https://youtu.be/GHU65AOjEz0?si=cEo-Hk2WJ5AQmy5d",
+    "download": "",
+    "format": "",
+    "date": "06/08/2025",
+    "moons": "6"
+  },
+  {
+    "level_name": "The Lost Cellar",
+    "level_id": 116926140,
+    "difficulty": "Harder",
+    "ticks": 17663,
+    "tps": 240,
+    "authors": [
+      "Melting Ice"
+    ],
+    "video": "https://youtu.be/GHU65AOjEz0?si=cEo-Hk2WJ5AQmy5d",
+    "download": "",
+    "format": "",
+    "date": "06/08/2025",
+    "moons": "7"
+  },
+  {
+    "level_name": "The Sneaky Hollow",
+    "level_id": 116926955,
+    "difficulty": "Insane",
+    "ticks": 78190,
+    "tps": 240,
+    "authors": [
+      "Melting Ice"
+    ],
+    "video": "https://youtu.be/GHU65AOjEz0?si=cEo-Hk2WJ5AQmy5d",
+    "download": "",
+    "format": "",
+    "date": "06/08/2025",
+    "moons": "8"
+  },
+  {
+    "level_name": "slopes love you",
+    "level_id": 136923227,
+    "difficulty": "Insane",
+    "ticks": 1790,
+    "tps": 240,
+    "authors": [
+      "sear"
+    ],
+    "video": "https://youtu.be/zcm_p7NeS0c",
+    "download": "https://github.com/seareez/seareez.github.io/blob/main/macros/136923227_1790t.tcm",
+    "format": "tcm",
+    "date": "08/07/2026",
+    "moons": "0"
+  },
+  {
+    "level_name": "Triglav",
+    "level_id": 97617447,
+    "difficulty": "Easy",
+    "ticks": 7218,
+    "tps": 240,
+    "authors": [
+      "RichConnerGMN"
+    ],
+    "video": "",
+    "download": "https://github.com/seareez/seareez.github.io/blob/main/macros/97617447_7218t.slc",
+    "format": "slc",
+    "date": "08/07/2026",
+    "moons": "2"
+  },
+  {
+    "level_name": "jumpBall",
+    "level_id": 144834832,
+    "difficulty": "Harder",
+    "ticks": 11529,
+    "tps": 240,
+    "authors": [
+      "RichConnerGMN"
+    ],
+    "video": "https://youtu.be/5WUhCStPVh0",
+    "download": "https://github.com/seareez/seareez.github.io/blob/main/macros/144834832_11529t.slc",
+    "format": "slc",
+    "date": "08/07/2026",
+    "moons": "7"
+  },
+  {
+    "level_name": "Sink Tower",
+    "level_id": 97478640,
+    "difficulty": "Harder",
+    "ticks": 6661,
+    "tps": 240,
+    "authors": [
+      "RichConnerGMN"
+    ],
+    "video": "https://youtu.be/bvcWTT7Vdd4",
+    "download": "https://github.com/seareez/seareez.github.io/blob/main/macros/97478640_6661t.slc",
+    "format": "slc",
+    "date": "08/26/2026",
+    "moons": "6"
+  },
+  {
+    "level_name": "Press The Button",
+    "level_id": 98552638,
+    "difficulty": "Normal",
+    "ticks": 14038,
+    "tps": 240,
+    "authors": [
+      "GaminGuy"
+    ],
+    "video": "",
+    "download": "https://github.com/seareez/seareez.github.io/blob/main/macros/98552638-End6_14038t.gdr",
+    "format": "gdr",
+    "date": "09/04/2026",
+    "moons": "3"
+  },
+  {
+    "level_name": "The Pyramid",
+    "level_id": 148736400,
+    "difficulty": "Harder",
+    "ticks": 5879,
+    "tps": 240,
+    "authors": [
+      "Melting Ice"
+    ],
+    "video": "https://www.youtube.com/watch?v=2ktNYdURiQc ",
+    "download": "https://github.com/seareez/seareez.github.io/blob/main/macros/148736400_5879t.tcm",
+    "format": "tcm",
+    "date": "09/15/2026",
+    "moons": "0"
+  },
+  {
+    "level_name": "MINIGAMES",
+    "level_id": 97571110,
+    "difficulty": "Harder",
+    "ticks": 3079,
+    "tps": 240,
+    "authors": [
+      "SkyThePancake"
+    ],
+    "video": "https://youtu.be/Igs1XLK_RFc",
+    "download": "https://github.com/seareez/seareez.github.io/blob/main/macros/97571110_3079t.tcm",
+    "format": "tcm",
+    "date": "09/21/2026",
+    "moons": "0"
+  },
+  {
+    "level_name": "Beat Ninja",
+    "level_id": 99855394,
+    "difficulty": "Insane Demon",
+    "ticks": 78864,
+    "tps": 240,
+    "authors": [
+      "SkyThePancake"
+    ],
+    "video": "https://youtu.be/rxy-aW-Peh0",
+    "download": "https://github.com/seareez/seareez.github.io/blob/main/macros/99855394_78864t.tcm",
+    "format": "tcm",
+    "date": "09/22/2026",
+    "moons": "10"
+  },
+  {
+    "level_name": "Freezeflame Cliffs",
+    "level_id": 97556537,
+    "difficulty": "Harder",
+    "ticks": 11213,
+    "tps": 240,
+    "authors": [
+      "SkyThePancake"
+    ],
+    "video": "https://youtu.be/JargbGbY0_g",
+    "download": "https://github.com/seareez/seareez.github.io/blob/main/macros/97556537_11213t.tcm",
+    "format": "tcm",
+    "date": "09/22/2026",
+    "moons": "7"
+  },
+  {
+    "level_name": "SpeedTek",
+    "level_id": 97812307,
+    "difficulty": "Medium Demon",
+    "ticks": 9531,
+    "tps": 240,
+    "authors": [
+      "Spidapida"
+    ],
+    "video": "https://youtu.be/ihN4OSMre3A",
+    "download": "https://github.com/seareez/seareez.github.io/blob/main/macros/97812307_9531t.slc",
+    "format": "slc",
+    "date": "09/23/2026",
+    "moons": "10"
+  },
+  {
+    "level_name": "GD levels platformer",
+    "level_id": 133560715,
+    "difficulty": "Easy Demon",
+    "ticks": 71228,
+    "tps": 240,
+    "authors": [
+      "SkyThePancake"
+    ],
+    "video": "https://youtu.be/UDa-2JoIx-Y",
+    "download": "https://github.com/seareez/seareez.github.io/blob/main/macros/133560715_71228t.tcm",
+    "format": "tcm",
+    "date": "09/23/2026",
+    "moons": "10"
+  },
+  {
+    "level_name": "DS Sewers",
+    "level_id": 112228962,
+    "difficulty": "Hard",
+    "ticks": 13297,
+    "tps": 240,
+    "authors": [
+      "SkyThePancake"
+    ],
+    "video": "https://youtu.be/W7kw1833sMI",
+    "download": "https://github.com/seareez/seareez.github.io/blob/main/macros/112228962_13297t.tcm",
+    "format": "tcm",
+    "date": "09/23/2026",
+    "moons": "4"
+  },
+  {
+    "level_name": "Farewell",
+    "level_id": 98434290,
+    "difficulty": "Harder",
+    "ticks": 16333,
+    "tps": 240,
+    "authors": [
+      "SkyThePancake"
+    ],
+    "video": "https://youtu.be/Fp4pkb9k6sQ",
+    "download": "https://github.com/seareez/seareez.github.io/blob/main/macros/98434290_16333t.tcm",
+    "format": "tcm",
+    "date": "09/23/2026",
+    "moons": "6"
+  },
+  {
+    "level_name": "Payload",
+    "level_id": 77241646,
+    "difficulty": "Normal",
+    "ticks": 5551,
+    "tps": 240,
+    "authors": [
+      "GaminGuy"
+    ],
+    "video": "https://www.youtube.com/watch?v=XekuZR6uoZE ",
+    "download": "https://github.com/seareez/seareez.github.io/blob/main/macros/77241646_5551t.tcm",
+    "format": "tcm",
+    "date": "09/23/2026",
+    "moons": "0"
+  },
+  {
+    "level_name": "Beast Mode",
+    "level_id": 77241647,
+    "difficulty": "Normal",
+    "ticks": 6771,
+    "tps": 240,
+    "authors": [
+      "GaminGuy"
+    ],
+    "video": "",
+    "download": "https://github.com/seareez/seareez.github.io/blob/main/macros/77241647_6771t.tcm",
+    "format": "tcm",
+    "date": "09/24/2026",
+    "moons": "0"
+  },
+  {
+    "level_name": "Gravity Sector",
+    "level_id": 110205212,
+    "difficulty": "Hard",
+    "ticks": 24578,
+    "tps": 240,
+    "authors": [
+      "GaminGuy"
+    ],
+    "video": "https://youtu.be/yPFXH21IP_A",
+    "download": "https://github.com/seareez/seareez.github.io/blob/main/macros/110205212_24578t.tcm",
+    "format": "tcm",
+    "date": "09/24/2026",
+    "moons": "5"
+  },
+  {
+    "level_name": "Swap Block Star Road",
+    "level_id": 98982091,
+    "difficulty": "Easy Demon",
+    "ticks": 16018,
+    "tps": 240,
+    "authors": [
+      "SkyThePancake"
+    ],
+    "video": "https://youtu.be/GtHknTYwK18",
+    "download": "https://github.com/seareez/seareez.github.io/blob/main/macros/98982091_16018t.tcm",
+    "format": "tcm",
+    "date": "09/25/2026",
+    "moons": "10"
+  },
+  {
+    "level_name": "Peaceful Parkour",
+    "level_id": 99551841,
+    "difficulty": "Normal",
+    "ticks": 7580,
+    "tps": 240,
+    "authors": [
+      "SkyThePancake"
+    ],
+    "video": "https://youtu.be/VI6cJY1K52U",
+    "download": "https://github.com/seareez/seareez.github.io/blob/main/macros/99551841_7580t.tcm",
+    "format": "tcm",
+    "date": "09/25/2026",
+    "moons": "3"
+  },
+  {
+    "level_name": "Piranha Gardens",
+    "level_id": 101777983,
+    "difficulty": "Normal",
+    "ticks": 8955,
+    "tps": 240,
+    "authors": [
+      "SkyThePancake"
+    ],
+    "video": "https://youtu.be/AeBZq3Sf1JE",
+    "download": "https://github.com/seareez/seareez.github.io/blob/main/macros/101777983_8955t.tcm",
+    "format": "tcm",
+    "date": "09/25/2026",
+    "moons": "3"
+  },
+  {
+    "level_name": "Moai Mirage",
+    "level_id": 147292725,
+    "difficulty": "Harder",
+    "ticks": 23138,
+    "tps": 240,
+    "authors": [
+      "SkyThePancake, sear"
+    ],
+    "video": "https://youtu.be/1IQLXVEzxvs",
+    "download": "https://github.com/seareez/seareez.github.io/blob/main/macros/147292725_23138t.tcm",
+    "format": "tcm",
+    "date": "09/27/2026",
+    "moons": "6"
+  },
+  {
+    "level_name": "Spookywave Inc",
+    "level_id": 111372709,
+    "difficulty": "Harder",
+    "ticks": 5295,
+    "tps": 240,
+    "authors": [
+      "SkyThePancake"
+    ],
+    "video": "https://youtu.be/nwB_Le2MzWw",
+    "download": "https://github.com/seareez/seareez.github.io/blob/main/macros/111372709_5295t.tcm",
+    "format": "tcm",
+    "date": "09/28/2026",
+    "moons": "7"
+  },
+  {
+    "level_name": "Colour Switch",
+    "level_id": 132142986,
+    "difficulty": "Harder",
+    "ticks": 13902,
+    "tps": 240,
+    "authors": [
+      "SkyThePancake"
+    ],
+    "video": "https://youtu.be/uMLaS_dtEI4",
+    "download": "https://github.com/seareez/seareez.github.io/blob/main/macros/132142986_13902t.tcm",
+    "format": "tcm",
+    "date": "09/28/2026",
+    "moons": "7"
+  },
+  {
+    "level_name": "Sky Obby",
+    "level_id": 145139766,
+    "difficulty": "Harder",
+    "ticks": 14473,
+    "tps": 240,
+    "authors": [
+      "SkyThePancake"
+    ],
+    "video": "https://youtu.be/IOGr2fa_diA",
+    "download": "https://github.com/seareez/seareez.github.io/blob/main/macros/145139766_14473t.tcm",
+    "format": "tcm",
+    "date": "09/28/2026",
+    "moons": "6"
+  },
+  {
+    "level_name": "Coldest Winter Yet",
+    "level_id": 116451379,
+    "difficulty": "Extreme Demon",
+    "ticks": 37360,
+    "tps": 240,
+    "authors": [
+      "Spidapida"
+    ],
+    "video": "https://youtu.be/umqEsNttP8U",
+    "download": "https://github.com/seareez/seareez.github.io/blob/main/macros/116451379_37360t.slc",
+    "format": "slc",
+    "date": "10/03/2026",
+    "moons": "10"
+  },
+  {
+    "level_name": "PALETTE",
+    "level_id": 115084216,
+    "difficulty": "Easy Demon",
+    "ticks": 18256,
+    "tps": 240,
+    "authors": [
+      "SkyThePancake"
+    ],
+    "video": "https://youtu.be/JuVIP7MnApA",
+    "download": "https://github.com/seareez/seareez.github.io/blob/main/macros/115084216_18256t.tcm",
+    "format": "tcm",
+    "date": "10/03/2026",
+    "moons": "10"
+  },
+  {
+    "level_name": "The Simulation",
+    "level_id": 114362678,
+    "difficulty": "Easy Demon",
+    "ticks": 88769,
+    "tps": 240,
+    "authors": [
+      "SkyThePancake"
+    ],
+    "video": "https://youtu.be/7ieWVyFVHM4",
+    "download": "https://github.com/seareez/seareez.github.io/blob/main/macros/114362678_88769t.tcm",
+    "format": "tcm",
+    "date": "10/05/2026",
+    "moons": "10"
+  },
+  {
+    "level_name": "GEOMETRY JUMP",
+    "level_id": 98394571,
+    "difficulty": "Insane",
+    "ticks": 20120,
+    "tps": 240,
+    "authors": [
+      "SkyThePancake"
+    ],
+    "video": "",
+    "download": "https://github.com/seareez/seareez.github.io/blob/main/macros/98394571_20120t.tcm",
+    "format": "tcm",
+    "date": "10/05/2026",
+    "moons": "8"
+  },
+  {
+    "level_name": "Swamplands",
+    "level_id": 149435033,
+    "difficulty": "Hard",
+    "ticks": 15728,
+    "tps": 240,
+    "authors": [
+      "SkyThePancake"
+    ],
+    "video": "",
+    "download": "https://github.com/seareez/seareez.github.io/blob/main/macros/149435033_15728t.tcm",
+    "format": "tcm",
+    "date": "10/05/2026",
+    "moons": "5"
+  },
+  {
+    "level_name": "Moonlit Meadows",
+    "level_id": 146659445,
+    "difficulty": "Hard",
+    "ticks": 14331,
+    "tps": 240,
+    "authors": [
+      "SkyThePancake"
+    ],
+    "video": "",
+    "download": "https://github.com/seareez/seareez.github.io/blob/main/macros/146659445_14331t.tcm",
+    "format": "tcm",
+    "date": "10/06/2026",
+    "moons": "4"
+  },
+  {
+    "level_name": "flip",
+    "level_id": 146741216,
+    "difficulty": "Insane",
+    "ticks": 35865,
+    "tps": 240,
+    "authors": [
+      "SkyThePancake"
+    ],
+    "video": "",
+    "download": "https://github.com/seareez/seareez.github.io/blob/main/macros/146741216_35865t.tcm",
+    "format": "tcm",
+    "date": "10/06/2026",
+    "moons": "9"
+  },
+  {
+    "level_name": "Really Fun Sorting",
+    "level_id": 138530778,
+    "difficulty": "Hard Demon",
+    "ticks": 3296,
+    "tps": 240,
+    "authors": [
+      "SkyThePancake"
+    ],
+    "video": "",
+    "download": "https://github.com/seareez/seareez.github.io/blob/main/macros/138530778_3296t.tcm",
+    "format": "tcm",
+    "date": "10/06/2026",
+    "moons": "10"
+  },
+  {
+    "level_name": "How To IPLL",
+    "level_id": 113529878,
+    "difficulty": "Harder",
+    "ticks": 43773,
+    "tps": 240,
+    "authors": [
+      "Melting Ice"
+    ],
+    "video": "https://youtu.be/bf3-PxE6kl0",
+    "download": "https://github.com/seareez/seareez.github.io/blob/main/macros/113529878_43773t.tcm",
+    "format": "tcm",
+    "date": "10/14/2026",
+    "moons": "0"
+  },
+  {
+    "level_name": "DS 1 TOWER",
+    "level_id": 100036833,
+    "difficulty": "Hard",
+    "ticks": 7848,
+    "tps": 240,
+    "authors": [
+      "The Cube Guy"
+    ],
+    "video": "https://www.youtube.com/watch?v=vVFTeguGoWQ",
+    "download": "https://cdn.discordapp.com/attachments/1504752137467334757/1508889818795606178/DS_1_Tower_1.tcm?ex=6a188026&is=6a172ea6&hm=4484c7082cdb7354152f4f74b0253c1effbea45247185dd76adcad892531d674&",
+    "format": "tcm",
+    "date": "05/09/2026",
+    "moons": "4"
+  },
+  {
+    "level_name": "35",
+    "difficulty": "Hard Demon",
+    "level_id": "N/A",
+    "ticks": 6194,
+    "tps": 240,
+    "authors": [
+      "Rotten Cheese"
+    ],
+    "video": "https://youtu.be/prBNKOlZOAo",
+    "download": "",
+    "format": "",
+    "date": "10/31/2025",
+    "moons": "10"
+  },
+  {
+    "level_name": "The Tower XXII",
+    "level_id": 97692058,
+    "difficulty": "Insane Demon",
+    "ticks": 4173,
+    "tps": 240,
+    "authors": [
+      "Heatwave Productions"
+    ],
+    "video": "https://www.youtube.com/watch?v=K6PYe1slwA4",
+    "download": "",
+    "format": "",
+    "date": "12/28/2023",
+    "moons": "10"
+  },
+  {
+    "level_name": "The Tower XXII",
+    "level_id": 97692058,
+    "difficulty": "Insane Demon",
+    "ticks": 3992,
+    "tps": 240,
+    "authors": [
+      "sear"
+    ],
+    "video": "https://www.youtube.com/embed/gLTLb2bsEls",
+    "download": "",
+    "format": "",
+    "date": "03/24/2024",
+    "moons": "10"
+  },
+  {
+    "level_name": "Super Mario Bros Lv1",
+    "level_id": 97978413,
+    "difficulty": "Normal",
+    "ticks": 5478,
+    "tps": 240,
+    "authors": [
+      "ShadowyZephyr"
+    ],
+    "download": "",
+    "format": "",
+    "date": "01/01/2024",
+    "moons": "3"
+  },
+  {
+    "level_name": "The Pit",
+    "level_id": 99066482,
+    "difficulty": "Insane",
+    "ticks": 4055,
+    "tps": 240,
+    "authors": [
+      "LucaGMD"
+    ],
+    "video": "https://www.youtube.com/watch?v=jUutfspScTw",
+    "download": "https://cdn.discordapp.com/attachments/1222740229329522763/1223039059484610671/The_Pit.gdr?ex=6a14cfe2&is=6a137e62&hm=b7ddd45e6793b1690a917c57a883df92db105ac346e4afd21078cf4e81d0e411&",
+    "format": "gdr",
+    "date": "03/28/2024",
+    "moons": "0"
+  },
+  {
+    "level_name": "Tower of Bread 12",
+    "level_id": 99999759,
+    "difficulty": "Insane",
+    "ticks": 4349,
+    "tps": 240,
+    "authors": [
+      "Fuyu"
+    ],
+    "video": "https://youtu.be/Tyu9fWl8YcI",
+    "download": "https://cdn.discordapp.com/attachments/1222740229329522763/1224351108294512763/Tower_of_Bread_12.gdr?ex=6a144fd3&is=6a12fe53&hm=4e79b6e52d4bca6d4fb1b1894ff8deffa40833dc1162244efc2f4c893f7c4aef&",
+    "format": "gdr",
+    "date": "04/01/2024",
+    "moons": "0"
+  },
+  {
+    "level_name": "I wanna be the guy",
+    "level_id": 97543536,
+    "difficulty": "Insane Demon",
+    "ticks": 10384,
+    "tps": 240,
+    "authors": [
+      "alex"
+    ],
+    "video": "https://www.youtube.com/watch?v=4jRe1v94vDY",
+    "download": "",
+    "format": "ybot",
+    "date": "12/23/2023",
+    "moons": "10"
+  },
+  {
+    "level_name": "I wanna be the guy",
+    "level_id": 97543536,
+    "difficulty": "Insane Demon",
+    "ticks": 9419,
+    "tps": 240,
+    "authors": [
+      "alex"
+    ],
+    "video": "https://www.youtube.com/watch?v=GaUqU4Vf8Fg",
+    "download": "",
+    "format": "ybot",
+    "date": "12/25/2023",
+    "moons": "10"
+  },
+  {
+    "level_name": "I wanna be the guy",
+    "level_id": 97543536,
+    "difficulty": "Insane Demon",
+    "ticks": 9353,
+    "tps": 240,
+    "authors": [
+      "sear"
+    ],
+    "video": "https://www.youtube.com/watch?v=WSo7Jqe3uQQ",
+    "download": "",
+    "format": "ybot",
+    "date": "01/14/2024",
+    "moons": "10"
+  },
+  {
+    "level_name": "I wanna be the guy",
+    "level_id": 97543536,
+    "difficulty": "Insane Demon",
+    "ticks": 9270,
+    "tps": 240,
+    "authors": [
+      "sear"
+    ],
+    "video": "https://www.youtube.com/watch?v=KbG2zHc2P30",
+    "download": "",
+    "format": "ybot",
+    "date": "03/09/2024",
+    "moons": "10"
+  },
+  {
+    "level_name": "I wanna be the guy",
+    "level_id": 97543536,
+    "difficulty": "Insane Demon",
+    "ticks": 9143,
+    "tps": 240,
+    "authors": [
+      "Fuyu"
+    ],
+    "video": "https://www.youtube.com/watch?v=g4y8S_FbuaU",
+    "download": "https://drive.google.com/file/d/1xGL1gJhEgYP8A3UahnwNEpPOY8cmHHRe/view?usp=sharing",
+    "format": "gdr",
+    "date": "04/18/2024",
+    "moons": "10"
+  },
+  {
+    "level_name": "Worlds Hardest Game",
+    "level_id": 97683923,
+    "difficulty": "Insane Demon",
+    "ticks": 92264,
+    "tps": 240,
+    "authors": [
+      "noob"
+    ],
+    "video": "https://www.youtube.com/watch?v=0_Q8RtvUjAo",
+    "download": "https://cdn.discordapp.com/attachments/1222740229329522763/1231170865027219476/worlds_hardest_game.ybot?ex=6a14bb78&is=6a1369f8&hm=d2ddd425c6dbbae1a52be2edbff57d1d59f7592e098f3b1726cfded7c6bf9570&",
+    "format": "",
+    "date": "04/20/2024",
+    "moons": "10"
+  },
+  {
+    "level_name": "Tower of Bread 12",
+    "level_id": 99999759,
+    "difficulty": "Insane",
+    "ticks": 3314,
+    "tps": 240,
+    "authors": [
+      "Fuyu"
+    ],
+    "video": "https://youtu.be/QuayUxunOw0",
+    "download": "https://cdn.discordapp.com/attachments/1222740229329522763/1231635040618680431/Tower_of_Bread_12.gdr?ex=6a147184&is=6a132004&hm=c2ed8d97796f87a5595ea35bcd68799de5c2e90fa95e3b68754218674124da53&",
+    "format": "gdr",
+    "date": "04/21/2024",
+    "moons": "0"
+  },
+  {
+    "level_name": "iwks unnerfed",
+    "level_id": 100638312,
+    "difficulty": "Harder",
+    "ticks": 21904,
+    "tps": 240,
+    "authors": [
+      "sear"
+    ],
+    "video": "https://youtu.be/ShFu3KQ-_6A",
+    "download": "https://cdn.discordapp.com/attachments/1222740229329522763/1235806178227912814/IWKS.ybot?ex=6a1474f1&is=6a132371&hm=0b03578d2d296823b492db601491810aeb8bf6709ad5b8c28b0d5d8bd7606e47&",
+    "format": "gdr",
+    "date": "04/20/2024",
+    "moons": "0"
+  },
+  {
+    "level_name": "Exception",
+    "level_id": 100509834,
+    "difficulty": "Insane",
+    "ticks": 3708,
+    "tps": 240,
+    "authors": [
+      "sear"
+    ],
+    "video": "https://www.youtube.com/watch?v=VtZqXCOI5rk",
+    "download": "https://cdn.discordapp.com/attachments/1222740229329522763/1238755344814182481/Exception.ybot?ex=6a14a391&is=6a135211&hm=515ac040f1c81e8385cd9a10782937df42e1517af19fa27fc26d01158f7f0162&",
+    "format": "ybot",
+    "date": "05/11/2024",
+    "moons": "0"
+  },
+  {
+    "level_name": "Null",
+    "level_id": 104031134,
+    "difficulty": "Extreme Demon",
+    "ticks": 8223,
+    "tps": 240,
+    "authors": [
+      "Aibyou"
+    ],
+    "video": "https://www.youtube.com/watch?v=cghcQ3lfff0",
+    "download": "https://cdn.discordapp.com/attachments/1222740229329522763/1238919490452848650/null.ybot?ex=6a1493b0&is=6a134230&hm=6ef97dae36da7b94aa6c9f78bb5f7ffb7d5cd4b8334ebb4fe1c7e439807bdc0b&",
+    "format": "ybot",
+    "date": "05/11/2024",
+    "moons": "10"
+  },
+  {
+    "level_name": "Jet Lag",
+    "level_id": 97536552,
+    "difficulty": "Medium Demon",
+    "ticks": 10426,
+    "tps": 240,
+    "authors": [
+      "Fuyu"
+    ],
+    "video": "https://youtu.be/gT_MjJ-GUXM",
+    "download": "https://cdn.discordapp.com/attachments/1222740229329522763/1239162080137838652/Jet_Lag.gdr?ex=6a14ccde&is=6a137b5e&hm=20dd9b994cc9e4b45a4dc1f06ce4a4cfe2e52a4d7a62b532915fa7fb7b18f323&",
+    "format": "gdr",
+    "date": "05/04/2024",
+    "moons": "10"
+  },
+  {
+    "level_name": "CaveOfTheScarletSky",
+    "level_id": 113224510,
+    "difficulty": "Extreme Demon",
+    "ticks": 15778,
+    "tps": 240,
+    "authors": [
+      "RichConnerGMN"
+    ],
+    "video": "https://youtu.be/LVt7CkEGUnQ",
+    "download": "",
+    "format": "",
+    "date": "12/19/2024",
+    "moons": "10"
+  },
+  {
+    "level_name": "CaveOfTheScarletSky",
+    "level_id": 113224510,
+    "difficulty": "Extreme Demon",
+    "ticks": 15460,
+    "tps": 240,
+    "authors": [
+      "Fuyu"
+    ],
+    "video": "https://youtu.be/ZNtNtzWcMOI",
+    "download": "",
+    "format": "",
+    "date": "12/20/2025",
+    "moons": "10"
+  },
+  {
+    "level_name": "Cartash fixed rng",
+    "level_id": 135027288,
+    "difficulty": "Unrated",
+    "ticks": 25338,
+    "tps": 240,
+    "authors": [
+      "RichConnerGMN"
+    ],
+    "video": "https://youtu.be/wTir7NdrRR4",
+    "download": "",
+    "format": "",
+    "date": "03/07/2026",
+    "moons": "0"
+  },
+  {
+    "level_name": "Disco Dungeon",
+    "level_id": 97638770,
+    "difficulty": "Easy",
+    "ticks": 5732,
+    "tps": 240,
+    "authors": [
+      "The Cube Guy"
+    ],
+    "video": "https://www.youtube.com/watch?v=B45rFhuJQCI",
+    "download": "https://cdn.discordapp.com/attachments/1504752137467334757/1508889818531106986/Disco_Dungeon.tcm?ex=6a188026&is=6a172ea6&hm=27fa5e59900471a6f0021b5abd33f1ddcd64933be16600efafc720d881c6f410&",
+    "format": "tcm",
+    "date": "05/15/2026",
+    "moons": "2"
+  },
+  {
+    "level_name": "The Tower",
+    "level_id": 5001,
+    "difficulty": "Hard",
+    "ticks": 17164,
+    "tps": 240,
+    "authors": [
+      "ShadowyZephyr"
+    ],
+    "video": "https://www.youtube.com/embed/vKeSCcIexhc",
+    "download": "https://drive.google.com/file/d/19mM2-L-knpBWlfmJMITGJouPm9OeqN_3/view?usp=drive_link",
+    "format": "ybot",
+    "date": "03/13/2024",
+    "moons": "0"
+  },
+  {
+    "level_name": "Twenty Trials",
+    "level_id": 98780627,
+    "difficulty": "Easy Demon",
+    "ticks": 28987,
+    "tps": 240,
+    "authors": [
+      "sear"
+    ],
+    "video": "https://www.youtube.com/embed/qfikvAwNKjA",
+    "download": "https://drive.google.com/file/d/1aBnVNo5iJeqH2e6yDoqfNd6Kd1TqSclW/view?usp=drive_link",
+    "format": "ybot",
+    "date": "4/08/2024",
+    "moons": "10"
+  },
+  {
+    "level_name": "22 Trials of PAIN",
+    "level_id": 98228276,
+    "difficulty": "Extreme Demon",
+    "ticks": 29299,
+    "tps": 240,
+    "authors": [
+      "Fuyu"
+    ],
+    "video": "https://youtu.be/hklgxBLOk0A",
+    "download": "https://drive.google.com/file/d/1rBFQwf3Xddn8W4JxPm9rBFj0oKjtnC80/view?usp=drive_link",
+    "format": "ybot",
+    "date": "01/27/2024",
+    "moons": "10"
+  },
+  {
+    "level_name": "Tower of Rage",
+    "level_id": 100782112,
+    "difficulty": "Easy Demon",
+    "ticks": 33993,
+    "tps": 240,
+    "authors": [
+      "Zettaminx"
+    ],
+    "video": "https://www.youtube.com/embed/AuwXkIkWUeE",
+    "download": "https://drive.google.com/file/d/1J0ShqwU_8YFA6O7wbpPinkSD4Lw8HQFO/view?usp=drive_link",
+    "format": "ybot",
+    "date": "03/15/2024",
+    "moons": "10"
+  },
+  {
+    "level_name": "Switchscapes",
+    "level_id": 101298431,
+    "difficulty": "Hard Demon",
+    "ticks": 36198,
+    "tps": 240,
+    "authors": [
+      "LawfulDmcBoo"
+    ],
+    "video": "https://www.youtube.com/embed/jhO1Q4TAmtg",
+    "download": "https://drive.google.com/file/d/16T8WXbi8qc9r3AWK4jPdtDK-T85NwZzq/view?usp=drive_link",
+    "format": "gdr",
+    "date": "05/01/2025",
+    "moons": "10"
+  },
+  {
+    "level_name": "Tornado",
+    "level_id": 101624652,
+    "difficulty": "Harder",
+    "ticks": 38860,
+    "tps": 240,
+    "authors": [
+      "ShadowyZephyr"
+    ],
+    "video": "https://www.youtube.com/embed/1rap_a7YyPQ",
+    "download": "https://drive.google.com/file/d/1E4BOgBlDe4JbqVCv2ZpPg7xbqvcdnCD1/view?usp=drive_link",
+    "format": "ybot",
+    "date": "03/25/2024",
+    "moons": "6"
+  },
+  {
+    "level_name": "The Abyss",
+    "level_id": 98163412,
+    "difficulty": "Extreme Demon",
+    "ticks": 91659,
+    "tps": 240,
+    "authors": [
+      "sear, erzor"
+    ],
+    "video": "https://www.youtube.com/embed/vGiwAgO6mpo",
+    "download": "https://drive.google.com/file/d/1jtOMZlWmmIgXYyv3GLNegtf_YAFRueHt/view?usp=drive_link",
+    "format": "ybot",
+    "date": "03/06/2024",
+    "moons": "10"
+  },
+  {
+    "level_name": "Permafrost Peaks",
+    "level_id": 98852405,
+    "difficulty": "Harder",
+    "ticks": 1953,
+    "tps": 240,
+    "authors": [
+      "Fuyu"
+    ],
+    "video": "https://youtu.be/NgVtnewHFlg",
+    "download": "",
+    "format": "",
+    "date": "02/23/2025",
+    "moons": "0"
+  },
+  {
+    "level_name": "The Sewers",
+    "level_id": 5002,
+    "difficulty": "Harder",
+    "ticks": 17348,
+    "tps": 240,
+    "authors": [
+      "Fuyu"
+    ],
+    "video": "https://youtu.be/i5yMAGO0eE4",
+    "download": "",
+    "format": "",
+    "date": "02/28/2024",
+    "moons": "0"
+  },
+  {
+    "level_name": "Terminal Heaven",
+    "level_id": 99335322,
+    "difficulty": "Extreme Demon",
+    "ticks": 14399,
+    "tps": 240,
+    "authors": [
+      "Fuyu"
+    ],
+    "video": "https://youtu.be/QqxRs9BGtxs",
+    "download": "",
+    "format": "",
+    "date": "02/07/2025",
+    "moons": "10"
+  },
+  {
+    "level_name": "10 Rooms For Fun",
+    "level_id": 106767751,
+    "difficulty": "Easy Demon",
+    "ticks": 9384,
+    "tps": 240,
+    "authors": [
+      "RichConnerGMN"
+    ],
+    "video": "https://www.youtube.com/watch?v=cWsdHsEUfiw",
+    "download": "",
+    "format": "",
+    "date": "08/24/2024",
+    "moons": "10"
+  },
+  {
+    "level_name": "Getting Over It",
+    "level_id": 97480163,
+    "difficulty": "Insane",
+    "ticks": 4080,
+    "tps": 240,
+    "authors": [
+      "RichConnerGMN"
+    ],
+    "video": "https://www.youtube.com/watch?v=4_tQIS3MM14",
+    "download": "",
+    "format": "",
+    "date": "03/09/2024",
+    "moons": "8"
+  },
+  {
+    "level_name": "how to Spiderr",
+    "level_id": 122370463,
+    "difficulty": "Easy Demon",
+    "ticks": 34298,
+    "tps": 240,
+    "authors": [
+      "sear"
+    ],
+    "video": "https://youtu.be/SjGOFVFWU7I",
+    "download": "https://drive.google.com/file/d/1Xd-0OUTS1Ue33XhPBH1MlNjYUIOnhrfZ/view?usp=drive_link",
+    "format": "tcm",
+    "date": "05/04/2026",
+    "moons": "10"
+  },
+  {
+    "level_name": "10 Rooms For Fun",
+    "level_id": 106767751,
+    "difficulty": "Easy Demon",
+    "ticks": 8929,
+    "tps": 240,
+    "authors": [
+      "sear"
+    ],
+    "video": "https://youtu.be/ocF87neFXGs",
+    "download": "https://drive.google.com/file/d/1ESItKFSHyZIMcww8I6Qqvl2yNIXs5LPy/view?usp=drive_link",
+    "format": "tcm",
+    "date": "05/26/2026",
+    "moons": "10"
+  },
+  {
+    "level_name": "The Abyss",
+    "level_id": 98163412,
+    "difficulty": "Extreme Demon",
+    "ticks": 92575,
+    "tps": 240,
+    "authors": [
+      "sear"
+    ],
+    "video": "https://youtu.be/yUqTrtyMBQI",
+    "download": "",
+    "format": "",
+    "date": "01/18/2024",
+    "moons": "10"
+  },
+  {
+    "level_name": "Candy Crush buff",
+    "level_id": 98714164,
+    "difficulty": "Insane",
+    "ticks": 3599,
+    "tps": 240,
+    "authors": [
+      "sear"
+    ],
+    "video": "https://www.youtube.com/watch?v=74OWhB7_yps",
+    "download": "",
+    "format": "",
+    "date": "02/02/2024",
+    "moons": "0"
+  },
+  {
+    "level_name": "Candy Crush buff",
+    "level_id": 98714164,
+    "difficulty": "Insane",
+    "ticks": 3920,
+    "tps": 240,
+    "authors": [
+      "erzor"
+    ],
+    "video": "https://youtu.be/eru11lVwGmo",
+    "download": "",
+    "format": "",
+    "date": "01/10/2024",
+    "moons": "0"
+  },
+  {
+    "level_name": "Permafrost Peaks",
+    "level_id": 98852405,
+    "difficulty": "Harder",
+    "ticks": 2206,
+    "tps": 240,
+    "authors": [
+      "sear"
+    ],
+    "video": "https://www.youtube.com/watch?v=PZi_zckHH48",
+    "download": "",
+    "format": "",
+    "date": "02/02/2024",
+    "moons": "0"
+  },
+  {
+    "level_name": "YiiK A PostAlbertRPG",
+    "level_id": 100353881,
+    "difficulty": "Harder",
+    "ticks": 2228,
+    "tps": 240,
+    "authors": [
+      "sear"
+    ],
+    "video": "https://youtu.be/JO5HzUiuq1I",
+    "download": "",
+    "format": "",
+    "date": "02/28/2024",
+    "moons": "0"
+  },
+  {
+    "level_name": "Club Kaizo Ball",
+    "level_id": 103876203,
+    "difficulty": "Insane",
+    "ticks": 5172,
+    "tps": 240,
+    "authors": [
+      "sear"
+    ],
+    "video": "https://www.youtube.com/watch?v=N8XP7bu8F_w",
+    "download": "",
+    "format": "",
+    "date": "06/22/2024",
+    "moons": "0"
+  },
+  {
+    "level_name": "Club Kaizo Ball",
+    "level_id": 103876203,
+    "difficulty": "Insane",
+    "ticks": 4832,
+    "tps": 240,
+    "authors": [
+      "sear"
+    ],
+    "video": "https://www.youtube.com/watch?v=4oq2LKQ-8f8",
+    "download": "",
+    "format": "",
+    "date": "07/19/2024",
+    "moons": "0"
+  },
+  {
+    "level_name": "How to platformer",
+    "level_id": 104187415,
+    "difficulty": "Insane Demon",
+    "ticks": 649440,
+    "tps": 240,
+    "authors": [
+      "Electro"
+    ],
+    "video": "https://www.youtube.com/watch?v=Dk_0ejrMYlI",
+    "download": "",
+    "format": "",
+    "date": "06/06/2024",
+    "moons": "10"
+  },
+  {
+    "level_name": "Robot King",
+    "level_id": 99927952,
+    "difficulty": "Extreme Demon",
+    "ticks": 25524,
+    "tps": 240,
+    "authors": [
+      "sear"
+    ],
+    "video": "https://www.youtube.com/watch?v=qINHnHlIsu4",
+    "download": "",
+    "format": "",
+    "date": "01/29/2025",
+    "moons": "10"
+  },
+  {
+    "level_name": "Flipswap Factory",
+    "level_id": 98439428,
+    "difficulty": "Medium Demon",
+    "ticks": 13552,
+    "tps": 240,
+    "authors": [
+      "Melting Ice"
+    ],
+    "video": "https://youtu.be/XLcIyDaKvfA",
+    "download": "https://drive.google.com/file/d/1vvW4kBHIsdr7ludbv7ddX9AVJm9hNLtt/view?usp=drive_link",
+    "format": "tcm",
+    "date": "11/04/2025",
+    "moons": "10"
+  },
+  {
+    "level_name": "Flipswap Factory",
+    "level_id": 98439428,
+    "difficulty": "Medium Demon",
+    "ticks": 13554,
+    "tps": 240,
+    "authors": [
+      "Melting Ice"
+    ],
+    "video": "",
+    "download": "https://drive.google.com/file/d/10sPd_pODlBVURcz-bgUmIi_1OAQDtYmc/view?usp=drive_link",
+    "format": "gdr",
+    "date": "04/26/2024",
+    "moons": "10"
+  },
+  {
+    "level_name": "The Cellar",
+    "level_id": 5003,
+    "difficulty": "Harder",
+    "ticks": 18317,
+    "tps": 240,
+    "authors": [
+      "Fuyu"
+    ],
+    "video": "https://youtu.be/i_ggENeMlus",
+    "download": "https://drive.google.com/file/d/1OwQaCah19H-kta0-3filYXraOSVrSIsO/view?usp=drive_link",
+    "format": "tcm",
+    "date": "05/29/2026",
+    "moons": "0"
+  },
+  {
+    "level_name": "The Tower XXII",
+    "level_id": 97692058,
+    "difficulty": "Insane Demon",
+    "ticks": 4235,
+    "tps": 240,
+    "authors": [
+      "alex"
+    ],
+    "video": "https://youtu.be/-hUlOb0hxrw",
+    "download": "",
+    "format": "",
+    "date": "12/24/2023",
+    "moons": "10"
+  },
+  {
+    "level_name": "Jet Lag",
+    "level_id": 97536552,
+    "difficulty": "Medium Demon",
+    "ticks": 10870,
+    "tps": 240,
+    "authors": [
+      "Chill Chill"
+    ],
+    "video": "https://youtu.be/F5V4gKcKIq4",
+    "download": "",
+    "format": "ybot",
+    "date": "12/26/2023",
+    "moons": "10"
+  },
+  {
+    "level_name": "Super Mario Bros Lv1",
+    "level_id": 97978413,
+    "difficulty": "Normal",
+    "ticks": 6046,
+    "tps": 240,
+    "authors": [
+      "Toster"
+    ],
+    "video": "https://youtu.be/y1eu_quUmH8",
+    "format": "",
+    "date": "01/04/2024",
+    "moons": "3"
+  },
+  {
+    "level_name": "The Towerverse",
+    "level_id": 102814497,
+    "difficulty": "Hard Demon",
+    "ticks": 152085,
+    "tps": 240,
+    "authors": [
+      "Ayn234"
+    ],
+    "video": "https://youtu.be/y6aEM8ACLgw",
+    "download": "",
+    "format": "",
+    "date": "03/30/2024",
+    "moons": "10"
+  },
+  {
+    "level_name": "Flipswap Factory",
+    "level_id": 98439428,
+    "difficulty": "Medium Demon",
+    "ticks": 13564,
+    "tps": 240,
+    "authors": [
+      "Melting Ice"
+    ],
+    "video": "https://youtu.be/dadK3nmFBOA",
+    "download": "",
+    "format": "",
+    "date": "04/27/2024",
+    "moons": "10"
+  },
+  {
+    "level_name": "Tower of Infinity",
+    "level_id": 97713011,
+    "difficulty": "Insane Demon",
+    "ticks": 32605,
+    "tps": 240,
+    "authors": [
+      "LawfulDmcBoo"
+    ],
+    "video": "https://youtu.be/5vIHhmhbjPw",
+    "download": "",
+    "format": "ybot",
+    "date": "05/09/2024",
+    "moons": "10"
+  },
+  {
+    "level_name": "Tower of Infinity",
+    "level_id": 97713011,
+    "difficulty": "Insane Demon",
+    "ticks": 71260,
+    "tps": 240,
+    "authors": [
+      "Glorby"
+    ],
+    "video": "https://youtu.be/uDszYIyyzBY",
+    "download": "",
+    "format": "",
+    "date": "08/22/2024",
+    "moons": "10"
+  },
+  {
+    "level_name": "The Tower XXII",
+    "level_id": 97692058,
+    "difficulty": "Insane Demon",
+    "ticks": 5556,
+    "tps": 240,
+    "authors": [
+      "Glorby"
+    ],
+    "video": "https://youtu.be/rPohl62f3HQ",
+    "download": "",
+    "format": "",
+    "date": "08/25/2024",
+    "moons": "10"
+  },
+  {
+    "level_name": "Throat of the World",
+    "level_id": 109365157,
+    "difficulty": "Insane Demon",
+    "ticks": 271200,
+    "tps": 240,
+    "authors": [
+      "TheGreatBird"
+    ],
+    "video": "https://youtu.be/Voc8wBiXsZ0",
+    "download": "",
+    "format": "",
+    "date": "08/30/2024",
+    "moons": "10"
+  },
+  {
+    "level_name": "Shinzo III",
+    "level_id": 110661145,
+    "difficulty": "Insane",
+    "ticks": 133666,
+    "tps": 240,
+    "authors": [
+      "Fuyu"
+    ],
+    "video": "https://youtu.be/bUDmELd3zsg",
+    "download": "",
+    "format": "",
+    "date": "09/30/2024",
+    "moons": "0"
+  },
+  {
+    "level_name": "Throat of the World",
+    "level_id": 109365157,
+    "difficulty": "Insane Demon",
+    "ticks": 257040,
+    "tps": 240,
+    "authors": [
+      "TheGreatBird"
+    ],
+    "video": "https://youtu.be/NO2lZSYgei8",
+    "download": "",
+    "format": "",
+    "date": "02/01/2025",
+    "moons": "10"
+  },
+  {
+    "level_name": "How to platformer",
+    "level_id": 104187415,
+    "difficulty": "Insane Demon",
+    "ticks": 75878,
+    "tps": 240,
+    "authors": [
+      "sear"
+    ],
+    "video": "https://youtu.be/IHL86-ypMHM",
+    "download": "",
+    "format": "",
+    "date": "02/08/2025",
+    "moons": "10"
+  },
+  {
+    "level_name": "i wanna rob the top",
+    "level_id": 105299008,
+    "difficulty": "Extreme Demon",
+    "ticks": 28794,
+    "tps": 240,
+    "authors": [
+      "LawfulDmcBoo"
+    ],
+    "video": "https://youtu.be/GzyDzyvzM_U",
+    "download": "",
+    "format": "",
+    "date": "02/11/2025",
+    "moons": "10"
+  },
+  {
+    "level_name": "22 Trials of PAIN",
+    "level_id": 98228276,
+    "difficulty": "Extreme Demon",
+    "ticks": 32358,
+    "tps": 240,
+    "authors": [
+      "Glorby"
+    ],
+    "video": "https://youtu.be/Q-HSbZly_gY",
+    "download": "",
+    "format": "",
+    "date": "05/21/2024",
+    "moons": "10"
+  },
+  {
+    "level_name": "2024 Dash Olympics",
+    "level_id": 109745490,
+    "difficulty": "Harder",
+    "ticks": 5132,
+    "tps": 240,
+    "authors": [
+      "Glorby"
+    ],
+    "video": "https://youtu.be/djZvuvu7aR8",
+    "download": "",
+    "format": "",
+    "date": "04/15/2025",
+    "moons": "0"
+  },
+  {
+    "level_name": "2024 Dash Olympics",
+    "level_id": 109745490,
+    "difficulty": "Harder",
+    "ticks": 4791,
+    "tps": 240,
+    "authors": [
+      "Glorby"
+    ],
+    "video": "https://youtu.be/4iC15T_VcWU",
+    "download": "",
+    "format": "",
+    "date": "04/16/2025",
+    "moons": "0"
+  },
+  {
+    "level_name": "Forsaken City",
+    "level_id": 97906220,
+    "difficulty": "Easy Demon",
+    "ticks": 30709,
+    "tps": 480,
+    "authors": [
+      "jakeayy"
+    ],
+    "video": "https://youtu.be/CEXPBqy3n0k",
+    "download": "",
+    "format": "",
+    "date": "05/08/2025",
+    "moons": "10"
+  },
+  {
+    "level_name": "The Secret Hollow",
+    "level_id": 5004,
+    "difficulty": "Harder",
+    "ticks": 41963,
+    "tps": 240,
+    "authors": [
+      "Melting Ice"
+    ],
+    "video": "https://youtu.be/vwMtxvAfGZ0",
+    "download": "",
+    "format": "",
+    "date": "05/17/2025",
+    "moons": "0"
+  },
+  {
+    "level_name": "The Secret Hollow",
+    "level_id": 5004,
+    "difficulty": "Harder",
+    "ticks": 39779,
+    "tps": 240,
+    "authors": [
+      "Melting Ice"
+    ],
+    "video": "https://youtu.be/F8hl2RbNPbI",
+    "download": "",
+    "format": "",
+    "date": "05/30/2025",
+    "moons": "0"
+  },
+  {
+    "level_name": "The Tower",
+    "level_id": 5001,
+    "difficulty": "Hard",
+    "ticks": 15616,
+    "tps": 240,
+    "authors": [
+      "Melting Ice"
+    ],
+    "video": "https://youtu.be/4sa-FJ_QAnY&t=4",
+    "download": "",
+    "format": "",
+    "date": "07/19/2025",
+    "moons": "0"
+  },
+  {
+    "level_name": "The Sewers",
+    "level_id": 5002,
+    "difficulty": "Harder",
+    "ticks": 18353,
+    "tps": 240,
+    "authors": [
+      "Melting Ice"
+    ],
+    "video": "https://youtu.be/4sa-FJ_QAnY&t=74",
+    "download": "",
+    "format": "",
+    "date": "07/19/2025",
+    "moons": "0"
+  },
+  {
+    "level_name": "The Cellar",
+    "level_id": 5003,
+    "difficulty": "Harder",
+    "ticks": 18393,
+    "tps": 240,
+    "authors": [
+      "Melting Ice"
+    ],
+    "video": "https://youtu.be/4sa-FJ_QAnY&t=156",
+    "download": "",
+    "format": "",
+    "date": "07/19/2025",
+    "moons": "0"
+  },
+  {
+    "level_name": "The Secret Hollow",
+    "level_id": 5004,
+    "difficulty": "Harder",
+    "ticks": 40236,
+    "tps": 240,
+    "authors": [
+      "Melting Ice"
+    ],
+    "video": "https://youtu.be/4sa-FJ_QAnY&t=237",
+    "download": "",
+    "format": "",
+    "date": "07/19/2025",
+    "moons": "0"
+  },
+  {
+    "level_name": "CONVOLUTION",
+    "level_id": 105724358,
+    "difficulty": "Extreme Demon",
+    "ticks": 11393,
+    "tps": 240,
+    "authors": [
+      "SP_SUS"
+    ],
+    "video": "https://youtu.be/gjT3PbbVH54",
+    "download": "",
+    "format": "",
+    "date": "08/21/2025",
+    "moons": "10"
+  },
+  {
+    "level_name": "Labyrinth",
+    "level_id": 126447025,
+    "difficulty": "Extreme Demon",
+    "ticks": 25912,
+    "tps": 240,
+    "authors": [
+      "Melting Ice"
+    ],
+    "video": "https://youtu.be/1ToHvAuSLZc",
+    "download": "",
+    "format": "",
+    "date": "10/04/2025",
+    "moons": "10"
+  },
+  {
+    "level_name": "Storm Front",
+    "level_id": 100486532,
+    "difficulty": "Extreme Demon",
+    "ticks": 21470,
+    "tps": 240,
+    "authors": [
+      "Glorby"
+    ],
+    "video": "https://youtu.be/OKbIpaU7or8",
+    "download": "",
+    "format": "",
+    "date": "12/25/2025",
+    "moons": "10"
+  },
+  {
+    "level_name": "Diamonds For Dashers",
+    "level_id": 118798387,
+    "difficulty": "Extreme Demon",
+    "ticks": 17275,
+    "tps": 240,
+    "authors": [
+      "Beckett the Buckett"
+    ],
+    "video": "https://youtu.be/Pi_OA9Iihh0",
+    "download": "",
+    "format": "",
+    "date": "12/29/2025",
+    "moons": "10"
+  },
+  {
+    "level_name": "CONVOLUTION",
+    "level_id": 105724358,
+    "difficulty": "Extreme Demon",
+    "ticks": 11647,
+    "tps": 240,
+    "authors": [
+      "Beckett the Buckett"
+    ],
+    "video": "https://youtu.be/S558H6nXFNI",
+    "download": "",
+    "format": "",
+    "date": "12/29/2025",
+    "moons": "10"
+  },
+  {
+    "level_name": "Rabbit Hole",
+    "level_id": 115881666,
+    "difficulty": "Extreme Demon",
+    "ticks": 15367,
+    "tps": 240,
+    "authors": [
+      "Beckett the Buckett"
+    ],
+    "video": "https://youtu.be/O8U-OVvqLmE",
+    "download": "",
+    "format": "",
+    "date": "12/29/2025",
+    "moons": "10"
+  },
+  {
+    "level_name": "r a g e",
+    "level_id": 112834935,
+    "difficulty": "Extreme Demon",
+    "ticks": 6972,
+    "tps": 240,
+    "authors": [
+      "Beckett the Buckett"
+    ],
+    "video": "https://youtu.be/fWwTAo4So70",
+    "download": "",
+    "format": "",
+    "date": "12/29/2025",
+    "moons": "10"
+  },
+  {
+    "level_name": "delightful climb",
+    "level_id": 115206404,
+    "difficulty": "Extreme Demon",
+    "ticks": 17645,
+    "tps": 240,
+    "authors": [
+      "Beckett the Buckett"
+    ],
+    "video": "https://youtu.be/ALM2tiqh5Cs",
+    "download": "",
+    "format": "",
+    "date": "12/29/2025",
+    "moons": "10"
+  },
+  {
+    "level_name": "Diamonds For Dashers",
+    "level_id": 118798387,
+    "difficulty": "Extreme Demon",
+    "ticks": 17115,
+    "tps": 240,
+    "authors": [
+      "Beckett the Buckett"
+    ],
+    "video": "https://youtu.be/q5pT95Kb4sw",
+    "download": "",
+    "format": "",
+    "date": "12/29/2025",
+    "moons": "10"
+  },
+  {
+    "level_name": "Sedulous",
+    "level_id": 111126817,
+    "difficulty": "Insane",
+    "ticks": 11333,
+    "tps": 240,
+    "authors": [
+      "Beckett the Buckett"
+    ],
+    "video": "https://youtu.be/nfFhNbyyk90",
+    "download": "",
+    "format": "",
+    "date": "12/31/2025",
+    "moons": "0"
+  },
+  {
+    "level_name": "One One",
+    "level_id": 141283416,
+    "difficulty": "Easy",
+    "ticks": 5404,
+    "tps": 240,
+    "authors": [
+      "Taze"
+    ],
+    "video": "https://youtu.be/iMqRTnWGnlg",
+    "download": "https://cdn.discordapp.com/attachments/1222740229329522763/1524986275449409698/One_One.ast?ex=6a55b224&is=6a5460a4&hm=d6466af846f08c8b631fb5e4c797fc1b50129817a39f0b9b42dff06d06ea1a59&",
+    "format": "ast",
+    "date": "07/09/2026",
+    "moons": "2"
+  },
+  {
+    "level_name": "One One",
+    "level_id": 141283416,
+    "difficulty": "Easy",
+    "ticks": 5403,
+    "tps": 240,
+    "authors": [
+      "sear"
+    ],
+    "video": "https://www.youtube.com/watch?v=iMqRTnWGnlg&feature=youtu.be",
+    "download": "https://cdn.discordapp.com/attachments/1222740229329522763/1526106714368249856/OneOne.tcm?ex=6a55d122&is=6a547fa2&hm=b290fffb5fe8acca1b5314614cc141dde65ecb5401e55b6f1a4e82f020006bdd&",
+    "format": "tcm",
+    "date": "07/13/2026",
+    "moons": "2"
+  },
+  {
+    "level_name": "One One",
+    "level_id": 141283416,
+    "difficulty": "Easy",
+    "ticks": 5398,
+    "tps": 240,
+    "authors": [
+      "Fuyu"
+    ],
+    "video": "https://www.youtube.com/watch?v=RSKVsloOXPY",
+    "download": "https://cdn.discordapp.com/attachments/1222740229329522763/1526256866617987192/one_one.tcm?ex=6a565cf9&is=6a550b79&hm=a4f8045f31e0aeeb4d0a477d5f0e6150c23e8078637aa05961f8b44634ca2eff&",
+    "format": "tcm",
+    "date": "07/13/2026",
+    "moons": "2"
+  },
+  {
+    "level_name": "The Tower",
+    "level_id": 5001,
+    "difficulty": "Hard",
+    "ticks": 15566,
+    "tps": 240,
+    "authors": [
+      "Fuyu"
+    ],
+    "video": "https://www.youtube.com/watch?v=jXujSq5aYw0",
+    "download": "https://drive.google.com/file/d/1P4P1SO1nZgQxOIWLcT-rj3Cb2AXrXS-F/view?usp=drive_link",
+    "format": "tcm",
+    "date": "07/15/2026",
+    "moons": "0"
+  },
+  {
+    "level_name": "Quarion",
+    "level_id": 106866157,
+    "difficulty": "Medium Demon",
+    "ticks": 33944,
+    "tps": 240,
+    "authors": [
+      "RichConnerGMN"
+    ],
+    "video": "https://youtu.be/eOQP3Mq_yeM",
+    "download": "https://github.com/seareez/seareez.github.io/blob/main/macros/106866157_33944t_any.slc",
+    "format": "slc",
+    "date": "7/31/2026",
+    "moons": "10"
+  },
+  {
+    "level_name": "Quarion",
+    "level_id": 106866157,
+    "difficulty": "Medium Demon",
+    "ticks": 20203,
+    "tps": 240,
+    "authors": [
+      "RichConnerGMN"
+    ],
+    "video": "https://youtu.be/Ur0D8J9yw8g",
+    "download": "https://github.com/seareez/seareez.github.io/blob/main/macros/109851469_20203t_any.slc",
+    "format": "slc",
+    "date": "7/31/2026",
+    "moons": "10"
+  },
+  {
+    "level_name": "Mice On Mercury",
+    "level_id": 97650341,
+    "difficulty": "Hard",
+    "ticks": 7411,
+    "tps": 240,
+    "authors": [
+      "sear"
+    ],
+    "video": "https://youtu.be/S-YIB9eTyPg",
+    "download": "https://github.com/seareez/seareez.github.io/blob/main/macros/97650341_7411t.tcm",
+    "format": "tcm",
+    "date": "07/20/2026",
+    "moons": "5"
+  },
+  {
+    "level_name": "Getting Over It",
+    "level_id": 97480163,
+    "difficulty": "Insane",
+    "ticks": 4095,
+    "tps": 240,
+    "authors": [
+      "GaminGuy"
+    ],
+    "video": "",
+    "download": "https://github.com/seareez/seareez.github.io/blob/main/macros/97480163_4095t.gdr",
+    "format": "gdr",
+    "date": "07/26/2026",
+    "moons": "8"
+  },
+  {
+    "level_name": "Speeeeeeed",
+    "level_id": 110172318,
+    "difficulty": "Hard Demon",
+    "ticks": 7256,
+    "tps": 240,
+    "authors": [
+      "GaminGuy"
+    ],
+    "video": "",
+    "download": "https://github.com/seareez/seareez.github.io/blob/main/macros/110172318_7256t.gdr",
+    "format": "gdr",
+    "date": "07/30/2026",
+    "moons": "10"
+  },
+  {
+    "level_name": "Koshmar",
+    "level_id": 97974182,
+    "difficulty": "Hard",
+    "ticks": 11409,
+    "tps": 240,
+    "authors": [
+      "Taze"
+    ],
+    "video": "https://youtu.be/QgrHMKKYFkw",
+    "download": "https://github.com/seareez/seareez.github.io/blob/main/macros/97974182_110409.tcm",
+    "format": "tcm",
+    "date": "07/31/2026",
+    "moons": "4"
+  },
+  {
+    "level_name": "The Tower",
+    "level_id": 5001,
+    "difficulty": "Hard",
+    "ticks": 17154,
+    "tps": 240,
+    "authors": [
+      "Melting Ice"
+    ],
+    "video": "https://www.youtube.com/watch?v=8OY0EhMDBB4",
+    "download": "https://github.com/seareez/seareez.github.io/blob/main/macros/5001-100_17154t.tcm",
+    "format": "tcm",
+    "date": "08/09/2025",
+    "moons": "0"
+  },
+  {
+    "level_name": "The Sewers",
+    "level_id": 5002,
+    "difficulty": "Harder",
+    "ticks": 21491,
+    "tps": 240,
+    "authors": [
+      "Melting Ice"
+    ],
+    "video": "https://www.youtube.com/watch?v=3RALM8B0M7o",
+    "download": "https://github.com/seareez/seareez.github.io/blob/main/macros/5002-100_21491t.tcm",
+    "format": "tcm",
+    "date": "08/10/2025",
+    "moons": "0"
+  },
+  {
+    "level_name": "The Cellar",
+    "level_id": 5003,
+    "difficulty": "Harder",
+    "ticks": 20386,
+    "tps": 240,
+    "authors": [
+      "Melting Ice"
+    ],
+    "video": "https://www.youtube.com/watch?v=TWoHgGZkh9Q",
+    "download": "https://github.com/seareez/seareez.github.io/blob/main/macros/5003-100_20386t.tcm",
+    "format": "tcm",
+    "date": "05/19/2026",
+    "moons": "0"
+  },
+  {
+    "level_name": "How to platformer",
+    "level_id": 104187415,
+    "difficulty": "Insane Demon",
+    "ticks": 618232,
+    "tps": 240,
+    "authors": [
+      "sear, Fuyu, Melting Ice"
+    ],
+    "video": "https://www.youtube.com/watch?v=8mcbluRGJok",
+    "download": "https://github.com/seareez/seareez.github.io/blob/main/macros/104187415_618232t.tcm",
+    "format": "tcm",
+    "date": "08/03/2026",
+    "moons": "10"
+  },
+  {
+    "level_name": "Tornado",
+    "level_id": 101624652,
+    "difficulty": "Harder",
+    "ticks": 39416,
+    "tps": 240,
+    "authors": [
+      "Ashfalcons44"
+    ],
+    "video": "https://youtu.be/-bZm4ABoTKw?si=QLmf6KyMFMvdpOqV",
+    "download": "",
+    "format": "",
+    "date": "12/09/2024",
+    "moons": "6"
+  },
+  {
+    "level_name": "The Tower",
+    "level_id": 5001,
+    "difficulty": "Hard",
+    "ticks": 17159,
+    "tps": 240,
+    "authors": [
+      "Melting Ice"
+    ],
+    "video": "https://youtu.be/oQpDdzn9o5I?si=tBRJEnXSsFu9fQfy",
+    "download": "",
+    "format": "",
+    "date": "06/06/2025",
+    "moons": "0"
+  },
+  {
+    "level_name": "The Sewers",
+    "level_id": 5002,
+    "difficulty": "Harder",
+    "ticks": 21492,
+    "tps": 240,
+    "authors": [
+      "Melting Ice"
+    ],
+    "video": "https://youtu.be/oQpDdzn9o5I?si=glxYgTgxx1bGpIRH",
+    "download": "",
+    "format": "",
+    "date": "06/06/2025",
+    "moons": "0"
+  },
+  {
+    "level_name": "The Cellar",
+    "level_id": 5003,
+    "difficulty": "Harder",
+    "ticks": 20552,
+    "tps": 240,
+    "authors": [
+      "Melting Ice"
+    ],
+    "video": "https://youtu.be/oQpDdzn9o5I?si=BLYW6Sqegb8NU4FL",
+    "download": "",
+    "format": "",
+    "date": "06/06/2025",
+    "moons": "0"
+  },
+  {
+    "level_name": "The Secret Hollow",
+    "level_id": 5004,
+    "difficulty": "Harder",
+    "ticks": 46799,
+    "tps": 240,
+    "authors": [
+      "Melting Ice"
+    ],
+    "video": "https://youtu.be/oQpDdzn9o5I?si=BLYW6Sqegb8NU4FL",
+    "download": "",
+    "format": "",
+    "date": "06/06/2025",
+    "moons": "0"
+  },
+  {
+    "level_name": "The Cellar",
+    "level_id": 5003,
+    "difficulty": "Harder",
+    "ticks": 20399,
+    "tps": 240,
+    "authors": [
+      "Melting Ice"
+    ],
+    "video": "https://youtu.be/00CHgpXFdyE?si=tzegEGja_dltFuQT",
+    "download": "",
+    "format": "",
+    "date": "06/16/2025",
+    "moons": "0"
+  },
+  {
+    "level_name": "The Sewers",
+    "level_id": 5002,
+    "difficulty": "Harder",
+    "ticks": 17346,
+    "tps": 240,
+    "authors": [
+      "Melting Ice"
+    ],
+    "video": "https://www.youtube.com/watch?v=faQj5ZrKOdc",
+    "download": "https://github.com/seareez/seareez.github.io/blob/main/macros/5002_17346t.tcm",
+    "format": "tcm",
+    "date": "09/02/2026",
+    "moons": "0"
+  },
+  {
+    "level_name": "The Sewers",
+    "level_id": 5002,
+    "difficulty": "Harder",
+    "ticks": 21487,
+    "tps": 240,
+    "authors": [
+      "Melting Ice"
+    ],
+    "video": "https://www.youtube.com/watch?v=QCnxYrBLNec",
+    "download": "https://github.com/seareez/seareez.github.io/blob/main/macros/5002-100_21487t.tcm",
+    "format": "tcm",
+    "date": "09/03/2026",
+    "moons": "0"
+  },
+  {
+    "level_name": "The Sewers",
+    "level_id": 5002,
+    "difficulty": "Harder",
+    "ticks": 21483,
+    "tps": 240,
+    "authors": [
+      "Melting Ice"
+    ],
+    "video": "",
+    "download": "https://github.com/seareez/seareez.github.io/blob/main/macros/5002-100_21483t.tcm",
+    "format": "tcm",
+    "date": "09/03/2026",
+    "moons": "0"
+  },
+  {
+    "level_name": "Press The Button",
+    "level_id": 98552638,
+    "difficulty": "Normal",
+    "ticks": 23124,
+    "tps": 240,
+    "authors": [
+      "GaminGuy"
+    ],
+    "video": "",
+    "download": "https://github.com/seareez/seareez.github.io/blob/main/macros/98552638-End4_23124t.gdr",
+    "format": "gdr",
+    "date": "09/04/2026",
+    "moons": "3"
+  },
+  {
+    "level_name": "GD levels platformer",
+    "level_id": 133560715,
+    "difficulty": "Easy Demon",
+    "ticks": 70423,
+    "tps": 240,
+    "authors": [
+      "sear"
+    ],
+    "video": "https://www.youtube.com/watch?v=fZKaIO7bz0s",
+    "download": "https://github.com/seareez/seareez.github.io/blob/main/macros/133560715_70423t.tcm",
+    "format": "tcm",
+    "date": "09/23/2026",
+    "moons": "10"
+  },
+  {
+    "level_name": "RobTop Rooms",
+    "level_id": 132265312,
+    "difficulty": "Hard",
+    "ticks": 32028,
+    "tps": 240,
+    "authors": [
+      "SkyThePancake"
+    ],
+    "video": "https://youtu.be/jgFWFI36L4Y",
+    "download": "https://github.com/seareez/seareez.github.io/blob/main/macros/132265312_32028t.tcm",
+    "format": "tcm",
+    "date": "09/28/2026",
+    "moons": "5"
+  },
+  {
+    "level_name": "The Tower",
+    "level_id": 5001,
+    "difficulty": "Hard",
+    "ticks": 15565,
+    "tps": 240,
+    "authors": [
+      "Melting Ice"
+    ],
+    "video": "https://www.youtube.com/watch?v=drlxnUzjaKg",
+    "download": "https://github.com/seareez/seareez.github.io/blob/main/macros/5001_15565t.tcm",
+    "format": "tcm",
+    "date": "10/04/2026",
+    "moons": "0"
+  },
+  {
+    "level_name": "The Cellar",
+    "level_id": 5003,
+    "difficulty": "Harder",
+    "ticks": 18315,
+    "tps": 240,
+    "authors": [
+      "Fuyu"
+    ],
+    "video": "https://www.youtube.com/watch?v=DIMrW8x1xd8",
+    "download": "https://github.com/seareez/seareez.github.io/blob/main/macros/5003_18315t.tcm",
+    "format": "tcm",
+    "date": "10/05/2026",
+    "moons": "0"
+  },
+  {
+    "level_name": "Really Fun Sorting",
+    "level_id": 138530778,
+    "difficulty": "Hard Demon",
+    "ticks": 2761,
+    "tps": 240,
+    "authors": [
+      "Melting Ice"
+    ],
+    "video": "",
+    "download": "",
+    "format": "tcm",
+    "date": "05/12/2026",
+    "moons": "10"
+  },
+  {
+    "level_name": "Really Fun Sorting",
+    "level_id": 138530778,
+    "difficulty": "Hard Demon",
+    "ticks": 2734,
+    "tps": 240,
+    "authors": [
+      "RichConnerGMN"
+    ],
+    "video": "",
+    "download": "https://github.com/seareez/seareez.github.io/blob/main/macros/138530778_2734t.slc",
+    "format": "slc",
+    "date": "05/13/2026",
+    "moons": "10"
+  },
+  {
+    "level_name": "Really Fun Sorting",
+    "level_id": 138530778,
+    "difficulty": "Hard Demon",
+    "ticks": 2312,
+    "tps": 240,
+    "authors": [
+      "RichConnerGMN"
+    ],
+    "video": "",
+    "download": "https://github.com/seareez/seareez.github.io/blob/main/macros/138530778_2312t.slc",
+    "format": "slc",
+    "date": "10/07/2026",
+    "moons": "10"
+  },
+  {
+    "level_name": "RobTop Rooms",
+    "level_id": 132265312,
+    "difficulty": "Hard",
+    "ticks": 32660,
+    "tps": 240,
+    "authors": [
+      "SkyThePancake"
+    ],
+    "video": "",
+    "download": "https://github.com/seareez/seareez.github.io/blob/main/macros/132265312_32660t.tcm",
+    "format": "tcm",
+    "date": "10/07/2026",
+    "moons": "5"
+  },
+  {
+    "level_name": "Really Fun Sorting",
+    "level_id": 138530778,
+    "difficulty": "Hard Demon",
+    "ticks": 1640,
+    "tps": 240,
+    "authors": [
+      "RichConnerGMN"
+    ],
+    "video": "https://youtu.be/ONZOTF8_lJI",
+    "download": "https://github.com/seareez/seareez.github.io/blob/main/macros/138530778_1640t.slc",
+    "format": "slc",
+    "date": "10/12/2026",
+    "moons": "10"
+  },
+  {
+    "level_name": "GD levels platformer",
+    "level_id": 133560715,
+    "difficulty": "Easy Demon",
+    "ticks": 67814,
+    "tps": 240,
+    "authors": [
+      "Fuyu"
+    ],
+    "video": "https://www.youtube.com/watch?v=lYRsAEphNa4",
+    "download": "https://github.com/seareez/seareez.github.io/blob/main/macros/133560715_67814t.tcm",
+    "format": "tcm",
+    "date": "10/14/2026",
+    "moons": "10"
+  },
+  {
+    "level_name": "PALETTE",
+    "level_id": 115084216,
+    "difficulty": "Easy Demon",
+    "ticks": 16344,
+    "tps": 240,
+    "authors": [
+      "sear"
+    ],
+    "video": "https://www.youtube.com/watch?v=DqjbKzW48MU",
+    "download": "https://github.com/seareez/seareez.github.io/blob/main/macros/115084216_4086t.tcm",
+    "format": "tcm",
+    "date": "10/15/2026",
+    "moons": "10"
+  }
+]
