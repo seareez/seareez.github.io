@@ -34,10 +34,18 @@ jobs:
       - name: Setup Pages
         uses: actions/configure-pages@v5
 
-      - name: Upload filled runs JSON
+      - name: Prepare Pages artifacts
+        run: |
+          mkdir dist
+          cp -r macros dist/macros
+          cp index.html dist/index.html
+          cp main.js dist/main.js
+          cp filled_runs.json dist/filled_runs.json
+
+      - name: Upload artifacts to Pages
         uses: actions/upload-pages-artifact@v3
         with:
-          path: "filled_runs.json"
+          path: "dist/"
 
   deploy:
     needs: build
